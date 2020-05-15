@@ -1,0 +1,3141 @@
+,state,county,Risk,county,,,,0
+0,Alabama,Autauga,0.529273987,Autauga,,,,0.529273987
+1,Alabama,Baldwin,0.595607877,Baldwin,,,,0.595607877
+2,Alabama,Barbour,0.601465762,Barbour,,,,0.601465762
+3,Alabama,Bibb,0.632182777,Bibb,,,,0.632182777
+4,Alabama,Blount,0.606040716,Blount,,,,0.606040716
+5,Alabama,Bullock,0.759678125,Bullock,,,,0.759678125
+6,Alabama,Butler,0.716348231,Butler,,,,0.716348231
+7,Alabama,Calhoun,0.677526414,Calhoun,,,,0.677526414
+8,Alabama,Chambers,0.63446337,Chambers,,,,0.63446337
+9,Alabama,Cherokee,0.650936306,Cherokee,,,,0.650936306
+10,Alabama,Chilton,0.548425138,Chilton,,,,0.548425138
+11,Alabama,Choctaw,0.702444851,Choctaw,,,,0.702444851
+12,Alabama,Clarke,0.731396139,Clarke,,,,0.731396139
+13,Alabama,Clay,0.581304729,Clay,,,,0.581304729
+14,Alabama,Cleburne,0.523245871,Cleburne,,,,0.523245871
+15,Alabama,Coffee,0.593226194,Coffee,,,,0.593226194
+16,Alabama,Colbert,0.622769058,Colbert,,,,0.622769058
+17,Alabama,Conecuh,0.791535378,Conecuh,,,,0.791535378
+18,Alabama,Coosa,0.718119264,Coosa,,,,0.718119264
+19,Alabama,Covington,0.589460254,Covington,,,,0.589460254
+20,Alabama,Crenshaw,0.652680874,Crenshaw,,,,0.652680874
+21,Alabama,Cullman,0.595156848,Cullman,,,,0.595156848
+22,Alabama,Dale,0.642875671,Dale,,,,0.642875671
+23,Alabama,Dallas,0.66275847,Dallas,,,,0.66275847
+24,Alabama,DeKalb,0.479008526,DeKalb,,,,0.479008526
+25,Alabama,Elmore,0.614472091,Elmore,,,,0.614472091
+26,Alabama,Escambia,0.64621675,Escambia,,,,0.64621675
+27,Alabama,Etowah,0.675700545,Etowah,,,,0.675700545
+28,Alabama,Fayette,0.743197024,Fayette,,,,0.743197024
+29,Alabama,Franklin,0.519933581,Franklin,,,,0.519933581
+30,Alabama,Geneva,0.635043561,Geneva,,,,0.635043561
+31,Alabama,Greene,0.734227777,Greene,,,,0.734227777
+32,Alabama,Hale,0.707261562,Hale,,,,0.707261562
+33,Alabama,Henry,0.685469508,Henry,,,,0.685469508
+34,Alabama,Houston,0.590843916,Houston,,,,0.590843916
+35,Alabama,Jackson,0.641932309,Jackson,,,,0.641932309
+36,Alabama,Jefferson,0.575541496,Jefferson,,,,0.575541496
+37,Alabama,Lamar,0.712280214,Lamar,,,,0.712280214
+38,Alabama,Lauderdale,0.591149211,Lauderdale,,,,0.591149211
+39,Alabama,Lawrence,0.677908182,Lawrence,,,,0.677908182
+40,Alabama,Lee,0.470864058,Lee,,,,0.470864058
+41,Alabama,Limestone,0.588749528,Limestone,,,,0.588749528
+42,Alabama,Lowndes,0.668005586,Lowndes,,,,0.668005586
+43,Alabama,Macon,0.80680126,Macon,,,,0.80680126
+44,Alabama,Madison,0.589433193,Madison,,,,0.589433193
+45,Alabama,Marengo,0.670071721,Marengo,,,,0.670071721
+46,Alabama,Marion,0.704949319,Marion,,,,0.704949319
+47,Alabama,Marshall,0.489625216,Marshall,,,,0.489625216
+48,Alabama,Mobile,0.56302917,Mobile,,,,0.56302917
+49,Alabama,Monroe,0.673326373,Monroe,,,,0.673326373
+50,Alabama,Montgomery,0.561166227,Montgomery,,,,0.561166227
+51,Alabama,Morgan,0.540934145,Morgan,,,,0.540934145
+52,Alabama,Perry,0.769532621,Perry,,,,0.769532621
+53,Alabama,Pickens,0.680122733,Pickens,,,,0.680122733
+54,Alabama,Pike,0.647707343,Pike,,,,0.647707343
+55,Alabama,Randolph,0.633525193,Randolph,,,,0.633525193
+56,Alabama,Russell,0.640993953,Russell,,,,0.640993953
+57,Alabama,St.,0.596199036,St.,,,,0.596199036
+58,Alabama,Shelby,0.591845632,Shelby,,,,0.591845632
+59,Alabama,Sumter,0.759299815,Sumter,,,,0.759299815
+60,Alabama,Talladega,0.691934168,Talladega,,,,0.691934168
+61,Alabama,Tallapoosa,0.662237585,Tallapoosa,,,,0.662237585
+62,Alabama,Tuscaloosa,0.570603371,Tuscaloosa,,,,0.570603371
+63,Alabama,Walker,0.648505211,Walker,,,,0.648505211
+64,Alabama,Washington,0.698198199,Washington,,,,0.698198199
+65,Alabama,Wilcox,0.768162012,Wilcox,,,,0.768162012
+66,Alabama,Winston,0.695666015,Winston,,,,0.695666015
+67,Alaska,Aleutians,0.529781699,Aleutians,,,,0.529781699
+68,Alaska,Aleutians,0.315875351,Aleutians,,,,0.315875351
+69,Alaska,Anchorage,0.357561797,Anchorage,,,,0.357561797
+70,Alaska,Bethel,0.222532094,Bethel,,,,0.222532094
+71,Alaska,Bristol,0.489513308,Bristol,,,,0.489513308
+72,Alaska,Denali,0.495946884,Denali,,,,0.495946884
+73,Alaska,Dillingham,0.270979464,Dillingham,,,,0.270979464
+74,Alaska,Fairbanks,0.355856299,Fairbanks,,,,0.355856299
+75,Alaska,Haines,0.563688278,Haines,,,,0.563688278
+76,Alaska,Hoonah-Angoon,0.57568872,Hoonah-Angoon,,,,0.57568872
+77,Alaska,Juneau,0.501559556,Juneau,,,,0.501559556
+78,Alaska,Kenai,0.470467597,Kenai,,,,0.470467597
+79,Alaska,Ketchikan,0.403120607,Ketchikan,,,,0.403120607
+80,Alaska,Kodiak,0.267755389,Kodiak,,,,0.267755389
+81,Alaska,Lake,0.389168113,Lake,,,,0.389168113
+82,Alaska,Matanuska-Susitna,0.45233199,Matanuska-Susitna,,,,0.45233199
+83,Alaska,Nome,0.228199199,Nome,,,,0.228199199
+84,Alaska,North,0.230770648,North,,,,0.230770648
+85,Alaska,Northwest,0.23521091,Northwest,,,,0.23521091
+86,Alaska,Petersburg,0.432152212,Petersburg,,,,0.432152212
+87,Alaska,Prince,0.537266195,Prince,,,,0.537266195
+88,Alaska,Sitka,0.415910214,Sitka,,,,0.415910214
+89,Alaska,Skagway,0.491834015,Skagway,,,,0.491834015
+90,Alaska,Southeast,0.300136983,Southeast,,,,0.300136983
+91,Alaska,Valdez-Cordova,0.39024657,Valdez-Cordova,,,,0.39024657
+92,Alaska,Wrangell,0.571611166,Wrangell,,,,0.571611166
+93,Alaska,Yakutat,0.525515735,Yakutat,,,,0.525515735
+94,Alaska,Yukon-Koyukuk,0.443920761,Yukon-Koyukuk,,,,0.443920761
+95,Arizona,Apache,0.55952543,Apache,,,,0.55952543
+96,Arizona,Cochise,0.496631205,Cochise,,,,0.496631205
+97,Arizona,Coconino,0.438393325,Coconino,,,,0.438393325
+98,Arizona,Gila,0.678462148,Gila,,,,0.678462148
+99,Arizona,Graham,0.325080156,Graham,,,,0.325080156
+100,Arizona,Greenlee,0.278940588,Greenlee,,,,0.278940588
+101,Arizona,La,0.660243213,La,,,,0.660243213
+102,Arizona,Maricopa,0.466413587,Maricopa,,,,0.466413587
+103,Arizona,Mohave,0.687107563,Mohave,,,,0.687107563
+104,Arizona,Navajo,0.505061507,Navajo,,,,0.505061507
+105,Arizona,Pima,0.438335508,Pima,,,,0.438335508
+106,Arizona,Pinal,0.546193242,Pinal,,,,0.546193242
+107,Arizona,Santa,0.22625196,Santa,,,,0.22625196
+108,Arizona,Yavapai,0.678104162,Yavapai,,,,0.678104162
+109,Arizona,Yuma,0.359519601,Yuma,,,,0.359519601
+110,Arkansas,Arkansas,0.65868175,Arkansas,,,,0.65868175
+111,Arkansas,Ashley,0.572160661,Ashley,,,,0.572160661
+112,Arkansas,Baxter,0.702607155,Baxter,,,,0.702607155
+113,Arkansas,Benton,0.32561329,Benton,,,,0.32561329
+114,Arkansas,Boone,0.486460239,Boone,,,,0.486460239
+115,Arkansas,Bradley,0.551571548,Bradley,,,,0.551571548
+116,Arkansas,Calhoun,0.679226339,Calhoun,,,,0.679226339
+117,Arkansas,Carroll,0.459382653,Carroll,,,,0.459382653
+118,Arkansas,Chicot,0.528138399,Chicot,,,,0.528138399
+119,Arkansas,Clark,0.580161273,Clark,,,,0.580161273
+120,Arkansas,Clay,0.573098958,Clay,,,,0.573098958
+121,Arkansas,Cleburne,0.547331929,Cleburne,,,,0.547331929
+122,Arkansas,Cleveland,0.655101776,Cleveland,,,,0.655101776
+123,Arkansas,Columbia,0.684842587,Columbia,,,,0.684842587
+124,Arkansas,Conway,0.599712849,Conway,,,,0.599712849
+125,Arkansas,Craighead,0.434254825,Craighead,,,,0.434254825
+126,Arkansas,Crawford,0.565583766,Crawford,,,,0.565583766
+127,Arkansas,Crittenden,0.53260833,Crittenden,,,,0.53260833
+128,Arkansas,Cross,0.555279076,Cross,,,,0.555279076
+129,Arkansas,Dallas,0.498955905,Dallas,,,,0.498955905
+130,Arkansas,Desha,0.54610616,Desha,,,,0.54610616
+131,Arkansas,Drew,0.689817488,Drew,,,,0.689817488
+132,Arkansas,Faulkner,0.482037604,Faulkner,,,,0.482037604
+133,Arkansas,Franklin,0.547877073,Franklin,,,,0.547877073
+134,Arkansas,Fulton,0.653676569,Fulton,,,,0.653676569
+135,Arkansas,Garland,0.646093011,Garland,,,,0.646093011
+136,Arkansas,Grant,0.587846637,Grant,,,,0.587846637
+137,Arkansas,Greene,0.538452625,Greene,,,,0.538452625
+138,Arkansas,Hempstead,0.570890307,Hempstead,,,,0.570890307
+139,Arkansas,Hot,0.627529442,Hot,,,,0.627529442
+140,Arkansas,Howard,0.467641741,Howard,,,,0.467641741
+141,Arkansas,Independence,0.538857281,Independence,,,,0.538857281
+142,Arkansas,Izard,0.655668974,Izard,,,,0.655668974
+143,Arkansas,Jackson,0.714260757,Jackson,,,,0.714260757
+144,Arkansas,Jefferson,0.631948888,Jefferson,,,,0.631948888
+145,Arkansas,Johnson,0.388731956,Johnson,,,,0.388731956
+146,Arkansas,Lafayette,0.801917136,Lafayette,,,,0.801917136
+147,Arkansas,Lawrence,0.501194954,Lawrence,,,,0.501194954
+148,Arkansas,Lee,0.669679761,Lee,,,,0.669679761
+149,Arkansas,Lincoln,0.551004529,Lincoln,,,,0.551004529
+150,Arkansas,Little,0.691355228,Little,,,,0.691355228
+151,Arkansas,Logan,0.631317437,Logan,,,,0.631317437
+152,Arkansas,Lonoke,0.454448432,Lonoke,,,,0.454448432
+153,Arkansas,Madison,0.526707172,Madison,,,,0.526707172
+154,Arkansas,Marion,0.734398365,Marion,,,,0.734398365
+155,Arkansas,Miller,0.56164223,Miller,,,,0.56164223
+156,Arkansas,Mississippi,0.528656304,Mississippi,,,,0.528656304
+157,Arkansas,Monroe,0.648879707,Monroe,,,,0.648879707
+158,Arkansas,Montgomery,0.693390608,Montgomery,,,,0.693390608
+159,Arkansas,Nevada,0.596971393,Nevada,,,,0.596971393
+160,Arkansas,Newton,0.573140085,Newton,,,,0.573140085
+161,Arkansas,Ouachita,0.648652732,Ouachita,,,,0.648652732
+162,Arkansas,Perry,0.603214622,Perry,,,,0.603214622
+163,Arkansas,Phillips,0.564671457,Phillips,,,,0.564671457
+164,Arkansas,Pike,0.570255101,Pike,,,,0.570255101
+165,Arkansas,Poinsett,0.615535319,Poinsett,,,,0.615535319
+166,Arkansas,Polk,0.568836093,Polk,,,,0.568836093
+167,Arkansas,Pope,0.526668668,Pope,,,,0.526668668
+168,Arkansas,Prairie,0.639124811,Prairie,,,,0.639124811
+169,Arkansas,Pulaski,0.491272211,Pulaski,,,,0.491272211
+170,Arkansas,Randolph,0.598893106,Randolph,,,,0.598893106
+171,Arkansas,St.,0.661506534,St.,,,,0.661506534
+172,Arkansas,Saline,0.533336878,Saline,,,,0.533336878
+173,Arkansas,Scott,0.592787385,Scott,,,,0.592787385
+174,Arkansas,Searcy,0.614387989,Searcy,,,,0.614387989
+175,Arkansas,Sebastian,0.410036802,Sebastian,,,,0.410036802
+176,Arkansas,Sevier,0.316506177,Sevier,,,,0.316506177
+177,Arkansas,Sharp,0.680713654,Sharp,,,,0.680713654
+178,Arkansas,Stone,0.722914815,Stone,,,,0.722914815
+179,Arkansas,Union,0.518624187,Union,,,,0.518624187
+180,Arkansas,Van,0.597876191,Van,,,,0.597876191
+181,Arkansas,Washington,0.330214709,Washington,,,,0.330214709
+182,Arkansas,White,0.520222962,White,,,,0.520222962
+183,Arkansas,Woodruff,0.741926908,Woodruff,,,,0.741926908
+184,Arkansas,Yell,0.473742634,Yell,,,,0.473742634
+185,California,Alameda,0.459513903,Alameda,,,,0.459513903
+186,California,Alpine,0.590533853,Alpine,,,,0.590533853
+187,California,Amador,0.667681634,Amador,,,,0.667681634
+188,California,Butte,0.53698349,Butte,,,,0.53698349
+189,California,Calaveras,0.618371785,Calaveras,,,,0.618371785
+190,California,Colusa,0.409236044,Colusa,,,,0.409236044
+191,California,Contra,0.437500894,Contra,,,,0.437500894
+192,California,Del,0.450816423,Del,,,,0.450816423
+193,California,El,0.60261488,El,,,,0.60261488
+194,California,Fresno,0.229087844,Fresno,,,,0.229087844
+195,California,Glenn,0.289685845,Glenn,,,,0.289685845
+196,California,Humboldt,0.540712893,Humboldt,,,,0.540712893
+197,California,Imperial,0.239557058,Imperial,,,,0.239557058
+198,California,Inyo,0.492569327,Inyo,,,,0.492569327
+199,California,Kern,0.261110485,Kern,,,,0.261110485
+200,California,Kings,0.276551545,Kings,,,,0.276551545
+201,California,Lake,0.499455988,Lake,,,,0.499455988
+202,California,Lassen,0.599870205,Lassen,,,,0.599870205
+203,California,Los,0.475123733,Los,,,,0.475123733
+204,California,Madera,0.292831987,Madera,,,,0.292831987
+205,California,Marin,0.485963672,Marin,,,,0.485963672
+206,California,Mariposa,0.573488414,Mariposa,,,,0.573488414
+207,California,Mendocino,0.395663798,Mendocino,,,,0.395663798
+208,California,Merced,0.256837904,Merced,,,,0.256837904
+209,California,Modoc,0.655245304,Modoc,,,,0.655245304
+210,California,Mono,0.43785879,Mono,,,,0.43785879
+211,California,Monterey,0.21839121,Monterey,,,,0.21839121
+212,California,Napa,0.39808026,Napa,,,,0.39808026
+213,California,Nevada,0.616688609,Nevada,,,,0.616688609
+214,California,Orange,0.401045471,Orange,,,,0.401045471
+215,California,Placer,0.511766851,Placer,,,,0.511766851
+216,California,Plumas,0.690379381,Plumas,,,,0.690379381
+217,California,Riverside,0.408892304,Riverside,,,,0.408892304
+218,California,Sacramento,0.469505787,Sacramento,,,,0.469505787
+219,California,San,0.2618756,San,,,,0.2618756
+220,California,San,0.316387892,San,,,,0.316387892
+221,California,San,0.459205002,San,,,,0.459205002
+222,California,San,0.541411579,San,,,,0.541411579
+223,California,San,0.26661247,San,,,,0.26661247
+224,California,San,0.461528361,San,,,,0.461528361
+225,California,San,0.4268668,San,,,,0.4268668
+226,California,Santa,0.244082347,Santa,,,,0.244082347
+227,California,Santa,0.397534281,Santa,,,,0.397534281
+228,California,Santa,0.380601019,Santa,,,,0.380601019
+229,California,Shasta,0.53617692,Shasta,,,,0.53617692
+230,California,Sierra,0.614419699,Sierra,,,,0.614419699
+231,California,Siskiyou,0.621695459,Siskiyou,,,,0.621695459
+232,California,Solano,0.457973957,Solano,,,,0.457973957
+233,California,Sonoma,0.456514269,Sonoma,,,,0.456514269
+234,California,Stanislaus,0.314889908,Stanislaus,,,,0.314889908
+235,California,Sutter,0.321442187,Sutter,,,,0.321442187
+236,California,Tehama,0.413164973,Tehama,,,,0.413164973
+237,California,Trinity,0.605156124,Trinity,,,,0.605156124
+238,California,Tulare,0.224739939,Tulare,,,,0.224739939
+239,California,Tuolumne,0.620923102,Tuolumne,,,,0.620923102
+240,California,Ventura,0.371525198,Ventura,,,,0.371525198
+241,California,Yolo,0.361674666,Yolo,,,,0.361674666
+242,California,Yuba,0.387418598,Yuba,,,,0.387418598
+243,Colorado,Adams,0.232290462,Adams,,,,0.232290462
+244,Colorado,Alamosa,0.269413799,Alamosa,,,,0.269413799
+245,Colorado,Arapahoe,0.34698835,Arapahoe,,,,0.34698835
+246,Colorado,Archuleta,0.403490037,Archuleta,,,,0.403490037
+247,Colorado,Baca,0.512527168,Baca,,,,0.512527168
+248,Colorado,Bent,0.333299994,Bent,,,,0.333299994
+249,Colorado,Boulder,0.413677305,Boulder,,,,0.413677305
+250,Colorado,Broomfield,0.459102631,Broomfield,,,,0.459102631
+251,Colorado,Chaffee,0.474422306,Chaffee,,,,0.474422306
+252,Colorado,Cheyenne,0.393739313,Cheyenne,,,,0.393739313
+253,Colorado,Clear,0.549179018,Clear,,,,0.549179018
+254,Colorado,Conejos,0.274020195,Conejos,,,,0.274020195
+255,Colorado,Costilla,0.385399222,Costilla,,,,0.385399222
+256,Colorado,Crowley,0.374904513,Crowley,,,,0.374904513
+257,Colorado,Custer,0.518443704,Custer,,,,0.518443704
+258,Colorado,Delta,0.363757819,Delta,,,,0.363757819
+259,Colorado,Denver,0.406606525,Denver,,,,0.406606525
+260,Colorado,Dolores,0.458760351,Dolores,,,,0.458760351
+261,Colorado,Douglas,0.43835929,Douglas,,,,0.43835929
+262,Colorado,Eagle,0.299817979,Eagle,,,,0.299817979
+263,Colorado,Elbert,0.45266369,Elbert,,,,0.45266369
+264,Colorado,El,0.33999002,El,,,,0.33999002
+265,Colorado,Fremont,0.419195771,Fremont,,,,0.419195771
+266,Colorado,Garfield,0.230201781,Garfield,,,,0.230201781
+267,Colorado,Gilpin,0.505966127,Gilpin,,,,0.505966127
+268,Colorado,Grand,0.391051948,Grand,,,,0.391051948
+269,Colorado,Gunnison,0.451941103,Gunnison,,,,0.451941103
+270,Colorado,Hinsdale,0.533931971,Hinsdale,,,,0.533931971
+271,Colorado,Huerfano,0.468029141,Huerfano,,,,0.468029141
+272,Colorado,Jackson,0.450821072,Jackson,,,,0.450821072
+273,Colorado,Jefferson,0.478206009,Jefferson,,,,0.478206009
+274,Colorado,Kiowa,0.459135681,Kiowa,,,,0.459135681
+275,Colorado,Kit,0.276641965,Kit,,,,0.276641965
+276,Colorado,Lake,0.302442938,Lake,,,,0.302442938
+277,Colorado,La,0.422670603,La,,,,0.422670603
+278,Colorado,Larimer,0.47508204,Larimer,,,,0.47508204
+279,Colorado,Las,0.360307246,Las,,,,0.360307246
+280,Colorado,Lincoln,0.290620953,Lincoln,,,,0.290620953
+281,Colorado,Logan,0.419072002,Logan,,,,0.419072002
+282,Colorado,Mesa,0.41748479,Mesa,,,,0.41748479
+283,Colorado,Mineral,0.556575716,Mineral,,,,0.556575716
+284,Colorado,Moffat,0.261129946,Moffat,,,,0.261129946
+285,Colorado,Montezuma,0.461218476,Montezuma,,,,0.461218476
+286,Colorado,Montrose,0.319288552,Montrose,,,,0.319288552
+287,Colorado,Morgan,0.221023664,Morgan,,,,0.221023664
+288,Colorado,Otero,0.319618702,Otero,,,,0.319618702
+289,Colorado,Ouray,0.536757827,Ouray,,,,0.536757827
+290,Colorado,Park,0.505958796,Park,,,,0.505958796
+291,Colorado,Phillips,0.287618846,Phillips,,,,0.287618846
+292,Colorado,Pitkin,0.484560728,Pitkin,,,,0.484560728
+293,Colorado,Prowers,0.296015948,Prowers,,,,0.296015948
+294,Colorado,Pueblo,0.352784663,Pueblo,,,,0.352784663
+295,Colorado,Rio,0.350803673,Rio,,,,0.350803673
+296,Colorado,Rio,0.278253615,Rio,,,,0.278253615
+297,Colorado,Routt,0.481852055,Routt,,,,0.481852055
+298,Colorado,Saguache,0.381955326,Saguache,,,,0.381955326
+299,Colorado,San,0.477908403,San,,,,0.477908403
+300,Colorado,San,0.394425571,San,,,,0.394425571
+301,Colorado,Sedgwick,0.550808668,Sedgwick,,,,0.550808668
+302,Colorado,Summit,0.419580728,Summit,,,,0.419580728
+303,Colorado,Teller,0.475201637,Teller,,,,0.475201637
+304,Colorado,Washington,0.49649334,Washington,,,,0.49649334
+305,Colorado,Weld,0.265081704,Weld,,,,0.265081704
+306,Colorado,Yuma,0.253792644,Yuma,,,,0.253792644
+307,Connecticut,Fairfield,0.446132243,Fairfield,,,,0.446132243
+308,Connecticut,Hartford,0.444339365,Hartford,,,,0.444339365
+309,Connecticut,Litchfield,0.489889562,Litchfield,,,,0.489889562
+310,Connecticut,Middlesex,0.580177665,Middlesex,,,,0.580177665
+311,Connecticut,New,0.490155011,New,,,,0.490155011
+312,Connecticut,New,0.461097479,New,,,,0.461097479
+313,Connecticut,Tolland,0.567981064,Tolland,,,,0.567981064
+314,Connecticut,Windham,0.452031344,Windham,,,,0.452031344
+315,Delaware,Kent,0.535961509,Kent,,,,0.535961509
+316,Delaware,New,0.534398675,New,,,,0.534398675
+317,Delaware,Sussex,0.543805897,Sussex,,,,0.543805897
+318,District of Columbia,District,0.597580254,District,,,,0.597580254
+319,Florida,Alachua,0.594527245,Alachua,,,,0.594527245
+320,Florida,Baker,0.591929197,Baker,,,,0.591929197
+321,Florida,Bay,0.586411536,Bay,,,,0.586411536
+322,Florida,Bradford,0.615023851,Bradford,,,,0.615023851
+323,Florida,Brevard,0.684042037,Brevard,,,,0.684042037
+324,Florida,Broward,0.515312612,Broward,,,,0.515312612
+325,Florida,Calhoun,0.675507545,Calhoun,,,,0.675507545
+326,Florida,Charlotte,0.760136664,Charlotte,,,,0.760136664
+327,Florida,Citrus,0.75188446,Citrus,,,,0.75188446
+328,Florida,Clay,0.625333369,Clay,,,,0.625333369
+329,Florida,Collier,0.456295162,Collier,,,,0.456295162
+330,Florida,Columbia,0.69714576,Columbia,,,,0.69714576
+331,Florida,DeSoto,0.518078148,DeSoto,,,,0.518078148
+332,Florida,Dixie,0.668830037,Dixie,,,,0.668830037
+333,Florida,Duval,0.567656696,Duval,,,,0.567656696
+334,Florida,Escambia,0.660868526,Escambia,,,,0.660868526
+335,Florida,Flagler,0.680867851,Flagler,,,,0.680867851
+336,Florida,Franklin,0.634177268,Franklin,,,,0.634177268
+337,Florida,Gadsden,0.672730684,Gadsden,,,,0.672730684
+338,Florida,Gilchrist,0.694965065,Gilchrist,,,,0.694965065
+339,Florida,Glades,0.746658683,Glades,,,,0.746658683
+340,Florida,Gulf,0.613387942,Gulf,,,,0.613387942
+341,Florida,Hamilton,0.671446383,Hamilton,,,,0.671446383
+342,Florida,Hardee,0.346250832,Hardee,,,,0.346250832
+343,Florida,Hendry,0.303094596,Hendry,,,,0.303094596
+344,Florida,Hernando,0.725428224,Hernando,,,,0.725428224
+345,Florida,Highlands,0.657133579,Highlands,,,,0.657133579
+346,Florida,Hillsborough,0.436447203,Hillsborough,,,,0.436447203
+347,Florida,Holmes,0.631018102,Holmes,,,,0.631018102
+348,Florida,Indian,0.721099257,Indian,,,,0.721099257
+349,Florida,Jackson,0.666830719,Jackson,,,,0.666830719
+350,Florida,Jefferson,0.675858676,Jefferson,,,,0.675858676
+351,Florida,Lafayette,0.570093572,Lafayette,,,,0.570093572
+352,Florida,Lake,0.65546906,Lake,,,,0.65546906
+353,Florida,Lee,0.564669728,Lee,,,,0.564669728
+354,Florida,Leon,0.568960369,Leon,,,,0.568960369
+355,Florida,Levy,0.728809536,Levy,,,,0.728809536
+356,Florida,Liberty,0.655207574,Liberty,,,,0.655207574
+357,Florida,Madison,0.702841699,Madison,,,,0.702841699
+358,Florida,Manatee,0.594037831,Manatee,,,,0.594037831
+359,Florida,Marion,0.684341788,Marion,,,,0.684341788
+360,Florida,Martin,0.549023271,Martin,,,,0.549023271
+361,Florida,Miami-Dade,0.294793308,Miami-Dade,,,,0.294793308
+362,Florida,Monroe,0.526934981,Monroe,,,,0.526934981
+363,Florida,Nassau,0.670173764,Nassau,,,,0.670173764
+364,Florida,Okaloosa,0.582445741,Okaloosa,,,,0.582445741
+365,Florida,Okeechobee,0.547714233,Okeechobee,,,,0.547714233
+366,Florida,Orange,0.409437567,Orange,,,,0.409437567
+367,Florida,Osceola,0.44278878,Osceola,,,,0.44278878
+368,Florida,Palm,0.602392673,Palm,,,,0.602392673
+369,Florida,Pasco,0.647689521,Pasco,,,,0.647689521
+370,Florida,Pinellas,0.692196906,Pinellas,,,,0.692196906
+371,Florida,Polk,0.547621667,Polk,,,,0.547621667
+372,Florida,Putnam,0.700763881,Putnam,,,,0.700763881
+373,Florida,St.,0.587471008,St.,,,,0.587471008
+374,Florida,St.,0.593076646,St.,,,,0.593076646
+375,Florida,Santa,0.624278605,Santa,,,,0.624278605
+376,Florida,Sarasota,0.693439901,Sarasota,,,,0.693439901
+377,Florida,Seminole,0.55428791,Seminole,,,,0.55428791
+378,Florida,Sumter,0.785836935,Sumter,,,,0.785836935
+379,Florida,Suwannee,0.654878855,Suwannee,,,,0.654878855
+380,Florida,Taylor,0.680962503,Taylor,,,,0.680962503
+381,Florida,Union,0.64104712,Union,,,,0.64104712
+382,Florida,Volusia,0.648345113,Volusia,,,,0.648345113
+383,Florida,Wakulla,0.549734473,Wakulla,,,,0.549734473
+384,Florida,Walton,0.581504464,Walton,,,,0.581504464
+385,Florida,Washington,0.642719865,Washington,,,,0.642719865
+386,Georgia,Appling,0.496077657,Appling,,,,0.496077657
+387,Georgia,Atkinson,0.389656931,Atkinson,,,,0.389656931
+388,Georgia,Bacon,0.485637575,Bacon,,,,0.485637575
+389,Georgia,Baker,0.632927299,Baker,,,,0.632927299
+390,Georgia,Baldwin,0.510132492,Baldwin,,,,0.510132492
+391,Georgia,Banks,0.413691789,Banks,,,,0.413691789
+392,Georgia,Barrow,0.41679281,Barrow,,,,0.41679281
+393,Georgia,Bartow,0.41219753,Bartow,,,,0.41219753
+394,Georgia,Ben,0.506109953,Ben,,,,0.506109953
+395,Georgia,Berrien,0.410045236,Berrien,,,,0.410045236
+396,Georgia,Bibb,0.475391567,Bibb,,,,0.475391567
+397,Georgia,Bleckley,0.48305431,Bleckley,,,,0.48305431
+398,Georgia,Brantley,0.389843464,Brantley,,,,0.389843464
+399,Georgia,Brooks,0.527244925,Brooks,,,,0.527244925
+400,Georgia,Bryan,0.319929868,Bryan,,,,0.319929868
+401,Georgia,Bulloch,0.546876669,Bulloch,,,,0.546876669
+402,Georgia,Burke,0.49416706,Burke,,,,0.49416706
+403,Georgia,Butts,0.466049165,Butts,,,,0.466049165
+404,Georgia,Calhoun,0.650169313,Calhoun,,,,0.650169313
+405,Georgia,Camden,0.504390121,Camden,,,,0.504390121
+406,Georgia,Candler,0.3904998,Candler,,,,0.3904998
+407,Georgia,Carroll,0.433196217,Carroll,,,,0.433196217
+408,Georgia,Catoosa,0.522280157,Catoosa,,,,0.522280157
+409,Georgia,Charlton,0.571344376,Charlton,,,,0.571344376
+410,Georgia,Chatham,0.460857391,Chatham,,,,0.460857391
+411,Georgia,Chattahoochee,0.320156217,Chattahoochee,,,,0.320156217
+412,Georgia,Chattooga,0.415185332,Chattooga,,,,0.415185332
+413,Georgia,Cherokee,0.412089556,Cherokee,,,,0.412089556
+414,Georgia,Clarke,0.41991204,Clarke,,,,0.41991204
+415,Georgia,Clay,0.680699885,Clay,,,,0.680699885
+416,Georgia,Clayton,0.366491258,Clayton,,,,0.366491258
+417,Georgia,Clinch,0.634485364,Clinch,,,,0.634485364
+418,Georgia,Cobb,0.410482615,Cobb,,,,0.410482615
+419,Georgia,Coffee,0.375418514,Coffee,,,,0.375418514
+420,Georgia,Colquitt,0.380077422,Colquitt,,,,0.380077422
+421,Georgia,Columbia,0.458865225,Columbia,,,,0.458865225
+422,Georgia,Cook,0.517285526,Cook,,,,0.517285526
+423,Georgia,Coweta,0.401780814,Coweta,,,,0.401780814
+424,Georgia,Crawford,0.635964274,Crawford,,,,0.635964274
+425,Georgia,Crisp,0.534427464,Crisp,,,,0.534427464
+426,Georgia,Dade,0.618287683,Dade,,,,0.618287683
+427,Georgia,Dawson,0.507933259,Dawson,,,,0.507933259
+428,Georgia,Decatur,0.428460985,Decatur,,,,0.428460985
+429,Georgia,DeKalb,0.425026774,DeKalb,,,,0.425026774
+430,Georgia,Dodge,0.555433154,Dodge,,,,0.555433154
+431,Georgia,Dooly,0.593310118,Dooly,,,,0.593310118
+432,Georgia,Dougherty,0.622449636,Dougherty,,,,0.622449636
+433,Georgia,Douglas,0.403682381,Douglas,,,,0.403682381
+434,Georgia,Early,0.615977287,Early,,,,0.615977287
+435,Georgia,Echols,0.324799985,Echols,,,,0.324799985
+436,Georgia,Effingham,0.373293936,Effingham,,,,0.373293936
+437,Georgia,Elbert,0.416056931,Elbert,,,,0.416056931
+438,Georgia,Emanuel,0.493541509,Emanuel,,,,0.493541509
+439,Georgia,Evans,0.330346167,Evans,,,,0.330346167
+440,Georgia,Fannin,0.567363501,Fannin,,,,0.567363501
+441,Georgia,Fayette,0.494302005,Fayette,,,,0.494302005
+442,Georgia,Floyd,0.365389019,Floyd,,,,0.365389019
+443,Georgia,Forsyth,0.387447059,Forsyth,,,,0.387447059
+444,Georgia,Franklin,0.456872225,Franklin,,,,0.456872225
+445,Georgia,Fulton,0.46861726,Fulton,,,,0.46861726
+446,Georgia,Gilmer,0.557406902,Gilmer,,,,0.557406902
+447,Georgia,Glascock,0.536584735,Glascock,,,,0.536584735
+448,Georgia,Glynn,0.504438877,Glynn,,,,0.504438877
+449,Georgia,Gordon,0.361437857,Gordon,,,,0.361437857
+450,Georgia,Grady,0.535762787,Grady,,,,0.535762787
+451,Georgia,Greene,0.537713289,Greene,,,,0.537713289
+452,Georgia,Gwinnett,0.277855128,Gwinnett,,,,0.277855128
+453,Georgia,Habersham,0.298017561,Habersham,,,,0.298017561
+454,Georgia,Hall,0.236593992,Hall,,,,0.236593992
+455,Georgia,Hancock,0.68933934,Hancock,,,,0.68933934
+456,Georgia,Haralson,0.400261939,Haralson,,,,0.400261939
+457,Georgia,Harris,0.57198149,Harris,,,,0.57198149
+458,Georgia,Hart,0.443598866,Hart,,,,0.443598866
+459,Georgia,Heard,0.511862576,Heard,,,,0.511862576
+460,Georgia,Henry,0.389707327,Henry,,,,0.389707327
+461,Georgia,Houston,0.380407274,Houston,,,,0.380407274
+462,Georgia,Irwin,0.604184747,Irwin,,,,0.604184747
+463,Georgia,Jackson,0.370405406,Jackson,,,,0.370405406
+464,Georgia,Jasper,0.442726463,Jasper,,,,0.442726463
+465,Georgia,Jeff,0.539330482,Jeff,,,,0.539330482
+466,Georgia,Jefferson,0.576241016,Jefferson,,,,0.576241016
+467,Georgia,Jenkins,0.542098522,Jenkins,,,,0.542098522
+468,Georgia,Johnson,0.499723762,Johnson,,,,0.499723762
+469,Georgia,Jones,0.641407788,Jones,,,,0.641407788
+470,Georgia,Lamar,0.634263635,Lamar,,,,0.634263635
+471,Georgia,Lanier,0.716749966,Lanier,,,,0.716749966
+472,Georgia,Laurens,0.50216037,Laurens,,,,0.50216037
+473,Georgia,Lee,0.54110539,Lee,,,,0.54110539
+474,Georgia,Liberty,0.401260108,Liberty,,,,0.401260108
+475,Georgia,Lincoln,0.595636487,Lincoln,,,,0.595636487
+476,Georgia,Long,0.397351474,Long,,,,0.397351474
+477,Georgia,Lowndes,0.459893852,Lowndes,,,,0.459893852
+478,Georgia,Lumpkin,0.47667712,Lumpkin,,,,0.47667712
+479,Georgia,McDuffie,0.543944538,McDuffie,,,,0.543944538
+480,Georgia,McIntosh,0.649536192,McIntosh,,,,0.649536192
+481,Georgia,Macon,0.62815237,Macon,,,,0.62815237
+482,Georgia,Madison,0.497259676,Madison,,,,0.497259676
+483,Georgia,Marion,0.674690545,Marion,,,,0.674690545
+484,Georgia,Meriwether,0.579493761,Meriwether,,,,0.579493761
+485,Georgia,Miller,0.578147769,Miller,,,,0.578147769
+486,Georgia,Mitchell,0.439230472,Mitchell,,,,0.439230472
+487,Georgia,Monroe,0.476146758,Monroe,,,,0.476146758
+488,Georgia,Montgomery,0.478024453,Montgomery,,,,0.478024453
+489,Georgia,Morgan,0.475970805,Morgan,,,,0.475970805
+490,Georgia,Murray,0.43268469,Murray,,,,0.43268469
+491,Georgia,Muscogee,0.478964806,Muscogee,,,,0.478964806
+492,Georgia,Newton,0.535785258,Newton,,,,0.535785258
+493,Georgia,Oconee,0.448705971,Oconee,,,,0.448705971
+494,Georgia,Oglethorpe,0.512472212,Oglethorpe,,,,0.512472212
+495,Georgia,Paulding,0.420156956,Paulding,,,,0.420156956
+496,Georgia,Peach,0.523781776,Peach,,,,0.523781776
+497,Georgia,Pickens,0.43280682,Pickens,,,,0.43280682
+498,Georgia,Pierce,0.557379603,Pierce,,,,0.557379603
+499,Georgia,Pike,0.359254599,Pike,,,,0.359254599
+500,Georgia,Polk,0.375162512,Polk,,,,0.375162512
+501,Georgia,Pulaski,0.644640923,Pulaski,,,,0.644640923
+502,Georgia,Putnam,0.631774962,Putnam,,,,0.631774962
+503,Georgia,Quitman,0.65691328,Quitman,,,,0.65691328
+504,Georgia,Rabun,0.549238622,Rabun,,,,0.549238622
+505,Georgia,Randolph,0.553323507,Randolph,,,,0.553323507
+506,Georgia,Richmond,0.542106569,Richmond,,,,0.542106569
+507,Georgia,Rockdale,0.4672122,Rockdale,,,,0.4672122
+508,Georgia,Schley,0.410502493,Schley,,,,0.410502493
+509,Georgia,Screven,0.539548397,Screven,,,,0.539548397
+510,Georgia,Seminole,0.509288788,Seminole,,,,0.509288788
+511,Georgia,Spalding,0.496536165,Spalding,,,,0.496536165
+512,Georgia,Stephens,0.425876051,Stephens,,,,0.425876051
+513,Georgia,Stewart,0.587606907,Stewart,,,,0.587606907
+514,Georgia,Sumter,0.532069325,Sumter,,,,0.532069325
+515,Georgia,Talbot,0.721772254,Talbot,,,,0.721772254
+516,Georgia,Taliaferro,0.644743681,Taliaferro,,,,0.644743681
+517,Georgia,Tattnall,0.565997303,Tattnall,,,,0.565997303
+518,Georgia,Taylor,0.54352659,Taylor,,,,0.54352659
+519,Georgia,Telfair,0.530909717,Telfair,,,,0.530909717
+520,Georgia,Terrell,0.515886068,Terrell,,,,0.515886068
+521,Georgia,Thomas,0.461924314,Thomas,,,,0.461924314
+522,Georgia,Tift,0.434624076,Tift,,,,0.434624076
+523,Georgia,Toombs,0.404172808,Toombs,,,,0.404172808
+524,Georgia,Towns,0.590751052,Towns,,,,0.590751052
+525,Georgia,Treutlen,0.428387791,Treutlen,,,,0.428387791
+526,Georgia,Troup,0.415684998,Troup,,,,0.415684998
+527,Georgia,Turner,0.525889456,Turner,,,,0.525889456
+528,Georgia,Twiggs,0.701254964,Twiggs,,,,0.701254964
+529,Georgia,Union,0.596628606,Union,,,,0.596628606
+530,Georgia,Upson,0.500594079,Upson,,,,0.500594079
+531,Georgia,Walker,0.513671935,Walker,,,,0.513671935
+532,Georgia,Walton,0.405708432,Walton,,,,0.405708432
+533,Georgia,Ware,0.453703105,Ware,,,,0.453703105
+534,Georgia,Warren,0.643719733,Warren,,,,0.643719733
+535,Georgia,Washington,0.611085176,Washington,,,,0.611085176
+536,Georgia,Wayne,0.386184156,Wayne,,,,0.386184156
+537,Georgia,Webster,0.550583661,Webster,,,,0.550583661
+538,Georgia,Wheeler,0.549583852,Wheeler,,,,0.549583852
+539,Georgia,White,0.477607727,White,,,,0.477607727
+540,Georgia,Whitfield,0.313028574,Whitfield,,,,0.313028574
+541,Georgia,Wilcox,0.646976709,Wilcox,,,,0.646976709
+542,Georgia,Wilkes,0.588407695,Wilkes,,,,0.588407695
+543,Georgia,Wilkinson,0.507592618,Wilkinson,,,,0.507592618
+544,Georgia,Worth,0.682174087,Worth,,,,0.682174087
+545,Hawaii,Hawaii,0.568736911,Hawaii,,,,0.568736911
+546,Hawaii,Honolulu,0.628166318,Honolulu,,,,0.628166318
+547,Hawaii,Kalawao,0.710017741,Kalawao,,,,0.710017741
+548,Hawaii,Kauai,0.526801586,Kauai,,,,0.526801586
+549,Hawaii,Maui,0.483621329,Maui,,,,0.483621329
+550,Idaho,Ada,0.376192063,Ada,,,,0.376192063
+551,Idaho,Adams,0.528493345,Adams,,,,0.528493345
+552,Idaho,Bannock,0.40275842,Bannock,,,,0.40275842
+553,Idaho,Bear,0.311198384,Bear,,,,0.311198384
+554,Idaho,Benewah,0.439969301,Benewah,,,,0.439969301
+555,Idaho,Bingham,0.311880976,Bingham,,,,0.311880976
+556,Idaho,Blaine,0.27943328,Blaine,,,,0.27943328
+557,Idaho,Boise,0.633767724,Boise,,,,0.633767724
+558,Idaho,Bonner,0.485995054,Bonner,,,,0.485995054
+559,Idaho,Bonneville,0.255944848,Bonneville,,,,0.255944848
+560,Idaho,Boundary,0.405189782,Boundary,,,,0.405189782
+561,Idaho,Butte,0.505747378,Butte,,,,0.505747378
+562,Idaho,Camas,0.391700417,Camas,,,,0.391700417
+563,Idaho,Canyon,0.259992242,Canyon,,,,0.259992242
+564,Idaho,Caribou,0.401879132,Caribou,,,,0.401879132
+565,Idaho,Cassia,0.229810998,Cassia,,,,0.229810998
+566,Idaho,Clark,0.233884081,Clark,,,,0.233884081
+567,Idaho,Clearwater,0.608285964,Clearwater,,,,0.608285964
+568,Idaho,Custer,0.609243393,Custer,,,,0.609243393
+569,Idaho,Elmore,0.341871202,Elmore,,,,0.341871202
+570,Idaho,Franklin,0.249375731,Franklin,,,,0.249375731
+571,Idaho,Fremont,0.320849538,Fremont,,,,0.320849538
+572,Idaho,Gem,0.446815968,Gem,,,,0.446815968
+573,Idaho,Gooding,0.267843366,Gooding,,,,0.267843366
+574,Idaho,Idaho,0.532558501,Idaho,,,,0.532558501
+575,Idaho,Jefferson,0.234529421,Jefferson,,,,0.234529421
+576,Idaho,Jerome,0.215902194,Jerome,,,,0.215902194
+577,Idaho,Kootenai,0.515588403,Kootenai,,,,0.515588403
+578,Idaho,Latah,0.46579808,Latah,,,,0.46579808
+579,Idaho,Lemhi,0.55914712,Lemhi,,,,0.55914712
+580,Idaho,Lewis,0.523726165,Lewis,,,,0.523726165
+581,Idaho,Lincoln,0.241777018,Lincoln,,,,0.241777018
+582,Idaho,Madison,0.275236309,Madison,,,,0.275236309
+583,Idaho,Minidoka,0.298790753,Minidoka,,,,0.298790753
+584,Idaho,Nez,0.575200021,Nez,,,,0.575200021
+585,Idaho,Oneida,0.32256335,Oneida,,,,0.32256335
+586,Idaho,Owyhee,0.355085075,Owyhee,,,,0.355085075
+587,Idaho,Payette,0.369184554,Payette,,,,0.369184554
+588,Idaho,Power,0.235897094,Power,,,,0.235897094
+589,Idaho,Shoshone,0.443986803,Shoshone,,,,0.443986803
+590,Idaho,Teton,0.367488474,Teton,,,,0.367488474
+591,Idaho,Twin,0.253825426,Twin,,,,0.253825426
+592,Idaho,Valley,0.465986758,Valley,,,,0.465986758
+593,Idaho,Washington,0.387344807,Washington,,,,0.387344807
+594,Illinois,Adams,0.519583941,Adams,,,,0.519583941
+595,Illinois,Alexander,0.524443865,Alexander,,,,0.524443865
+596,Illinois,Bond,0.478355467,Bond,,,,0.478355467
+597,Illinois,Boone,0.389896393,Boone,,,,0.389896393
+598,Illinois,Brown,0.447087467,Brown,,,,0.447087467
+599,Illinois,Bureau,0.489833474,Bureau,,,,0.489833474
+600,Illinois,Calhoun,0.61380583,Calhoun,,,,0.61380583
+601,Illinois,Carroll,0.480821699,Carroll,,,,0.480821699
+602,Illinois,Cass,0.317089498,Cass,,,,0.317089498
+603,Illinois,Champaign,0.484972239,Champaign,,,,0.484972239
+604,Illinois,Christian,0.538598955,Christian,,,,0.538598955
+605,Illinois,Clark,0.501441061,Clark,,,,0.501441061
+606,Illinois,Clay,0.467102468,Clay,,,,0.467102468
+607,Illinois,Clinton,0.581356525,Clinton,,,,0.581356525
+608,Illinois,Coles,0.557382226,Coles,,,,0.557382226
+609,Illinois,Cook,0.524409115,Cook,,,,0.524409115
+610,Illinois,Crawford,0.540457308,Crawford,,,,0.540457308
+611,Illinois,Cumberland,0.622646153,Cumberland,,,,0.622646153
+612,Illinois,DeKalb,0.422258765,DeKalb,,,,0.422258765
+613,Illinois,De,0.541214228,De,,,,0.541214228
+614,Illinois,Douglas,0.37960723,Douglas,,,,0.37960723
+615,Illinois,DuPage,0.481519997,DuPage,,,,0.481519997
+616,Illinois,Edgar,0.511637628,Edgar,,,,0.511637628
+617,Illinois,Edwards,0.522705913,Edwards,,,,0.522705913
+618,Illinois,Effingham,0.502105832,Effingham,,,,0.502105832
+619,Illinois,Fayette,0.512551486,Fayette,,,,0.512551486
+620,Illinois,Ford,0.432462633,Ford,,,,0.432462633
+621,Illinois,Franklin,0.514808595,Franklin,,,,0.514808595
+622,Illinois,Fulton,0.538734078,Fulton,,,,0.538734078
+623,Illinois,Gallatin,0.604626477,Gallatin,,,,0.604626477
+624,Illinois,Greene,0.509321809,Greene,,,,0.509321809
+625,Illinois,Grundy,0.358767867,Grundy,,,,0.358767867
+626,Illinois,Hamilton,0.629540026,Hamilton,,,,0.629540026
+627,Illinois,Hancock,0.51297617,Hancock,,,,0.51297617
+628,Illinois,Hardin,0.584503055,Hardin,,,,0.584503055
+629,Illinois,Henderson,0.612580657,Henderson,,,,0.612580657
+630,Illinois,Henry,0.563543022,Henry,,,,0.563543022
+631,Illinois,Iroquois,0.467952251,Iroquois,,,,0.467952251
+632,Illinois,Jackson,0.545350909,Jackson,,,,0.545350909
+633,Illinois,Jasper,0.497372866,Jasper,,,,0.497372866
+634,Illinois,Jefferson,0.493923604,Jefferson,,,,0.493923604
+635,Illinois,Jersey,0.591414273,Jersey,,,,0.591414273
+636,Illinois,Jo,0.555371106,Jo,,,,0.555371106
+637,Illinois,Johnson,0.514539421,Johnson,,,,0.514539421
+638,Illinois,Kane,0.344795942,Kane,,,,0.344795942
+639,Illinois,Kankakee,0.459731221,Kankakee,,,,0.459731221
+640,Illinois,Kendall,0.383231401,Kendall,,,,0.383231401
+641,Illinois,Knox,0.594427586,Knox,,,,0.594427586
+642,Illinois,Lake,0.408309937,Lake,,,,0.408309937
+643,Illinois,LaSalle,0.524263978,LaSalle,,,,0.524263978
+644,Illinois,Lawrence,0.590351641,Lawrence,,,,0.590351641
+645,Illinois,Lee,0.47911796,Lee,,,,0.47911796
+646,Illinois,Livingston,0.430856645,Livingston,,,,0.430856645
+647,Illinois,Logan,0.596379519,Logan,,,,0.596379519
+648,Illinois,McDonough,0.608261168,McDonough,,,,0.608261168
+649,Illinois,McHenry,0.457639724,McHenry,,,,0.457639724
+650,Illinois,McLean,0.539996505,McLean,,,,0.539996505
+651,Illinois,Macon,0.560303211,Macon,,,,0.560303211
+652,Illinois,Macoupin,0.576491356,Macoupin,,,,0.576491356
+653,Illinois,Madison,0.562370181,Madison,,,,0.562370181
+654,Illinois,Marion,0.549428046,Marion,,,,0.549428046
+655,Illinois,Marshall,0.568289995,Marshall,,,,0.568289995
+656,Illinois,Mason,0.52514869,Mason,,,,0.52514869
+657,Illinois,Massac,0.699391782,Massac,,,,0.699391782
+658,Illinois,Menard,0.502323687,Menard,,,,0.502323687
+659,Illinois,Mercer,0.532918096,Mercer,,,,0.532918096
+660,Illinois,Monroe,0.565327168,Monroe,,,,0.565327168
+661,Illinois,Montgomery,0.562725723,Montgomery,,,,0.562725723
+662,Illinois,Morgan,0.573404074,Morgan,,,,0.573404074
+663,Illinois,Moultrie,0.416401595,Moultrie,,,,0.416401595
+664,Illinois,Ogle,0.426112741,Ogle,,,,0.426112741
+665,Illinois,Peoria,0.500160336,Peoria,,,,0.500160336
+666,Illinois,Perry,0.471218616,Perry,,,,0.471218616
+667,Illinois,Piatt,0.623091459,Piatt,,,,0.623091459
+668,Illinois,Pike,0.468781203,Pike,,,,0.468781203
+669,Illinois,Pope,0.626209438,Pope,,,,0.626209438
+670,Illinois,Pulaski,0.673250556,Pulaski,,,,0.673250556
+671,Illinois,Putnam,0.489292681,Putnam,,,,0.489292681
+672,Illinois,Randolph,0.491360337,Randolph,,,,0.491360337
+673,Illinois,Richland,0.543985724,Richland,,,,0.543985724
+674,Illinois,Rock,0.535554171,Rock,,,,0.535554171
+675,Illinois,St.,0.546673119,St.,,,,0.546673119
+676,Illinois,Saline,0.544968367,Saline,,,,0.544968367
+677,Illinois,Sangamon,0.567035019,Sangamon,,,,0.567035019
+678,Illinois,Schuyler,0.669709265,Schuyler,,,,0.669709265
+679,Illinois,Scott,0.515749454,Scott,,,,0.515749454
+680,Illinois,Shelby,0.54431659,Shelby,,,,0.54431659
+681,Illinois,Stark,0.456398189,Stark,,,,0.456398189
+682,Illinois,Stephenson,0.554440379,Stephenson,,,,0.554440379
+683,Illinois,Tazewell,0.526088774,Tazewell,,,,0.526088774
+684,Illinois,Union,0.546937704,Union,,,,0.546937704
+685,Illinois,Vermilion,0.549155235,Vermilion,,,,0.549155235
+686,Illinois,Wabash,0.534575105,Wabash,,,,0.534575105
+687,Illinois,Warren,0.56949836,Warren,,,,0.56949836
+688,Illinois,Washington,0.547684371,Washington,,,,0.547684371
+689,Illinois,Wayne,0.568044186,Wayne,,,,0.568044186
+690,Illinois,White,0.480953544,White,,,,0.480953544
+691,Illinois,Whiteside,0.473014444,Whiteside,,,,0.473014444
+692,Illinois,Will,0.421853036,Will,,,,0.421853036
+693,Illinois,Williamson,0.535594046,Williamson,,,,0.535594046
+694,Illinois,Winnebago,0.528380394,Winnebago,,,,0.528380394
+695,Illinois,Woodford,0.531497002,Woodford,,,,0.531497002
+696,Indiana,Adams,0.360714614,Adams,,,,0.360714614
+697,Indiana,Allen,0.425100774,Allen,,,,0.425100774
+698,Indiana,Bartholomew,0.500276625,Bartholomew,,,,0.500276625
+699,Indiana,Benton,0.555074811,Benton,,,,0.555074811
+700,Indiana,Blackford,0.676945865,Blackford,,,,0.676945865
+701,Indiana,Boone,0.484161794,Boone,,,,0.484161794
+702,Indiana,Brown,0.597963035,Brown,,,,0.597963035
+703,Indiana,Carroll,0.52320075,Carroll,,,,0.52320075
+704,Indiana,Cass,0.523235559,Cass,,,,0.523235559
+705,Indiana,Clark,0.542341053,Clark,,,,0.542341053
+706,Indiana,Clay,0.574820161,Clay,,,,0.574820161
+707,Indiana,Clinton,0.465590417,Clinton,,,,0.465590417
+708,Indiana,Crawford,0.569934607,Crawford,,,,0.569934607
+709,Indiana,Daviess,0.326489151,Daviess,,,,0.326489151
+710,Indiana,Dearborn,0.508733809,Dearborn,,,,0.508733809
+711,Indiana,Decatur,0.509562552,Decatur,,,,0.509562552
+712,Indiana,DeKalb,0.469200701,DeKalb,,,,0.469200701
+713,Indiana,Delaware,0.557671905,Delaware,,,,0.557671905
+714,Indiana,Dubois,0.476581335,Dubois,,,,0.476581335
+715,Indiana,Elkhart,0.317190796,Elkhart,,,,0.317190796
+716,Indiana,Fayette,0.527759612,Fayette,,,,0.527759612
+717,Indiana,Floyd,0.593070865,Floyd,,,,0.593070865
+718,Indiana,Fountain,0.587012231,Fountain,,,,0.587012231
+719,Indiana,Franklin,0.548982561,Franklin,,,,0.548982561
+720,Indiana,Fulton,0.47981599,Fulton,,,,0.47981599
+721,Indiana,Gibson,0.493192971,Gibson,,,,0.493192971
+722,Indiana,Grant,0.586191833,Grant,,,,0.586191833
+723,Indiana,Greene,0.517666101,Greene,,,,0.517666101
+724,Indiana,Hamilton,0.499180436,Hamilton,,,,0.499180436
+725,Indiana,Hancock,0.567305505,Hancock,,,,0.567305505
+726,Indiana,Harrison,0.525826037,Harrison,,,,0.525826037
+727,Indiana,Hendricks,0.514797807,Hendricks,,,,0.514797807
+728,Indiana,Henry,0.514425874,Henry,,,,0.514425874
+729,Indiana,Howard,0.570903718,Howard,,,,0.570903718
+730,Indiana,Huntington,0.538648605,Huntington,,,,0.538648605
+731,Indiana,Jackson,0.48209703,Jackson,,,,0.48209703
+732,Indiana,Jasper,0.512708724,Jasper,,,,0.512708724
+733,Indiana,Jay,0.596720278,Jay,,,,0.596720278
+734,Indiana,Jefferson,0.510356605,Jefferson,,,,0.510356605
+735,Indiana,Jennings,0.579529881,Jennings,,,,0.579529881
+736,Indiana,Johnson,0.437269658,Johnson,,,,0.437269658
+737,Indiana,Knox,0.557706118,Knox,,,,0.557706118
+738,Indiana,Kosciusko,0.437440693,Kosciusko,,,,0.437440693
+739,Indiana,LaGrange,0.279031336,LaGrange,,,,0.279031336
+740,Indiana,Lake,0.611939728,Lake,,,,0.611939728
+741,Indiana,LaPorte,0.600463569,LaPorte,,,,0.600463569
+742,Indiana,Lawrence,0.606013477,Lawrence,,,,0.606013477
+743,Indiana,Madison,0.656649172,Madison,,,,0.656649172
+744,Indiana,Marion,0.421971112,Marion,,,,0.421971112
+745,Indiana,Marshall,0.467284083,Marshall,,,,0.467284083
+746,Indiana,Martin,0.51478821,Martin,,,,0.51478821
+747,Indiana,Miami,0.497419506,Miami,,,,0.497419506
+748,Indiana,Monroe,0.566755295,Monroe,,,,0.566755295
+749,Indiana,Montgomery,0.534534752,Montgomery,,,,0.534534752
+750,Indiana,Morgan,0.470704049,Morgan,,,,0.470704049
+751,Indiana,Newton,0.607743561,Newton,,,,0.607743561
+752,Indiana,Noble,0.409549385,Noble,,,,0.409549385
+753,Indiana,Ohio,0.495167375,Ohio,,,,0.495167375
+754,Indiana,Orange,0.488582611,Orange,,,,0.488582611
+755,Indiana,Owen,0.640557528,Owen,,,,0.640557528
+756,Indiana,Parke,0.473073334,Parke,,,,0.473073334
+757,Indiana,Perry,0.49809286,Perry,,,,0.49809286
+758,Indiana,Pike,0.61169064,Pike,,,,0.61169064
+759,Indiana,Porter,0.61491853,Porter,,,,0.61491853
+760,Indiana,Posey,0.565883577,Posey,,,,0.565883577
+761,Indiana,Pulaski,0.44603309,Pulaski,,,,0.44603309
+762,Indiana,Putnam,0.474433511,Putnam,,,,0.474433511
+763,Indiana,Randolph,0.580925465,Randolph,,,,0.580925465
+764,Indiana,Ripley,0.538600147,Ripley,,,,0.538600147
+765,Indiana,Rush,0.465315163,Rush,,,,0.465315163
+766,Indiana,St.,0.535184622,St.,,,,0.535184622
+767,Indiana,Scott,0.523278654,Scott,,,,0.523278654
+768,Indiana,Shelby,0.557265997,Shelby,,,,0.557265997
+769,Indiana,Spencer,0.47036624,Spencer,,,,0.47036624
+770,Indiana,Starke,0.526840329,Starke,,,,0.526840329
+771,Indiana,Steuben,0.50643158,Steuben,,,,0.50643158
+772,Indiana,Sullivan,0.625307977,Sullivan,,,,0.625307977
+773,Indiana,Switzerland,0.665107489,Switzerland,,,,0.665107489
+774,Indiana,Tippecanoe,0.467396617,Tippecanoe,,,,0.467396617
+775,Indiana,Tipton,0.596220493,Tipton,,,,0.596220493
+776,Indiana,Union,0.562586367,Union,,,,0.562586367
+777,Indiana,Vanderburgh,0.58730036,Vanderburgh,,,,0.58730036
+778,Indiana,Vermillion,0.60840261,Vermillion,,,,0.60840261
+779,Indiana,Vigo,0.571702242,Vigo,,,,0.571702242
+780,Indiana,Wabash,0.532110095,Wabash,,,,0.532110095
+781,Indiana,Warren,0.593544602,Warren,,,,0.593544602
+782,Indiana,Warrick,0.585415125,Warrick,,,,0.585415125
+783,Indiana,Washington,0.520775974,Washington,,,,0.520775974
+784,Indiana,Wayne,0.573029637,Wayne,,,,0.573029637
+785,Indiana,Wells,0.448064804,Wells,,,,0.448064804
+786,Indiana,White,0.533587098,White,,,,0.533587098
+787,Indiana,Whitley,0.524229228,Whitley,,,,0.524229228
+788,Iowa,Adair,0.460461676,Adair,,,,0.460461676
+789,Iowa,Adams,0.563472211,Adams,,,,0.563472211
+790,Iowa,Allamakee,0.463656962,Allamakee,,,,0.463656962
+791,Iowa,Appanoose,0.55949074,Appanoose,,,,0.55949074
+792,Iowa,Audubon,0.519258857,Audubon,,,,0.519258857
+793,Iowa,Benton,0.500880599,Benton,,,,0.500880599
+794,Iowa,Black,0.487843126,Black,,,,0.487843126
+795,Iowa,Boone,0.485166043,Boone,,,,0.485166043
+796,Iowa,Bremer,0.521799624,Bremer,,,,0.521799624
+797,Iowa,Buchanan,0.431773007,Buchanan,,,,0.431773007
+798,Iowa,Buena,0.228612795,Buena,,,,0.228612795
+799,Iowa,Butler,0.473262876,Butler,,,,0.473262876
+800,Iowa,Calhoun,0.487776309,Calhoun,,,,0.487776309
+801,Iowa,Carroll,0.49291262,Carroll,,,,0.49291262
+802,Iowa,Cass,0.390471548,Cass,,,,0.390471548
+803,Iowa,Cedar,0.465789884,Cedar,,,,0.465789884
+804,Iowa,Cerro,0.493228346,Cerro,,,,0.493228346
+805,Iowa,Cherokee,0.559068322,Cherokee,,,,0.559068322
+806,Iowa,Chickasaw,0.435162514,Chickasaw,,,,0.435162514
+807,Iowa,Clarke,0.304063022,Clarke,,,,0.304063022
+808,Iowa,Clay,0.486487389,Clay,,,,0.486487389
+809,Iowa,Clayton,0.42913726,Clayton,,,,0.42913726
+810,Iowa,Clinton,0.500318289,Clinton,,,,0.500318289
+811,Iowa,Crawford,0.291364282,Crawford,,,,0.291364282
+812,Iowa,Dallas,0.41151467,Dallas,,,,0.41151467
+813,Iowa,Davis,0.348166674,Davis,,,,0.348166674
+814,Iowa,Decatur,0.506836891,Decatur,,,,0.506836891
+815,Iowa,Delaware,0.416421801,Delaware,,,,0.416421801
+816,Iowa,Des,0.557338655,Des,,,,0.557338655
+817,Iowa,Dickinson,0.585740924,Dickinson,,,,0.585740924
+818,Iowa,Dubuque,0.490896046,Dubuque,,,,0.490896046
+819,Iowa,Emmet,0.464823186,Emmet,,,,0.464823186
+820,Iowa,Fayette,0.525221825,Fayette,,,,0.525221825
+821,Iowa,Floyd,0.447080612,Floyd,,,,0.447080612
+822,Iowa,Franklin,0.414799154,Franklin,,,,0.414799154
+823,Iowa,Fremont,0.487487674,Fremont,,,,0.487487674
+824,Iowa,Greene,0.537012935,Greene,,,,0.537012935
+825,Iowa,Grundy,0.48067537,Grundy,,,,0.48067537
+826,Iowa,Guthrie,0.464321166,Guthrie,,,,0.464321166
+827,Iowa,Hamilton,0.46777308,Hamilton,,,,0.46777308
+828,Iowa,Hancock,0.466726243,Hancock,,,,0.466726243
+829,Iowa,Hardin,0.526992381,Hardin,,,,0.526992381
+830,Iowa,Harrison,0.548800528,Harrison,,,,0.548800528
+831,Iowa,Henry,0.41837889,Henry,,,,0.41837889
+832,Iowa,Howard,0.417387992,Howard,,,,0.417387992
+833,Iowa,Humboldt,0.442293465,Humboldt,,,,0.442293465
+834,Iowa,Ida,0.460820407,Ida,,,,0.460820407
+835,Iowa,Iowa,0.457535952,Iowa,,,,0.457535952
+836,Iowa,Jackson,0.434085071,Jackson,,,,0.434085071
+837,Iowa,Jasper,0.43833217,Jasper,,,,0.43833217
+838,Iowa,Jefferson,0.557105899,Jefferson,,,,0.557105899
+839,Iowa,Johnson,0.433202654,Johnson,,,,0.433202654
+840,Iowa,Jones,0.438313365,Jones,,,,0.438313365
+841,Iowa,Keokuk,0.471715182,Keokuk,,,,0.471715182
+842,Iowa,Kossuth,0.474316031,Kossuth,,,,0.474316031
+843,Iowa,Lee,0.533914506,Lee,,,,0.533914506
+844,Iowa,Linn,0.451855332,Linn,,,,0.451855332
+845,Iowa,Louisa,0.322562188,Louisa,,,,0.322562188
+846,Iowa,Lucas,0.500467002,Lucas,,,,0.500467002
+847,Iowa,Lyon,0.415545732,Lyon,,,,0.415545732
+848,Iowa,Madison,0.491042852,Madison,,,,0.491042852
+849,Iowa,Mahaska,0.405985475,Mahaska,,,,0.405985475
+850,Iowa,Marion,0.424586564,Marion,,,,0.424586564
+851,Iowa,Marshall,0.269927323,Marshall,,,,0.269927323
+852,Iowa,Mills,0.378810614,Mills,,,,0.378810614
+853,Iowa,Mitchell,0.414132029,Mitchell,,,,0.414132029
+854,Iowa,Monona,0.506153524,Monona,,,,0.506153524
+855,Iowa,Monroe,0.433544368,Monroe,,,,0.433544368
+856,Iowa,Montgomery,0.402910233,Montgomery,,,,0.402910233
+857,Iowa,Muscatine,0.33608973,Muscatine,,,,0.33608973
+858,Iowa,O'Brien,0.374465466,O'Brien,,,,0.374465466
+859,Iowa,Osceola,0.321311951,Osceola,,,,0.321311951
+860,Iowa,Page,0.506274819,Page,,,,0.506274819
+861,Iowa,Palo,0.504912972,Palo,,,,0.504912972
+862,Iowa,Plymouth,0.415056974,Plymouth,,,,0.415056974
+863,Iowa,Pocahontas,0.492603719,Pocahontas,,,,0.492603719
+864,Iowa,Polk,0.390865982,Polk,,,,0.390865982
+865,Iowa,Pottawattamie,0.447367638,Pottawattamie,,,,0.447367638
+866,Iowa,Poweshiek,0.463205725,Poweshiek,,,,0.463205725
+867,Iowa,Ringgold,0.463460952,Ringgold,,,,0.463460952
+868,Iowa,Sac,0.535048366,Sac,,,,0.535048366
+869,Iowa,Scott,0.434896082,Scott,,,,0.434896082
+870,Iowa,Shelby,0.508894742,Shelby,,,,0.508894742
+871,Iowa,Sioux,0.358075857,Sioux,,,,0.358075857
+872,Iowa,Story,0.488194376,Story,,,,0.488194376
+873,Iowa,Tama,0.362126857,Tama,,,,0.362126857
+874,Iowa,Taylor,0.378855795,Taylor,,,,0.378855795
+875,Iowa,Union,0.527332902,Union,,,,0.527332902
+876,Iowa,Van,0.373251915,Van,,,,0.373251915
+877,Iowa,Wapello,0.491864473,Wapello,,,,0.491864473
+878,Iowa,Warren,0.470657855,Warren,,,,0.470657855
+879,Iowa,Washington,0.36691612,Washington,,,,0.36691612
+880,Iowa,Wayne,0.499954909,Wayne,,,,0.499954909
+881,Iowa,Webster,0.430103451,Webster,,,,0.430103451
+882,Iowa,Winnebago,0.436709672,Winnebago,,,,0.436709672
+883,Iowa,Winneshiek,0.562803209,Winneshiek,,,,0.562803209
+884,Iowa,Woodbury,0.255393565,Woodbury,,,,0.255393565
+885,Iowa,Worth,0.505773485,Worth,,,,0.505773485
+886,Iowa,Wright,0.35374701,Wright,,,,0.35374701
+887,Kansas,Allen,0.507910132,Allen,,,,0.507910132
+888,Kansas,Anderson,0.416636795,Anderson,,,,0.416636795
+889,Kansas,Atchison,0.569284618,Atchison,,,,0.569284618
+890,Kansas,Barber,0.419660449,Barber,,,,0.419660449
+891,Kansas,Barton,0.359527022,Barton,,,,0.359527022
+892,Kansas,Bourbon,0.41639173,Bourbon,,,,0.41639173
+893,Kansas,Brown,0.414980203,Brown,,,,0.414980203
+894,Kansas,Butler,0.474550545,Butler,,,,0.474550545
+895,Kansas,Chase,0.535986602,Chase,,,,0.535986602
+896,Kansas,Chautauqua,0.519917488,Chautauqua,,,,0.519917488
+897,Kansas,Cherokee,0.558048785,Cherokee,,,,0.558048785
+898,Kansas,Cheyenne,0.475489229,Cheyenne,,,,0.475489229
+899,Kansas,Clark,0.41409725,Clark,,,,0.41409725
+900,Kansas,Clay,0.445892364,Clay,,,,0.445892364
+901,Kansas,Cloud,0.465126902,Cloud,,,,0.465126902
+902,Kansas,Coffey,0.515550911,Coffey,,,,0.515550911
+903,Kansas,Comanche,0.362340927,Comanche,,,,0.362340927
+904,Kansas,Cowley,0.429087341,Cowley,,,,0.429087341
+905,Kansas,Crawford,0.482601136,Crawford,,,,0.482601136
+906,Kansas,Decatur,0.545312703,Decatur,,,,0.545312703
+907,Kansas,Dickinson,0.480493963,Dickinson,,,,0.480493963
+908,Kansas,Doniphan,0.500483692,Doniphan,,,,0.500483692
+909,Kansas,Douglas,0.481278181,Douglas,,,,0.481278181
+910,Kansas,Edwards,0.468548208,Edwards,,,,0.468548208
+911,Kansas,Elk,0.630132794,Elk,,,,0.630132794
+912,Kansas,Ellis,0.439940393,Ellis,,,,0.439940393
+913,Kansas,Ellsworth,0.487829864,Ellsworth,,,,0.487829864
+914,Kansas,Finney,0.213264689,Finney,,,,0.213264689
+915,Kansas,Ford,0.206943914,Ford,,,,0.206943914
+916,Kansas,Franklin,0.378555298,Franklin,,,,0.378555298
+917,Kansas,Geary,0.242803529,Geary,,,,0.242803529
+918,Kansas,Gove,0.447918177,Gove,,,,0.447918177
+919,Kansas,Graham,0.583564699,Graham,,,,0.583564699
+920,Kansas,Grant,0.20760338,Grant,,,,0.20760338
+921,Kansas,Gray,0.260755092,Gray,,,,0.260755092
+922,Kansas,Greeley,0.305112451,Greeley,,,,0.305112451
+923,Kansas,Greenwood,0.563358068,Greenwood,,,,0.563358068
+924,Kansas,Hamilton,0.224152118,Hamilton,,,,0.224152118
+925,Kansas,Harper,0.397522002,Harper,,,,0.397522002
+926,Kansas,Harvey,0.43272385,Harvey,,,,0.43272385
+927,Kansas,Haskell,0.216629729,Haskell,,,,0.216629729
+928,Kansas,Hodgeman,0.496777177,Hodgeman,,,,0.496777177
+929,Kansas,Jackson,0.506793559,Jackson,,,,0.506793559
+930,Kansas,Jefferson,0.46191442,Jefferson,,,,0.46191442
+931,Kansas,Jewell,0.580108404,Jewell,,,,0.580108404
+932,Kansas,Johnson,0.435563922,Johnson,,,,0.435563922
+933,Kansas,Kearny,0.22320798,Kearny,,,,0.22320798
+934,Kansas,Kingman,0.522922695,Kingman,,,,0.522922695
+935,Kansas,Kiowa,0.369484991,Kiowa,,,,0.369484991
+936,Kansas,Labette,0.424603999,Labette,,,,0.424603999
+937,Kansas,Lane,0.463233441,Lane,,,,0.463233441
+938,Kansas,Leavenworth,0.454948604,Leavenworth,,,,0.454948604
+939,Kansas,Lincoln,0.481970042,Lincoln,,,,0.481970042
+940,Kansas,Linn,0.50143069,Linn,,,,0.50143069
+941,Kansas,Logan,0.400045812,Logan,,,,0.400045812
+942,Kansas,Lyon,0.32321617,Lyon,,,,0.32321617
+943,Kansas,McPherson,0.444417626,McPherson,,,,0.444417626
+944,Kansas,Marion,0.432082117,Marion,,,,0.432082117
+945,Kansas,Marshall,0.421588868,Marshall,,,,0.421588868
+946,Kansas,Meade,0.317214191,Meade,,,,0.317214191
+947,Kansas,Miami,0.445218474,Miami,,,,0.445218474
+948,Kansas,Mitchell,0.504182518,Mitchell,,,,0.504182518
+949,Kansas,Montgomery,0.534791112,Montgomery,,,,0.534791112
+950,Kansas,Morris,0.499068379,Morris,,,,0.499068379
+951,Kansas,Morton,0.26454553,Morton,,,,0.26454553
+952,Kansas,Nemaha,0.465631217,Nemaha,,,,0.465631217
+953,Kansas,Neosho,0.525501072,Neosho,,,,0.525501072
+954,Kansas,Ness,0.459895998,Ness,,,,0.459895998
+955,Kansas,Norton,0.394812971,Norton,,,,0.394812971
+956,Kansas,Osage,0.417650431,Osage,,,,0.417650431
+957,Kansas,Osborne,0.53215754,Osborne,,,,0.53215754
+958,Kansas,Ottawa,0.458899647,Ottawa,,,,0.458899647
+959,Kansas,Pawnee,0.518552601,Pawnee,,,,0.518552601
+960,Kansas,Phillips,0.460805476,Phillips,,,,0.460805476
+961,Kansas,Pottawatomie,0.363256842,Pottawatomie,,,,0.363256842
+962,Kansas,Pratt,0.416184247,Pratt,,,,0.416184247
+963,Kansas,Rawlins,0.49914825,Rawlins,,,,0.49914825
+964,Kansas,Reno,0.479008943,Reno,,,,0.479008943
+965,Kansas,Republic,0.466912538,Republic,,,,0.466912538
+966,Kansas,Rice,0.512206435,Rice,,,,0.512206435
+967,Kansas,Riley,0.397008628,Riley,,,,0.397008628
+968,Kansas,Rooks,0.53960526,Rooks,,,,0.53960526
+969,Kansas,Rush,0.503745139,Rush,,,,0.503745139
+970,Kansas,Russell,0.556916118,Russell,,,,0.556916118
+971,Kansas,Saline,0.364271432,Saline,,,,0.364271432
+972,Kansas,Scott,0.253974289,Scott,,,,0.253974289
+973,Kansas,Sedgwick,0.398094207,Sedgwick,,,,0.398094207
+974,Kansas,Seward,0.193812221,Seward,,,,0.193812221
+975,Kansas,Shawnee,0.40786159,Shawnee,,,,0.40786159
+976,Kansas,Sheridan,0.388575137,Sheridan,,,,0.388575137
+977,Kansas,Sherman,0.512613237,Sherman,,,,0.512613237
+978,Kansas,Smith,0.492905289,Smith,,,,0.492905289
+979,Kansas,Stafford,0.507178128,Stafford,,,,0.507178128
+980,Kansas,Stanton,0.262971818,Stanton,,,,0.262971818
+981,Kansas,Stevens,0.238769665,Stevens,,,,0.238769665
+982,Kansas,Sumner,0.448673248,Sumner,,,,0.448673248
+983,Kansas,Thomas,0.440614402,Thomas,,,,0.440614402
+984,Kansas,Trego,0.550021052,Trego,,,,0.550021052
+985,Kansas,Wabaunsee,0.502599776,Wabaunsee,,,,0.502599776
+986,Kansas,Wallace,0.515977621,Wallace,,,,0.515977621
+987,Kansas,Washington,0.449592382,Washington,,,,0.449592382
+988,Kansas,Wichita,0.269204944,Wichita,,,,0.269204944
+989,Kansas,Wilson,0.570505798,Wilson,,,,0.570505798
+990,Kansas,Woodson,0.496754229,Woodson,,,,0.496754229
+991,Kansas,Wyandotte,0.343226105,Wyandotte,,,,0.343226105
+992,Kentucky,Adair,0.704484642,Adair,,,,0.704484642
+993,Kentucky,Allen,0.618910134,Allen,,,,0.618910134
+994,Kentucky,Anderson,0.595163703,Anderson,,,,0.595163703
+995,Kentucky,Ballard,0.700772464,Ballard,,,,0.700772464
+996,Kentucky,Barren,0.616909504,Barren,,,,0.616909504
+997,Kentucky,Bath,0.603511631,Bath,,,,0.603511631
+998,Kentucky,Bell,0.774103761,Bell,,,,0.774103761
+999,Kentucky,Boone,0.60288465,Boone,,,,0.60288465
+1000,Kentucky,Bourbon,0.566344857,Bourbon,,,,0.566344857
+1001,Kentucky,Boyd,0.690852225,Boyd,,,,0.690852225
+1002,Kentucky,Boyle,0.672665417,Boyle,,,,0.672665417
+1003,Kentucky,Bracken,0.56417191,Bracken,,,,0.56417191
+1004,Kentucky,Breathitt,0.793943346,Breathitt,,,,0.793943346
+1005,Kentucky,Breckinridge,0.607037008,Breckinridge,,,,0.607037008
+1006,Kentucky,Bullitt,0.67720592,Bullitt,,,,0.67720592
+1007,Kentucky,Butler,0.602891684,Butler,,,,0.602891684
+1008,Kentucky,Caldwell,0.674558759,Caldwell,,,,0.674558759
+1009,Kentucky,Calloway,0.61471796,Calloway,,,,0.61471796
+1010,Kentucky,Campbell,0.624410391,Campbell,,,,0.624410391
+1011,Kentucky,Carlisle,0.622798264,Carlisle,,,,0.622798264
+1012,Kentucky,Carroll,0.524562657,Carroll,,,,0.524562657
+1013,Kentucky,Carter,0.721266031,Carter,,,,0.721266031
+1014,Kentucky,Casey,0.684171617,Casey,,,,0.684171617
+1015,Kentucky,Christian,0.519125223,Christian,,,,0.519125223
+1016,Kentucky,Clark,0.552374244,Clark,,,,0.552374244
+1017,Kentucky,Clay,0.685228825,Clay,,,,0.685228825
+1018,Kentucky,Clinton,0.6663028,Clinton,,,,0.6663028
+1019,Kentucky,Crittenden,0.576147556,Crittenden,,,,0.576147556
+1020,Kentucky,Cumberland,0.692510307,Cumberland,,,,0.692510307
+1021,Kentucky,Daviess,0.545218766,Daviess,,,,0.545218766
+1022,Kentucky,Edmonson,0.738513589,Edmonson,,,,0.738513589
+1023,Kentucky,Elliott,0.796073318,Elliott,,,,0.796073318
+1024,Kentucky,Estill,0.669110239,Estill,,,,0.669110239
+1025,Kentucky,Fayette,0.618874788,Fayette,,,,0.618874788
+1026,Kentucky,Fleming,0.645468891,Fleming,,,,0.645468891
+1027,Kentucky,Floyd,0.765076637,Floyd,,,,0.765076637
+1028,Kentucky,Franklin,0.559746504,Franklin,,,,0.559746504
+1029,Kentucky,Fulton,0.664443731,Fulton,,,,0.664443731
+1030,Kentucky,Gallatin,0.53509289,Gallatin,,,,0.53509289
+1031,Kentucky,Garrard,0.672119856,Garrard,,,,0.672119856
+1032,Kentucky,Grant,0.54933697,Grant,,,,0.54933697
+1033,Kentucky,Graves,0.594553888,Graves,,,,0.594553888
+1034,Kentucky,Grayson,0.624731362,Grayson,,,,0.624731362
+1035,Kentucky,Green,0.628928304,Green,,,,0.628928304
+1036,Kentucky,Greenup,0.687393606,Greenup,,,,0.687393606
+1037,Kentucky,Hancock,0.655394077,Hancock,,,,0.655394077
+1038,Kentucky,Hardin,0.635953009,Hardin,,,,0.635953009
+1039,Kentucky,Harlan,0.777319312,Harlan,,,,0.777319312
+1040,Kentucky,Harrison,0.54120779,Harrison,,,,0.54120779
+1041,Kentucky,Hart,0.520231128,Hart,,,,0.520231128
+1042,Kentucky,Henderson,0.676645279,Henderson,,,,0.676645279
+1043,Kentucky,Henry,0.48293826,Henry,,,,0.48293826
+1044,Kentucky,Hickman,0.708462,Hickman,,,,0.708462
+1045,Kentucky,Hopkins,0.625482857,Hopkins,,,,0.625482857
+1046,Kentucky,Jackson,0.743441403,Jackson,,,,0.743441403
+1047,Kentucky,Jefferson,0.59786427,Jefferson,,,,0.59786427
+1048,Kentucky,Jessamine,0.529508889,Jessamine,,,,0.529508889
+1049,Kentucky,Johnson,0.73513782,Johnson,,,,0.73513782
+1050,Kentucky,Kenton,0.604463339,Kenton,,,,0.604463339
+1051,Kentucky,Knott,0.744222462,Knott,,,,0.744222462
+1052,Kentucky,Knox,0.662213266,Knox,,,,0.662213266
+1053,Kentucky,Larue,0.577723503,Larue,,,,0.577723503
+1054,Kentucky,Laurel,0.620607674,Laurel,,,,0.620607674
+1055,Kentucky,Lawrence,0.714456379,Lawrence,,,,0.714456379
+1056,Kentucky,Lee,0.664802253,Lee,,,,0.664802253
+1057,Kentucky,Leslie,0.706345677,Leslie,,,,0.706345677
+1058,Kentucky,Letcher,0.737248182,Letcher,,,,0.737248182
+1059,Kentucky,Lewis,0.711808681,Lewis,,,,0.711808681
+1060,Kentucky,Lincoln,0.672920287,Lincoln,,,,0.672920287
+1061,Kentucky,Livingston,0.56711936,Livingston,,,,0.56711936
+1062,Kentucky,Logan,0.545191109,Logan,,,,0.545191109
+1063,Kentucky,Lyon,0.641238093,Lyon,,,,0.641238093
+1064,Kentucky,McCracken,0.626032531,McCracken,,,,0.626032531
+1065,Kentucky,McCreary,0.687048554,McCreary,,,,0.687048554
+1066,Kentucky,McLean,0.664300859,McLean,,,,0.664300859
+1067,Kentucky,Madison,0.615920246,Madison,,,,0.615920246
+1068,Kentucky,Magoffin,0.783754826,Magoffin,,,,0.783754826
+1069,Kentucky,Marion,0.558334112,Marion,,,,0.558334112
+1070,Kentucky,Marshall,0.556576908,Marshall,,,,0.556576908
+1071,Kentucky,Martin,0.736949682,Martin,,,,0.736949682
+1072,Kentucky,Mason,0.565679371,Mason,,,,0.565679371
+1073,Kentucky,Meade,0.650132716,Meade,,,,0.650132716
+1074,Kentucky,Menifee,0.794221222,Menifee,,,,0.794221222
+1075,Kentucky,Mercer,0.640306115,Mercer,,,,0.640306115
+1076,Kentucky,Metcalfe,0.641093194,Metcalfe,,,,0.641093194
+1077,Kentucky,Monroe,0.688031495,Monroe,,,,0.688031495
+1078,Kentucky,Montgomery,0.616067171,Montgomery,,,,0.616067171
+1079,Kentucky,Morgan,0.711980581,Morgan,,,,0.711980581
+1080,Kentucky,Muhlenberg,0.631366491,Muhlenberg,,,,0.631366491
+1081,Kentucky,Nelson,0.633067071,Nelson,,,,0.633067071
+1082,Kentucky,Nicholas,0.644038975,Nicholas,,,,0.644038975
+1083,Kentucky,Ohio,0.600380599,Ohio,,,,0.600380599
+1084,Kentucky,Oldham,0.542247474,Oldham,,,,0.542247474
+1085,Kentucky,Owen,0.607664883,Owen,,,,0.607664883
+1086,Kentucky,Owsley,0.652657151,Owsley,,,,0.652657151
+1087,Kentucky,Pendleton,0.495280057,Pendleton,,,,0.495280057
+1088,Kentucky,Perry,0.713510513,Perry,,,,0.713510513
+1089,Kentucky,Pike,0.759040475,Pike,,,,0.759040475
+1090,Kentucky,Powell,0.648087025,Powell,,,,0.648087025
+1091,Kentucky,Pulaski,0.680590987,Pulaski,,,,0.680590987
+1092,Kentucky,Robertson,0.78618747,Robertson,,,,0.78618747
+1093,Kentucky,Rockcastle,0.661444902,Rockcastle,,,,0.661444902
+1094,Kentucky,Rowan,0.706424773,Rowan,,,,0.706424773
+1095,Kentucky,Russell,0.665266275,Russell,,,,0.665266275
+1096,Kentucky,Scott,0.511437654,Scott,,,,0.511437654
+1097,Kentucky,Shelby,0.536281765,Shelby,,,,0.536281765
+1098,Kentucky,Simpson,0.523924887,Simpson,,,,0.523924887
+1099,Kentucky,Spencer,0.696886718,Spencer,,,,0.696886718
+1100,Kentucky,Taylor,0.58957684,Taylor,,,,0.58957684
+1101,Kentucky,Todd,0.549096167,Todd,,,,0.549096167
+1102,Kentucky,Trigg,0.656656861,Trigg,,,,0.656656861
+1103,Kentucky,Trimble,0.620346367,Trimble,,,,0.620346367
+1104,Kentucky,Union,0.695319891,Union,,,,0.695319891
+1105,Kentucky,Warren,0.49936083,Warren,,,,0.49936083
+1106,Kentucky,Washington,0.624885023,Washington,,,,0.624885023
+1107,Kentucky,Wayne,0.658168316,Wayne,,,,0.658168316
+1108,Kentucky,Webster,0.570286512,Webster,,,,0.570286512
+1109,Kentucky,Whitley,0.62991488,Whitley,,,,0.62991488
+1110,Kentucky,Wolfe,0.693251133,Wolfe,,,,0.693251133
+1111,Kentucky,Woodford,0.569584787,Woodford,,,,0.569584787
+1112,Louisiana,Acadia,0.497951031,Acadia,,,,0.497951031
+1113,Louisiana,Allen,0.630402684,Allen,,,,0.630402684
+1114,Louisiana,Ascension,0.630068243,Ascension,,,,0.630068243
+1115,Louisiana,Assumption,0.656084299,Assumption,,,,0.656084299
+1116,Louisiana,Avoyelles,0.620634079,Avoyelles,,,,0.620634079
+1117,Louisiana,Beauregard,0.586547613,Beauregard,,,,0.586547613
+1118,Louisiana,Bienville,0.737745166,Bienville,,,,0.737745166
+1119,Louisiana,Bossier,0.55627948,Bossier,,,,0.55627948
+1120,Louisiana,Caddo,0.590240002,Caddo,,,,0.590240002
+1121,Louisiana,Calcasieu,0.550002158,Calcasieu,,,,0.550002158
+1122,Louisiana,Caldwell,0.596205831,Caldwell,,,,0.596205831
+1123,Louisiana,Cameron,0.650487423,Cameron,,,,0.650487423
+1124,Louisiana,Catahoula,0.594473481,Catahoula,,,,0.594473481
+1125,Louisiana,Claiborne,0.727959752,Claiborne,,,,0.727959752
+1126,Louisiana,Concordia,0.677280068,Concordia,,,,0.677280068
+1127,Louisiana,De,0.674491465,De,,,,0.674491465
+1128,Louisiana,East,0.590929508,East,,,,0.590929508
+1129,Louisiana,East,0.664061308,East,,,,0.664061308
+1130,Louisiana,East,0.690903902,East,,,,0.690903902
+1131,Louisiana,Evangeline,0.652881801,Evangeline,,,,0.652881801
+1132,Louisiana,Franklin,0.6079126,Franklin,,,,0.6079126
+1133,Louisiana,Grant,0.602217376,Grant,,,,0.602217376
+1134,Louisiana,Iberia,0.540762961,Iberia,,,,0.540762961
+1135,Louisiana,Iberville,0.643336177,Iberville,,,,0.643336177
+1136,Louisiana,Jackson,0.618711114,Jackson,,,,0.618711114
+1137,Louisiana,Jefferson,0.597739518,Jefferson,,,,0.597739518
+1138,Louisiana,Jefferson,0.491562665,Jefferson,,,,0.491562665
+1139,Louisiana,Lafayette,0.562318027,Lafayette,,,,0.562318027
+1140,Louisiana,Lafourche,0.51593411,Lafourche,,,,0.51593411
+1141,Louisiana,La,0.646879137,La,,,,0.646879137
+1142,Louisiana,Lincoln,0.601403475,Lincoln,,,,0.601403475
+1143,Louisiana,Livingston,0.516227961,Livingston,,,,0.516227961
+1144,Louisiana,Madison,0.721578956,Madison,,,,0.721578956
+1145,Louisiana,Morehouse,0.641167998,Morehouse,,,,0.641167998
+1146,Louisiana,Natchitoches,0.612718165,Natchitoches,,,,0.612718165
+1147,Louisiana,Orleans,0.661743701,Orleans,,,,0.661743701
+1148,Louisiana,Ouachita,0.63577348,Ouachita,,,,0.63577348
+1149,Louisiana,Plaquemines,0.580209792,Plaquemines,,,,0.580209792
+1150,Louisiana,Pointe,0.5862872,Pointe,,,,0.5862872
+1151,Louisiana,Rapides,0.552053034,Rapides,,,,0.552053034
+1152,Louisiana,Red,0.647825003,Red,,,,0.647825003
+1153,Louisiana,Richland,0.695281565,Richland,,,,0.695281565
+1154,Louisiana,Sabine,0.563230217,Sabine,,,,0.563230217
+1155,Louisiana,St.,0.541657507,St.,,,,0.541657507
+1156,Louisiana,St.,0.523914754,St.,,,,0.523914754
+1157,Louisiana,St.,0.689264894,St.,,,,0.689264894
+1158,Louisiana,St.,0.600993633,St.,,,,0.600993633
+1159,Louisiana,St.,0.576168358,St.,,,,0.576168358
+1160,Louisiana,St.,0.604587853,St.,,,,0.604587853
+1161,Louisiana,St.,0.66514951,St.,,,,0.66514951
+1162,Louisiana,St.,0.560357213,St.,,,,0.560357213
+1163,Louisiana,St.,0.624266267,St.,,,,0.624266267
+1164,Louisiana,Tangipahoa,0.546876967,Tangipahoa,,,,0.546876967
+1165,Louisiana,Tensas,0.769435108,Tensas,,,,0.769435108
+1166,Louisiana,Terrebonne,0.552899539,Terrebonne,,,,0.552899539
+1167,Louisiana,Union,0.627940893,Union,,,,0.627940893
+1168,Louisiana,Vermilion,0.522762299,Vermilion,,,,0.522762299
+1169,Louisiana,Vernon,0.56357789,Vernon,,,,0.56357789
+1170,Louisiana,Washington,0.685333252,Washington,,,,0.685333252
+1171,Louisiana,Webster,0.6752159,Webster,,,,0.6752159
+1172,Louisiana,West,0.56659925,West,,,,0.56659925
+1173,Louisiana,West,0.733384311,West,,,,0.733384311
+1174,Louisiana,West,0.600434422,West,,,,0.600434422
+1175,Louisiana,Winn,0.745539606,Winn,,,,0.745539606
+1176,Maine,Androscoggin,0.618501365,Androscoggin,,,,0.618501365
+1177,Maine,Aroostook,0.672735691,Aroostook,,,,0.672735691
+1178,Maine,Cumberland,0.623507798,Cumberland,,,,0.623507798
+1179,Maine,Franklin,0.673871458,Franklin,,,,0.673871458
+1180,Maine,Hancock,0.647895634,Hancock,,,,0.647895634
+1181,Maine,Kennebec,0.59526211,Kennebec,,,,0.59526211
+1182,Maine,Knox,0.566204488,Knox,,,,0.566204488
+1183,Maine,Lincoln,0.574414194,Lincoln,,,,0.574414194
+1184,Maine,Oxford,0.57364881,Oxford,,,,0.57364881
+1185,Maine,Penobscot,0.672621727,Penobscot,,,,0.672621727
+1186,Maine,Piscataquis,0.682324886,Piscataquis,,,,0.682324886
+1187,Maine,Sagadahoc,0.55098629,Sagadahoc,,,,0.55098629
+1188,Maine,Somerset,0.642028868,Somerset,,,,0.642028868
+1189,Maine,Waldo,0.686445892,Waldo,,,,0.686445892
+1190,Maine,Washington,0.661886811,Washington,,,,0.661886811
+1191,Maine,York,0.61408174,York,,,,0.61408174
+1192,Maryland,Allegany,0.641047835,Allegany,,,,0.641047835
+1193,Maryland,Anne,0.538976431,Anne,,,,0.538976431
+1194,Maryland,Baltimore,0.484541029,Baltimore,,,,0.484541029
+1195,Maryland,Calvert,0.488078117,Calvert,,,,0.488078117
+1196,Maryland,Caroline,0.343937039,Caroline,,,,0.343937039
+1197,Maryland,Carroll,0.486190677,Carroll,,,,0.486190677
+1198,Maryland,Cecil,0.461970091,Cecil,,,,0.461970091
+1199,Maryland,Charles,0.541692555,Charles,,,,0.541692555
+1200,Maryland,Dorchester,0.540872633,Dorchester,,,,0.540872633
+1201,Maryland,Frederick,0.487867653,Frederick,,,,0.487867653
+1202,Maryland,Garrett,0.545136273,Garrett,,,,0.545136273
+1203,Maryland,Harford,0.505540848,Harford,,,,0.505540848
+1204,Maryland,Howard,0.421543896,Howard,,,,0.421543896
+1205,Maryland,Kent,0.559552014,Kent,,,,0.559552014
+1206,Maryland,Montgomery,0.429871798,Montgomery,,,,0.429871798
+1207,Maryland,Prince,0.513763249,Prince,,,,0.513763249
+1208,Maryland,Queen,0.481883198,Queen,,,,0.481883198
+1209,Maryland,St.,0.437910199,St.,,,,0.437910199
+1210,Maryland,Somerset,0.524387777,Somerset,,,,0.524387777
+1211,Maryland,Talbot,0.543207347,Talbot,,,,0.543207347
+1212,Maryland,Washington,0.396772265,Washington,,,,0.396772265
+1213,Maryland,Wicomico,0.430698574,Wicomico,,,,0.430698574
+1214,Maryland,Worcester,0.627006173,Worcester,,,,0.627006173
+1215,Maryland,Baltimore,0.590545774,Baltimore,,,,0.590545774
+1216,Massachusetts,Barnstable,0.671684265,Barnstable,,,,0.671684265
+1217,Massachusetts,Berkshire,0.576180816,Berkshire,,,,0.576180816
+1218,Massachusetts,Bristol,0.548830092,Bristol,,,,0.548830092
+1219,Massachusetts,Dukes,0.530982435,Dukes,,,,0.530982435
+1220,Massachusetts,Essex,0.506689966,Essex,,,,0.506689966
+1221,Massachusetts,Franklin,0.638564765,Franklin,,,,0.638564765
+1222,Massachusetts,Hampden,0.480617255,Hampden,,,,0.480617255
+1223,Massachusetts,Hampshire,0.62487185,Hampshire,,,,0.62487185
+1224,Massachusetts,Middlesex,0.586858869,Middlesex,,,,0.586858869
+1225,Massachusetts,Nantucket,0.530347764,Nantucket,,,,0.530347764
+1226,Massachusetts,Norfolk,0.552192926,Norfolk,,,,0.552192926
+1227,Massachusetts,Plymouth,0.627433777,Plymouth,,,,0.627433777
+1228,Massachusetts,Suffolk,0.477645993,Suffolk,,,,0.477645993
+1229,Massachusetts,Worcester,0.561376691,Worcester,,,,0.561376691
+1230,Michigan,Alcona,0.739787221,Alcona,,,,0.739787221
+1231,Michigan,Alger,0.655707598,Alger,,,,0.655707598
+1232,Michigan,Allegan,0.482756555,Allegan,,,,0.482756555
+1233,Michigan,Alpena,0.728347182,Alpena,,,,0.728347182
+1234,Michigan,Antrim,0.638038278,Antrim,,,,0.638038278
+1235,Michigan,Arenac,0.735112131,Arenac,,,,0.735112131
+1236,Michigan,Baraga,0.739356458,Baraga,,,,0.739356458
+1237,Michigan,Barry,0.671905637,Barry,,,,0.671905637
+1238,Michigan,Bay,0.674722314,Bay,,,,0.674722314
+1239,Michigan,Benzie,0.72053659,Benzie,,,,0.72053659
+1240,Michigan,Berrien,0.575068116,Berrien,,,,0.575068116
+1241,Michigan,Branch,0.585770488,Branch,,,,0.585770488
+1242,Michigan,Calhoun,0.608066857,Calhoun,,,,0.608066857
+1243,Michigan,Cass,0.698009729,Cass,,,,0.698009729
+1244,Michigan,Charlevoix,0.700500131,Charlevoix,,,,0.700500131
+1245,Michigan,Cheboygan,0.794608891,Cheboygan,,,,0.794608891
+1246,Michigan,Chippewa,0.700410604,Chippewa,,,,0.700410604
+1247,Michigan,Clare,0.738457501,Clare,,,,0.738457501
+1248,Michigan,Clinton,0.659521401,Clinton,,,,0.659521401
+1249,Michigan,Crawford,0.742881835,Crawford,,,,0.742881835
+1250,Michigan,Delta,0.731687963,Delta,,,,0.731687963
+1251,Michigan,Dickinson,0.687182665,Dickinson,,,,0.687182665
+1252,Michigan,Eaton,0.643981159,Eaton,,,,0.643981159
+1253,Michigan,Emmet,0.678429127,Emmet,,,,0.678429127
+1254,Michigan,Genesee,0.691757858,Genesee,,,,0.691757858
+1255,Michigan,Gladwin,0.741516948,Gladwin,,,,0.741516948
+1256,Michigan,Gogebic,0.741229475,Gogebic,,,,0.741229475
+1257,Michigan,Grand,0.610611498,Grand,,,,0.610611498
+1258,Michigan,Gratiot,0.673599005,Gratiot,,,,0.673599005
+1259,Michigan,Hillsdale,0.599185228,Hillsdale,,,,0.599185228
+1260,Michigan,Houghton,0.681008101,Houghton,,,,0.681008101
+1261,Michigan,Huron,0.669271111,Huron,,,,0.669271111
+1262,Michigan,Ingham,0.66760236,Ingham,,,,0.66760236
+1263,Michigan,Ionia,0.609236896,Ionia,,,,0.609236896
+1264,Michigan,Iosco,0.757769406,Iosco,,,,0.757769406
+1265,Michigan,Iron,0.659412026,Iron,,,,0.659412026
+1266,Michigan,Isabella,0.619074881,Isabella,,,,0.619074881
+1267,Michigan,Jackson,0.622642636,Jackson,,,,0.622642636
+1268,Michigan,Kalamazoo,0.663435042,Kalamazoo,,,,0.663435042
+1269,Michigan,Kalkaska,0.685023069,Kalkaska,,,,0.685023069
+1270,Michigan,Kent,0.566453397,Kent,,,,0.566453397
+1271,Michigan,Keweenaw,0.769977748,Keweenaw,,,,0.769977748
+1272,Michigan,Lake,0.688307643,Lake,,,,0.688307643
+1273,Michigan,Lapeer,0.63133955,Lapeer,,,,0.63133955
+1274,Michigan,Leelanau,0.72657454,Leelanau,,,,0.72657454
+1275,Michigan,Lenawee,0.657539308,Lenawee,,,,0.657539308
+1276,Michigan,Livingston,0.5973171,Livingston,,,,0.5973171
+1277,Michigan,Luce,0.653168082,Luce,,,,0.653168082
+1278,Michigan,Mackinac,0.741235495,Mackinac,,,,0.741235495
+1279,Michigan,Macomb,0.662995934,Macomb,,,,0.662995934
+1280,Michigan,Manistee,0.685435653,Manistee,,,,0.685435653
+1281,Michigan,Marquette,0.691569865,Marquette,,,,0.691569865
+1282,Michigan,Mason,0.694014966,Mason,,,,0.694014966
+1283,Michigan,Mecosta,0.638032734,Mecosta,,,,0.638032734
+1284,Michigan,Menominee,0.706940293,Menominee,,,,0.706940293
+1285,Michigan,Midland,0.678573668,Midland,,,,0.678573668
+1286,Michigan,Missaukee,0.657071173,Missaukee,,,,0.657071173
+1287,Michigan,Monroe,0.63282311,Monroe,,,,0.63282311
+1288,Michigan,Montcalm,0.586571097,Montcalm,,,,0.586571097
+1289,Michigan,Montmorency,0.78293401,Montmorency,,,,0.78293401
+1290,Michigan,Muskegon,0.653301716,Muskegon,,,,0.653301716
+1291,Michigan,Newaygo,0.574890614,Newaygo,,,,0.574890614
+1292,Michigan,Oakland,0.59314239,Oakland,,,,0.59314239
+1293,Michigan,Oceana,0.641173124,Oceana,,,,0.641173124
+1294,Michigan,Ogemaw,0.74701035,Ogemaw,,,,0.74701035
+1295,Michigan,Ontonagon,0.781194448,Ontonagon,,,,0.781194448
+1296,Michigan,Osceola,0.621534169,Osceola,,,,0.621534169
+1297,Michigan,Oscoda,0.740483701,Oscoda,,,,0.740483701
+1298,Michigan,Otsego,0.687354743,Otsego,,,,0.687354743
+1299,Michigan,Ottawa,0.556026876,Ottawa,,,,0.556026876
+1300,Michigan,Presque,0.75843513,Presque,,,,0.75843513
+1301,Michigan,Roscommon,0.758524001,Roscommon,,,,0.758524001
+1302,Michigan,Saginaw,0.672449291,Saginaw,,,,0.672449291
+1303,Michigan,St.,0.604997396,St.,,,,0.604997396
+1304,Michigan,St.,0.567434371,St.,,,,0.567434371
+1305,Michigan,Sanilac,0.652078927,Sanilac,,,,0.652078927
+1306,Michigan,Schoolcraft,0.761240304,Schoolcraft,,,,0.761240304
+1307,Michigan,Shiawassee,0.677141368,Shiawassee,,,,0.677141368
+1308,Michigan,Tuscola,0.580470383,Tuscola,,,,0.580470383
+1309,Michigan,Van,0.622222543,Van,,,,0.622222543
+1310,Michigan,Washtenaw,0.591511369,Washtenaw,,,,0.591511369
+1311,Michigan,Wayne,0.66392231,Wayne,,,,0.66392231
+1312,Michigan,Wexford,0.641328394,Wexford,,,,0.641328394
+1313,Minnesota,Aitkin,0.67575556,Aitkin,,,,0.67575556
+1314,Minnesota,Anoka,0.490414947,Anoka,,,,0.490414947
+1315,Minnesota,Becker,0.414343089,Becker,,,,0.414343089
+1316,Minnesota,Beltrami,0.50178057,Beltrami,,,,0.50178057
+1317,Minnesota,Benton,0.446256399,Benton,,,,0.446256399
+1318,Minnesota,Big,0.430250108,Big,,,,0.430250108
+1319,Minnesota,Blue,0.511093378,Blue,,,,0.511093378
+1320,Minnesota,Brown,0.499733537,Brown,,,,0.499733537
+1321,Minnesota,Carlton,0.542625427,Carlton,,,,0.542625427
+1322,Minnesota,Carver,0.485792547,Carver,,,,0.485792547
+1323,Minnesota,Cass,0.53730166,Cass,,,,0.53730166
+1324,Minnesota,Chippewa,0.403183609,Chippewa,,,,0.403183609
+1325,Minnesota,Chisago,0.493358076,Chisago,,,,0.493358076
+1326,Minnesota,Clay,0.411953062,Clay,,,,0.411953062
+1327,Minnesota,Clearwater,0.427566975,Clearwater,,,,0.427566975
+1328,Minnesota,Cook,0.620388031,Cook,,,,0.620388031
+1329,Minnesota,Cottonwood,0.461695492,Cottonwood,,,,0.461695492
+1330,Minnesota,Crow,0.503201485,Crow,,,,0.503201485
+1331,Minnesota,Dakota,0.490582258,Dakota,,,,0.490582258
+1332,Minnesota,Dodge,0.414560497,Dodge,,,,0.414560497
+1333,Minnesota,Douglas,0.470183194,Douglas,,,,0.470183194
+1334,Minnesota,Faribault,0.450716913,Faribault,,,,0.450716913
+1335,Minnesota,Fillmore,0.449626565,Fillmore,,,,0.449626565
+1336,Minnesota,Freeborn,0.412639141,Freeborn,,,,0.412639141
+1337,Minnesota,Goodhue,0.438460499,Goodhue,,,,0.438460499
+1338,Minnesota,Grant,0.505734324,Grant,,,,0.505734324
+1339,Minnesota,Hennepin,0.482487917,Hennepin,,,,0.482487917
+1340,Minnesota,Houston,0.528911173,Houston,,,,0.528911173
+1341,Minnesota,Hubbard,0.47978881,Hubbard,,,,0.47978881
+1342,Minnesota,Isanti,0.447804421,Isanti,,,,0.447804421
+1343,Minnesota,Itasca,0.612046003,Itasca,,,,0.612046003
+1344,Minnesota,Jackson,0.498704314,Jackson,,,,0.498704314
+1345,Minnesota,Kanabec,0.538196564,Kanabec,,,,0.538196564
+1346,Minnesota,Kandiyohi,0.343241483,Kandiyohi,,,,0.343241483
+1347,Minnesota,Kittson,0.51488322,Kittson,,,,0.51488322
+1348,Minnesota,Koochiching,0.57634449,Koochiching,,,,0.57634449
+1349,Minnesota,Lac,0.566102564,Lac,,,,0.566102564
+1350,Minnesota,Lake,0.583694875,Lake,,,,0.583694875
+1351,Minnesota,Lake,0.54525125,Lake,,,,0.54525125
+1352,Minnesota,Le,0.415656507,Le,,,,0.415656507
+1353,Minnesota,Lincoln,0.519609094,Lincoln,,,,0.519609094
+1354,Minnesota,Lyon,0.408985108,Lyon,,,,0.408985108
+1355,Minnesota,McLeod,0.41756326,McLeod,,,,0.41756326
+1356,Minnesota,Mahnomen,0.393328607,Mahnomen,,,,0.393328607
+1357,Minnesota,Marshall,0.481756985,Marshall,,,,0.481756985
+1358,Minnesota,Martin,0.462543756,Martin,,,,0.462543756
+1359,Minnesota,Meeker,0.440026164,Meeker,,,,0.440026164
+1360,Minnesota,Mille,0.4956038,Mille,,,,0.4956038
+1361,Minnesota,Morrison,0.443736732,Morrison,,,,0.443736732
+1362,Minnesota,Mower,0.353906542,Mower,,,,0.353906542
+1363,Minnesota,Murray,0.529774129,Murray,,,,0.529774129
+1364,Minnesota,Nicollet,0.491311401,Nicollet,,,,0.491311401
+1365,Minnesota,Nobles,0.233092099,Nobles,,,,0.233092099
+1366,Minnesota,Norman,0.439963907,Norman,,,,0.439963907
+1367,Minnesota,Olmsted,0.453858227,Olmsted,,,,0.453858227
+1368,Minnesota,Otter,0.519043565,Otter,,,,0.519043565
+1369,Minnesota,Pennington,0.455202609,Pennington,,,,0.455202609
+1370,Minnesota,Pine,0.482245803,Pine,,,,0.482245803
+1371,Minnesota,Pipestone,0.357526124,Pipestone,,,,0.357526124
+1372,Minnesota,Polk,0.44448033,Polk,,,,0.44448033
+1373,Minnesota,Pope,0.498534411,Pope,,,,0.498534411
+1374,Minnesota,Ramsey,0.384889036,Ramsey,,,,0.384889036
+1375,Minnesota,Red,0.469393045,Red,,,,0.469393045
+1376,Minnesota,Redwood,0.471100032,Redwood,,,,0.471100032
+1377,Minnesota,Renville,0.465010136,Renville,,,,0.465010136
+1378,Minnesota,Rice,0.385846764,Rice,,,,0.385846764
+1379,Minnesota,Rock,0.403342634,Rock,,,,0.403342634
+1380,Minnesota,Roseau,0.467079997,Roseau,,,,0.467079997
+1381,Minnesota,St.,0.631346047,St.,,,,0.631346047
+1382,Minnesota,Scott,0.440499544,Scott,,,,0.440499544
+1383,Minnesota,Sherburne,0.479656726,Sherburne,,,,0.479656726
+1384,Minnesota,Sibley,0.406332672,Sibley,,,,0.406332672
+1385,Minnesota,Stearns,0.497435272,Stearns,,,,0.497435272
+1386,Minnesota,Steele,0.379983157,Steele,,,,0.379983157
+1387,Minnesota,Stevens,0.511398792,Stevens,,,,0.511398792
+1388,Minnesota,Swift,0.454137474,Swift,,,,0.454137474
+1389,Minnesota,Todd,0.480143964,Todd,,,,0.480143964
+1390,Minnesota,Traverse,0.598804057,Traverse,,,,0.598804057
+1391,Minnesota,Wabasha,0.464697629,Wabasha,,,,0.464697629
+1392,Minnesota,Wadena,0.466462255,Wadena,,,,0.466462255
+1393,Minnesota,Waseca,0.406932414,Waseca,,,,0.406932414
+1394,Minnesota,Washington,0.478735179,Washington,,,,0.478735179
+1395,Minnesota,Watonwan,0.357149959,Watonwan,,,,0.357149959
+1396,Minnesota,Wilkin,0.552452147,Wilkin,,,,0.552452147
+1397,Minnesota,Winona,0.561767459,Winona,,,,0.561767459
+1398,Minnesota,Wright,0.390456945,Wright,,,,0.390456945
+1399,Minnesota,Yellow,0.445041299,Yellow,,,,0.445041299
+1400,Mississippi,Adams,0.623808265,Adams,,,,0.623808265
+1401,Mississippi,Alcorn,0.596206367,Alcorn,,,,0.596206367
+1402,Mississippi,Amite,0.631991625,Amite,,,,0.631991625
+1403,Mississippi,Attala,0.477464706,Attala,,,,0.477464706
+1404,Mississippi,Benton,0.612522602,Benton,,,,0.612522602
+1405,Mississippi,Bolivar,0.524656475,Bolivar,,,,0.524656475
+1406,Mississippi,Calhoun,0.65933162,Calhoun,,,,0.65933162
+1407,Mississippi,Carroll,0.70323348,Carroll,,,,0.70323348
+1408,Mississippi,Chickasaw,0.453224003,Chickasaw,,,,0.453224003
+1409,Mississippi,Choctaw,0.68142283,Choctaw,,,,0.68142283
+1410,Mississippi,Claiborne,0.717837811,Claiborne,,,,0.717837811
+1411,Mississippi,Clarke,0.559557617,Clarke,,,,0.559557617
+1412,Mississippi,Clay,0.644328833,Clay,,,,0.644328833
+1413,Mississippi,Coahoma,0.642075241,Coahoma,,,,0.642075241
+1414,Mississippi,Copiah,0.56897223,Copiah,,,,0.56897223
+1415,Mississippi,Covington,0.602925658,Covington,,,,0.602925658
+1416,Mississippi,DeSoto,0.398493528,DeSoto,,,,0.398493528
+1417,Mississippi,Forrest,0.477641672,Forrest,,,,0.477641672
+1418,Mississippi,Franklin,0.596289635,Franklin,,,,0.596289635
+1419,Mississippi,George,0.486330062,George,,,,0.486330062
+1420,Mississippi,Greene,0.486709297,Greene,,,,0.486709297
+1421,Mississippi,Grenada,0.513576388,Grenada,,,,0.513576388
+1422,Mississippi,Hancock,0.544526637,Hancock,,,,0.544526637
+1423,Mississippi,Harrison,0.459528983,Harrison,,,,0.459528983
+1424,Mississippi,Hinds,0.518539011,Hinds,,,,0.518539011
+1425,Mississippi,Holmes,0.68756628,Holmes,,,,0.68756628
+1426,Mississippi,Humphreys,0.541638553,Humphreys,,,,0.541638553
+1427,Mississippi,Issaquena,0.604812086,Issaquena,,,,0.604812086
+1428,Mississippi,Itawamba,0.528151214,Itawamba,,,,0.528151214
+1429,Mississippi,Jackson,0.449956387,Jackson,,,,0.449956387
+1430,Mississippi,Jasper,0.685438991,Jasper,,,,0.685438991
+1431,Mississippi,Jefferson,0.736285865,Jefferson,,,,0.736285865
+1432,Mississippi,Jefferson,0.675780416,Jefferson,,,,0.675780416
+1433,Mississippi,Jones,0.539698899,Jones,,,,0.539698899
+1434,Mississippi,Kemper,0.724126399,Kemper,,,,0.724126399
+1435,Mississippi,Lafayette,0.575644195,Lafayette,,,,0.575644195
+1436,Mississippi,Lamar,0.462432534,Lamar,,,,0.462432534
+1437,Mississippi,Lauderdale,0.571831524,Lauderdale,,,,0.571831524
+1438,Mississippi,Lawrence,0.549150109,Lawrence,,,,0.549150109
+1439,Mississippi,Leake,0.511038542,Leake,,,,0.511038542
+1440,Mississippi,Lee,0.388840616,Lee,,,,0.388840616
+1441,Mississippi,Leflore,0.493273526,Leflore,,,,0.493273526
+1442,Mississippi,Lincoln,0.573993564,Lincoln,,,,0.573993564
+1443,Mississippi,Lowndes,0.528501034,Lowndes,,,,0.528501034
+1444,Mississippi,Madison,0.417808831,Madison,,,,0.417808831
+1445,Mississippi,Marion,0.571843088,Marion,,,,0.571843088
+1446,Mississippi,Marshall,0.581385374,Marshall,,,,0.581385374
+1447,Mississippi,Monroe,0.531808019,Monroe,,,,0.531808019
+1448,Mississippi,Montgomery,0.577622235,Montgomery,,,,0.577622235
+1449,Mississippi,Neshoba,0.484040409,Neshoba,,,,0.484040409
+1450,Mississippi,Newton,0.502698183,Newton,,,,0.502698183
+1451,Mississippi,Noxubee,0.594151318,Noxubee,,,,0.594151318
+1452,Mississippi,Oktibbeha,0.519850433,Oktibbeha,,,,0.519850433
+1453,Mississippi,Panola,0.495576799,Panola,,,,0.495576799
+1454,Mississippi,Pearl,0.589899898,Pearl,,,,0.589899898
+1455,Mississippi,Perry,0.586177886,Perry,,,,0.586177886
+1456,Mississippi,Pike,0.56993866,Pike,,,,0.56993866
+1457,Mississippi,Pontotoc,0.435318768,Pontotoc,,,,0.435318768
+1458,Mississippi,Prentiss,0.610447764,Prentiss,,,,0.610447764
+1459,Mississippi,Quitman,0.61868012,Quitman,,,,0.61868012
+1460,Mississippi,Rankin,0.496772945,Rankin,,,,0.496772945
+1461,Mississippi,Scott,0.501827657,Scott,,,,0.501827657
+1462,Mississippi,Sharkey,0.601727664,Sharkey,,,,0.601727664
+1463,Mississippi,Simpson,0.654379189,Simpson,,,,0.654379189
+1464,Mississippi,Smith,0.488009065,Smith,,,,0.488009065
+1465,Mississippi,Stone,0.563689768,Stone,,,,0.563689768
+1466,Mississippi,Sunflower,0.628104687,Sunflower,,,,0.628104687
+1467,Mississippi,Tallahatchie,0.546609402,Tallahatchie,,,,0.546609402
+1468,Mississippi,Tate,0.452901304,Tate,,,,0.452901304
+1469,Mississippi,Tippah,0.700787246,Tippah,,,,0.700787246
+1470,Mississippi,Tishomingo,0.590565324,Tishomingo,,,,0.590565324
+1471,Mississippi,Tunica,0.399876595,Tunica,,,,0.399876595
+1472,Mississippi,Union,0.402240694,Union,,,,0.402240694
+1473,Mississippi,Walthall,0.629885674,Walthall,,,,0.629885674
+1474,Mississippi,Warren,0.566007674,Warren,,,,0.566007674
+1475,Mississippi,Washington,0.442881078,Washington,,,,0.442881078
+1476,Mississippi,Wayne,0.589149296,Wayne,,,,0.589149296
+1477,Mississippi,Webster,0.462606281,Webster,,,,0.462606281
+1478,Mississippi,Wilkinson,0.610426307,Wilkinson,,,,0.610426307
+1479,Mississippi,Winston,0.561206162,Winston,,,,0.561206162
+1480,Mississippi,Yalobusha,0.583916128,Yalobusha,,,,0.583916128
+1481,Mississippi,Yazoo,0.564069211,Yazoo,,,,0.564069211
+1482,Missouri,Adair,0.542381883,Adair,,,,0.542381883
+1483,Missouri,Andrew,0.537086308,Andrew,,,,0.537086308
+1484,Missouri,Atchison,0.664428592,Atchison,,,,0.664428592
+1485,Missouri,Audrain,0.573902905,Audrain,,,,0.573902905
+1486,Missouri,Barry,0.482216328,Barry,,,,0.482216328
+1487,Missouri,Barton,0.601327181,Barton,,,,0.601327181
+1488,Missouri,Bates,0.518896222,Bates,,,,0.518896222
+1489,Missouri,Benton,0.673083961,Benton,,,,0.673083961
+1490,Missouri,Bollinger,0.720053315,Bollinger,,,,0.720053315
+1491,Missouri,Boone,0.570919514,Boone,,,,0.570919514
+1492,Missouri,Buchanan,0.529320657,Buchanan,,,,0.529320657
+1493,Missouri,Butler,0.649041772,Butler,,,,0.649041772
+1494,Missouri,Caldwell,0.619616985,Caldwell,,,,0.619616985
+1495,Missouri,Callaway,0.589458048,Callaway,,,,0.589458048
+1496,Missouri,Camden,0.638643324,Camden,,,,0.638643324
+1497,Missouri,Cape,0.591674387,Cape,,,,0.591674387
+1498,Missouri,Carroll,0.65500015,Carroll,,,,0.65500015
+1499,Missouri,Carter,0.581266344,Carter,,,,0.581266344
+1500,Missouri,Cass,0.483804137,Cass,,,,0.483804137
+1501,Missouri,Cedar,0.540695906,Cedar,,,,0.540695906
+1502,Missouri,Chariton,0.627880812,Chariton,,,,0.627880812
+1503,Missouri,Christian,0.55573827,Christian,,,,0.55573827
+1504,Missouri,Clark,0.596609294,Clark,,,,0.596609294
+1505,Missouri,Clay,0.550640523,Clay,,,,0.550640523
+1506,Missouri,Clinton,0.57597208,Clinton,,,,0.57597208
+1507,Missouri,Cole,0.563244998,Cole,,,,0.563244998
+1508,Missouri,Cooper,0.479116738,Cooper,,,,0.479116738
+1509,Missouri,Crawford,0.564630628,Crawford,,,,0.564630628
+1510,Missouri,Dade,0.623645484,Dade,,,,0.623645484
+1511,Missouri,Dallas,0.528349459,Dallas,,,,0.528349459
+1512,Missouri,Daviess,0.452555269,Daviess,,,,0.452555269
+1513,Missouri,DeKalb,0.567592382,DeKalb,,,,0.567592382
+1514,Missouri,Dent,0.565461338,Dent,,,,0.565461338
+1515,Missouri,Douglas,0.679833412,Douglas,,,,0.679833412
+1516,Missouri,Dunklin,0.628992438,Dunklin,,,,0.628992438
+1517,Missouri,Franklin,0.570091367,Franklin,,,,0.570091367
+1518,Missouri,Gasconade,0.590883732,Gasconade,,,,0.590883732
+1519,Missouri,Gentry,0.576431155,Gentry,,,,0.576431155
+1520,Missouri,Greene,0.563036442,Greene,,,,0.563036442
+1521,Missouri,Grundy,0.493893325,Grundy,,,,0.493893325
+1522,Missouri,Harrison,0.509184718,Harrison,,,,0.509184718
+1523,Missouri,Henry,0.561848104,Henry,,,,0.561848104
+1524,Missouri,Hickory,0.670893788,Hickory,,,,0.670893788
+1525,Missouri,Holt,0.607668281,Holt,,,,0.607668281
+1526,Missouri,Howard,0.531614959,Howard,,,,0.531614959
+1527,Missouri,Howell,0.661319792,Howell,,,,0.661319792
+1528,Missouri,Iron,0.595185816,Iron,,,,0.595185816
+1529,Missouri,Jackson,0.615874648,Jackson,,,,0.615874648
+1530,Missouri,Jasper,0.510091066,Jasper,,,,0.510091066
+1531,Missouri,Jefferson,0.590322912,Jefferson,,,,0.590322912
+1532,Missouri,Johnson,0.53731221,Johnson,,,,0.53731221
+1533,Missouri,Knox,0.620316029,Knox,,,,0.620316029
+1534,Missouri,Laclede,0.511520147,Laclede,,,,0.511520147
+1535,Missouri,Lafayette,0.488495678,Lafayette,,,,0.488495678
+1536,Missouri,Lawrence,0.486935645,Lawrence,,,,0.486935645
+1537,Missouri,Lewis,0.618286073,Lewis,,,,0.618286073
+1538,Missouri,Lincoln,0.574745476,Lincoln,,,,0.574745476
+1539,Missouri,Linn,0.606631458,Linn,,,,0.606631458
+1540,Missouri,Livingston,0.570742488,Livingston,,,,0.570742488
+1541,Missouri,McDonald,0.358359039,McDonald,,,,0.358359039
+1542,Missouri,Macon,0.510312021,Macon,,,,0.510312021
+1543,Missouri,Madison,0.656307936,Madison,,,,0.656307936
+1544,Missouri,Maries,0.632653296,Maries,,,,0.632653296
+1545,Missouri,Marion,0.604880393,Marion,,,,0.604880393
+1546,Missouri,Mercer,0.509979963,Mercer,,,,0.509979963
+1547,Missouri,Miller,0.48823005,Miller,,,,0.48823005
+1548,Missouri,Mississippi,0.656721771,Mississippi,,,,0.656721771
+1549,Missouri,Moniteau,0.473137319,Moniteau,,,,0.473137319
+1550,Missouri,Monroe,0.588801444,Monroe,,,,0.588801444
+1551,Missouri,Montgomery,0.554163635,Montgomery,,,,0.554163635
+1552,Missouri,Morgan,0.427208602,Morgan,,,,0.427208602
+1553,Missouri,New,0.641283154,New,,,,0.641283154
+1554,Missouri,Newton,0.516963482,Newton,,,,0.516963482
+1555,Missouri,Nodaway,0.592445254,Nodaway,,,,0.592445254
+1556,Missouri,Oregon,0.575575531,Oregon,,,,0.575575531
+1557,Missouri,Osage,0.666055679,Osage,,,,0.666055679
+1558,Missouri,Ozark,0.657178938,Ozark,,,,0.657178938
+1559,Missouri,Pemiscot,0.625206232,Pemiscot,,,,0.625206232
+1560,Missouri,Perry,0.483491927,Perry,,,,0.483491927
+1561,Missouri,Pettis,0.489192903,Pettis,,,,0.489192903
+1562,Missouri,Phelps,0.56608206,Phelps,,,,0.56608206
+1563,Missouri,Pike,0.551779926,Pike,,,,0.551779926
+1564,Missouri,Platte,0.574031591,Platte,,,,0.574031591
+1565,Missouri,Polk,0.528167367,Polk,,,,0.528167367
+1566,Missouri,Pulaski,0.483520657,Pulaski,,,,0.483520657
+1567,Missouri,Putnam,0.652730644,Putnam,,,,0.652730644
+1568,Missouri,Ralls,0.533387125,Ralls,,,,0.533387125
+1569,Missouri,Randolph,0.610465169,Randolph,,,,0.610465169
+1570,Missouri,Ray,0.594457448,Ray,,,,0.594457448
+1571,Missouri,Reynolds,0.606016338,Reynolds,,,,0.606016338
+1572,Missouri,Ripley,0.694192052,Ripley,,,,0.694192052
+1573,Missouri,St.,0.555207849,St.,,,,0.555207849
+1574,Missouri,St.,0.617762029,St.,,,,0.617762029
+1575,Missouri,Ste.,0.611572444,Ste.,,,,0.611572444
+1576,Missouri,St.,0.553322434,St.,,,,0.553322434
+1577,Missouri,St.,0.607318878,St.,,,,0.607318878
+1578,Missouri,Saline,0.527054191,Saline,,,,0.527054191
+1579,Missouri,Schuyler,0.544977844,Schuyler,,,,0.544977844
+1580,Missouri,Scotland,0.34478128,Scotland,,,,0.34478128
+1581,Missouri,Scott,0.591632009,Scott,,,,0.591632009
+1582,Missouri,Shannon,0.65171814,Shannon,,,,0.65171814
+1583,Missouri,Shelby,0.538399577,Shelby,,,,0.538399577
+1584,Missouri,Stoddard,0.610896409,Stoddard,,,,0.610896409
+1585,Missouri,Stone,0.697403073,Stone,,,,0.697403073
+1586,Missouri,Sullivan,0.548257172,Sullivan,,,,0.548257172
+1587,Missouri,Taney,0.556665599,Taney,,,,0.556665599
+1588,Missouri,Texas,0.624594569,Texas,,,,0.624594569
+1589,Missouri,Vernon,0.468299657,Vernon,,,,0.468299657
+1590,Missouri,Warren,0.427254766,Warren,,,,0.427254766
+1591,Missouri,Washington,0.60143882,Washington,,,,0.60143882
+1592,Missouri,Wayne,0.608589172,Wayne,,,,0.608589172
+1593,Missouri,Webster,0.520778537,Webster,,,,0.520778537
+1594,Missouri,Worth,0.707875371,Worth,,,,0.707875371
+1595,Missouri,Wright,0.544754565,Wright,,,,0.544754565
+1596,Missouri,St.,0.62151289,St.,,,,0.62151289
+1597,Montana,Beaverhead,0.538001776,Beaverhead,,,,0.538001776
+1598,Montana,Big,0.440770209,Big,,,,0.440770209
+1599,Montana,Blaine,0.470901519,Blaine,,,,0.470901519
+1600,Montana,Broadwater,0.464584291,Broadwater,,,,0.464584291
+1601,Montana,Carbon,0.542061567,Carbon,,,,0.542061567
+1602,Montana,Carter,0.579650998,Carter,,,,0.579650998
+1603,Montana,Cascade,0.456696689,Cascade,,,,0.456696689
+1604,Montana,Chouteau,0.556226373,Chouteau,,,,0.556226373
+1605,Montana,Custer,0.52441442,Custer,,,,0.52441442
+1606,Montana,Daniels,0.532300293,Daniels,,,,0.532300293
+1607,Montana,Dawson,0.346307188,Dawson,,,,0.346307188
+1608,Montana,Deer,0.633270264,Deer,,,,0.633270264
+1609,Montana,Fallon,0.417187721,Fallon,,,,0.417187721
+1610,Montana,Fergus,0.52015835,Fergus,,,,0.52015835
+1611,Montana,Flathead,0.399795562,Flathead,,,,0.399795562
+1612,Montana,Gallatin,0.460916907,Gallatin,,,,0.460916907
+1613,Montana,Garfield,0.506457269,Garfield,,,,0.506457269
+1614,Montana,Glacier,0.510066152,Glacier,,,,0.510066152
+1615,Montana,Golden,0.470265925,Golden,,,,0.470265925
+1616,Montana,Granite,0.555894852,Granite,,,,0.555894852
+1617,Montana,Hill,0.477426201,Hill,,,,0.477426201
+1618,Montana,Jefferson,0.525387228,Jefferson,,,,0.525387228
+1619,Montana,Judith,0.590548992,Judith,,,,0.590548992
+1620,Montana,Lake,0.487083256,Lake,,,,0.487083256
+1621,Montana,Lewis,0.462071478,Lewis,,,,0.462071478
+1622,Montana,Liberty,0.367697835,Liberty,,,,0.367697835
+1623,Montana,Lincoln,0.534561157,Lincoln,,,,0.534561157
+1624,Montana,McCone,0.582361698,McCone,,,,0.582361698
+1625,Montana,Madison,0.574300289,Madison,,,,0.574300289
+1626,Montana,Meagher,0.577947795,Meagher,,,,0.577947795
+1627,Montana,Mineral,0.580664933,Mineral,,,,0.580664933
+1628,Montana,Missoula,0.541824698,Missoula,,,,0.541824698
+1629,Montana,Musselshell,0.488892674,Musselshell,,,,0.488892674
+1630,Montana,Park,0.549169719,Park,,,,0.549169719
+1631,Montana,Petroleum,0.601492167,Petroleum,,,,0.601492167
+1632,Montana,Phillips,0.556637108,Phillips,,,,0.556637108
+1633,Montana,Pondera,0.49403128,Pondera,,,,0.49403128
+1634,Montana,Powder,0.585733354,Powder,,,,0.585733354
+1635,Montana,Powell,0.532372117,Powell,,,,0.532372117
+1636,Montana,Prairie,0.646618009,Prairie,,,,0.646618009
+1637,Montana,Ravalli,0.54234606,Ravalli,,,,0.54234606
+1638,Montana,Richland,0.355670124,Richland,,,,0.355670124
+1639,Montana,Roosevelt,0.492909044,Roosevelt,,,,0.492909044
+1640,Montana,Rosebud,0.417227209,Rosebud,,,,0.417227209
+1641,Montana,Sanders,0.62719661,Sanders,,,,0.62719661
+1642,Montana,Sheridan,0.508158863,Sheridan,,,,0.508158863
+1643,Montana,Silver,0.476588845,Silver,,,,0.476588845
+1644,Montana,Stillwater,0.518307388,Stillwater,,,,0.518307388
+1645,Montana,Sweet,0.447335452,Sweet,,,,0.447335452
+1646,Montana,Teton,0.437958032,Teton,,,,0.437958032
+1647,Montana,Toole,0.278468519,Toole,,,,0.278468519
+1648,Montana,Treasure,0.604362071,Treasure,,,,0.604362071
+1649,Montana,Valley,0.555485547,Valley,,,,0.555485547
+1650,Montana,Wheatland,0.38513571,Wheatland,,,,0.38513571
+1651,Montana,Wibaux,0.390437007,Wibaux,,,,0.390437007
+1652,Montana,Yellowstone,0.475498497,Yellowstone,,,,0.475498497
+1653,Nebraska,Adams,0.431484163,Adams,,,,0.431484163
+1654,Nebraska,Antelope,0.463089526,Antelope,,,,0.463089526
+1655,Nebraska,Arthur,0.459778816,Arthur,,,,0.459778816
+1656,Nebraska,Banner,0.445478469,Banner,,,,0.445478469
+1657,Nebraska,Blaine,0.58200556,Blaine,,,,0.58200556
+1658,Nebraska,Boone,0.540743411,Boone,,,,0.540743411
+1659,Nebraska,Box,0.423069596,Box,,,,0.423069596
+1660,Nebraska,Boyd,0.635518789,Boyd,,,,0.635518789
+1661,Nebraska,Brown,0.520878553,Brown,,,,0.520878553
+1662,Nebraska,Buffalo,0.375979662,Buffalo,,,,0.375979662
+1663,Nebraska,Burt,0.529095948,Burt,,,,0.529095948
+1664,Nebraska,Butler,0.494037002,Butler,,,,0.494037002
+1665,Nebraska,Cass,0.527909875,Cass,,,,0.527909875
+1666,Nebraska,Cedar,0.494973183,Cedar,,,,0.494973183
+1667,Nebraska,Chase,0.408462435,Chase,,,,0.408462435
+1668,Nebraska,Cherry,0.349287659,Cherry,,,,0.349287659
+1669,Nebraska,Cheyenne,0.457633674,Cheyenne,,,,0.457633674
+1670,Nebraska,Clay,0.419289619,Clay,,,,0.419289619
+1671,Nebraska,Colfax,0.192687705,Colfax,,,,0.192687705
+1672,Nebraska,Cuming,0.343481928,Cuming,,,,0.343481928
+1673,Nebraska,Custer,0.403132766,Custer,,,,0.403132766
+1674,Nebraska,Dakota,0.223448977,Dakota,,,,0.223448977
+1675,Nebraska,Dawes,0.480242401,Dawes,,,,0.480242401
+1676,Nebraska,Dawson,0.220904931,Dawson,,,,0.220904931
+1677,Nebraska,Deuel,0.476671159,Deuel,,,,0.476671159
+1678,Nebraska,Dixon,0.404576689,Dixon,,,,0.404576689
+1679,Nebraska,Dodge,0.45069623,Dodge,,,,0.45069623
+1680,Nebraska,Douglas,0.406334728,Douglas,,,,0.406334728
+1681,Nebraska,Dundy,0.420042545,Dundy,,,,0.420042545
+1682,Nebraska,Fillmore,0.538675249,Fillmore,,,,0.538675249
+1683,Nebraska,Franklin,0.573414445,Franklin,,,,0.573414445
+1684,Nebraska,Frontier,0.633330524,Frontier,,,,0.633330524
+1685,Nebraska,Furnas,0.483882159,Furnas,,,,0.483882159
+1686,Nebraska,Gage,0.496545613,Gage,,,,0.496545613
+1687,Nebraska,Garden,0.551746726,Garden,,,,0.551746726
+1688,Nebraska,Garfield,0.531165898,Garfield,,,,0.531165898
+1689,Nebraska,Gosper,0.438147128,Gosper,,,,0.438147128
+1690,Nebraska,Grant,0.461022735,Grant,,,,0.461022735
+1691,Nebraska,Greeley,0.589003205,Greeley,,,,0.589003205
+1692,Nebraska,Hall,0.231960058,Hall,,,,0.231960058
+1693,Nebraska,Hamilton,0.422081172,Hamilton,,,,0.422081172
+1694,Nebraska,Harlan,0.610739112,Harlan,,,,0.610739112
+1695,Nebraska,Hayes,0.422076017,Hayes,,,,0.422076017
+1696,Nebraska,Hitchcock,0.481820196,Hitchcock,,,,0.481820196
+1697,Nebraska,Holt,0.414403439,Holt,,,,0.414403439
+1698,Nebraska,Hooker,0.46806109,Hooker,,,,0.46806109
+1699,Nebraska,Howard,0.514920175,Howard,,,,0.514920175
+1700,Nebraska,Jefferson,0.399627358,Jefferson,,,,0.399627358
+1701,Nebraska,Johnson,0.385183096,Johnson,,,,0.385183096
+1702,Nebraska,Kearney,0.408478618,Kearney,,,,0.408478618
+1703,Nebraska,Keith,0.545404136,Keith,,,,0.545404136
+1704,Nebraska,Keya,0.594864905,Keya,,,,0.594864905
+1705,Nebraska,Kimball,0.45762074,Kimball,,,,0.45762074
+1706,Nebraska,Knox,0.507910013,Knox,,,,0.507910013
+1707,Nebraska,Lancaster,0.417473584,Lancaster,,,,0.417473584
+1708,Nebraska,Lincoln,0.479753792,Lincoln,,,,0.479753792
+1709,Nebraska,Logan,0.424847871,Logan,,,,0.424847871
+1710,Nebraska,Loup,0.545870364,Loup,,,,0.545870364
+1711,Nebraska,McPherson,0.677072167,McPherson,,,,0.677072167
+1712,Nebraska,Madison,0.373627961,Madison,,,,0.373627961
+1713,Nebraska,Merrick,0.524978101,Merrick,,,,0.524978101
+1714,Nebraska,Morrill,0.385553926,Morrill,,,,0.385553926
+1715,Nebraska,Nance,0.533811033,Nance,,,,0.533811033
+1716,Nebraska,Nemaha,0.515094519,Nemaha,,,,0.515094519
+1717,Nebraska,Nuckolls,0.543062866,Nuckolls,,,,0.543062866
+1718,Nebraska,Otoe,0.419237465,Otoe,,,,0.419237465
+1719,Nebraska,Pawnee,0.532765925,Pawnee,,,,0.532765925
+1720,Nebraska,Perkins,0.440420717,Perkins,,,,0.440420717
+1721,Nebraska,Phelps,0.418724507,Phelps,,,,0.418724507
+1722,Nebraska,Pierce,0.488819093,Pierce,,,,0.488819093
+1723,Nebraska,Platte,0.299225777,Platte,,,,0.299225777
+1724,Nebraska,Polk,0.489049762,Polk,,,,0.489049762
+1725,Nebraska,Red,0.466033548,Red,,,,0.466033548
+1726,Nebraska,Richardson,0.616638124,Richardson,,,,0.616638124
+1727,Nebraska,Rock,0.594339788,Rock,,,,0.594339788
+1728,Nebraska,Saline,0.281223297,Saline,,,,0.281223297
+1729,Nebraska,Sarpy,0.474620908,Sarpy,,,,0.474620908
+1730,Nebraska,Saunders,0.548075557,Saunders,,,,0.548075557
+1731,Nebraska,Scotts,0.309350073,Scotts,,,,0.309350073
+1732,Nebraska,Seward,0.483711779,Seward,,,,0.483711779
+1733,Nebraska,Sheridan,0.525116861,Sheridan,,,,0.525116861
+1734,Nebraska,Sherman,0.534882009,Sherman,,,,0.534882009
+1735,Nebraska,Sioux,0.535223186,Sioux,,,,0.535223186
+1736,Nebraska,Stanton,0.438214332,Stanton,,,,0.438214332
+1737,Nebraska,Thayer,0.48575595,Thayer,,,,0.48575595
+1738,Nebraska,Thomas,0.415541619,Thomas,,,,0.415541619
+1739,Nebraska,Thurston,0.342801601,Thurston,,,,0.342801601
+1740,Nebraska,Valley,0.475914836,Valley,,,,0.475914836
+1741,Nebraska,Washington,0.44897747,Washington,,,,0.44897747
+1742,Nebraska,Wayne,0.436407208,Wayne,,,,0.436407208
+1743,Nebraska,Webster,0.535046697,Webster,,,,0.535046697
+1744,Nebraska,Wheeler,0.482428223,Wheeler,,,,0.482428223
+1745,Nebraska,York,0.509982705,York,,,,0.509982705
+1746,Nevada,Churchill,0.548790276,Churchill,,,,0.548790276
+1747,Nevada,Clark,0.455126554,Clark,,,,0.455126554
+1748,Nevada,Douglas,0.616306901,Douglas,,,,0.616306901
+1749,Nevada,Elko,0.363162547,Elko,,,,0.363162547
+1750,Nevada,Esmeralda,0.625859916,Esmeralda,,,,0.625859916
+1751,Nevada,Eureka,0.452476591,Eureka,,,,0.452476591
+1752,Nevada,Humboldt,0.350856394,Humboldt,,,,0.350856394
+1753,Nevada,Lander,0.48023802,Lander,,,,0.48023802
+1754,Nevada,Lincoln,0.613039136,Lincoln,,,,0.613039136
+1755,Nevada,Lyon,0.644216359,Lyon,,,,0.644216359
+1756,Nevada,Mineral,0.65359813,Mineral,,,,0.65359813
+1757,Nevada,Nye,0.685010135,Nye,,,,0.685010135
+1758,Nevada,Pershing,0.513384402,Pershing,,,,0.513384402
+1759,Nevada,Storey,0.780094564,Storey,,,,0.780094564
+1760,Nevada,Washoe,0.451855749,Washoe,,,,0.451855749
+1761,Nevada,White,0.524986267,White,,,,0.524986267
+1762,Nevada,Carson,0.497419536,Carson,,,,0.497419536
+1763,New Hampshire,Belknap,0.570393622,Belknap,,,,0.570393622
+1764,New Hampshire,Carroll,0.618597806,Carroll,,,,0.618597806
+1765,New Hampshire,Cheshire,0.58698684,Cheshire,,,,0.58698684
+1766,New Hampshire,Coos,0.626697659,Coos,,,,0.626697659
+1767,New Hampshire,Grafton,0.59174633,Grafton,,,,0.59174633
+1768,New Hampshire,Hillsborough,0.529658616,Hillsborough,,,,0.529658616
+1769,New Hampshire,Merrimack,0.536560893,Merrimack,,,,0.536560893
+1770,New Hampshire,Rockingham,0.562447369,Rockingham,,,,0.562447369
+1771,New Hampshire,Strafford,0.59117943,Strafford,,,,0.59117943
+1772,New Hampshire,Sullivan,0.513706028,Sullivan,,,,0.513706028
+1773,New Jersey,Atlantic,0.539113402,Atlantic,,,,0.539113402
+1774,New Jersey,Bergen,0.560253561,Bergen,,,,0.560253561
+1775,New Jersey,Burlington,0.602933228,Burlington,,,,0.602933228
+1776,New Jersey,Camden,0.566589832,Camden,,,,0.566589832
+1777,New Jersey,Cape,0.610189855,Cape,,,,0.610189855
+1778,New Jersey,Cumberland,0.431789726,Cumberland,,,,0.431789726
+1779,New Jersey,Essex,0.497432888,Essex,,,,0.497432888
+1780,New Jersey,Gloucester,0.56314069,Gloucester,,,,0.56314069
+1781,New Jersey,Hudson,0.423686028,Hudson,,,,0.423686028
+1782,New Jersey,Hunterdon,0.631226003,Hunterdon,,,,0.631226003
+1783,New Jersey,Mercer,0.462194204,Mercer,,,,0.462194204
+1784,New Jersey,Middlesex,0.539994419,Middlesex,,,,0.539994419
+1785,New Jersey,Monmouth,0.624009788,Monmouth,,,,0.624009788
+1786,New Jersey,Morris,0.52339983,Morris,,,,0.52339983
+1787,New Jersey,Ocean,0.588464558,Ocean,,,,0.588464558
+1788,New Jersey,Passaic,0.277172595,Passaic,,,,0.277172595
+1789,New Jersey,Salem,0.617636561,Salem,,,,0.617636561
+1790,New Jersey,Somerset,0.537064552,Somerset,,,,0.537064552
+1791,New Jersey,Sussex,0.632208526,Sussex,,,,0.632208526
+1792,New Jersey,Union,0.387518734,Union,,,,0.387518734
+1793,New Jersey,Warren,0.564741194,Warren,,,,0.564741194
+1794,New Mexico,Bernalillo,0.401942611,Bernalillo,,,,0.401942611
+1795,New Mexico,Catron,0.78853631,Catron,,,,0.78853631
+1796,New Mexico,Chaves,0.396308571,Chaves,,,,0.396308571
+1797,New Mexico,Cibola,0.585472107,Cibola,,,,0.585472107
+1798,New Mexico,Colfax,0.570366621,Colfax,,,,0.570366621
+1799,New Mexico,Curry,0.325124323,Curry,,,,0.325124323
+1800,New Mexico,De,0.625455439,De,,,,0.625455439
+1801,New Mexico,Do?a,0.300315112,Do?a,,,,0.300315112
+1802,New Mexico,Eddy,0.36442548,Eddy,,,,0.36442548
+1803,New Mexico,Grant,0.497532725,Grant,,,,0.497532725
+1804,New Mexico,Guadalupe,0.389175892,Guadalupe,,,,0.389175892
+1805,New Mexico,Harding,0.703329742,Harding,,,,0.703329742
+1806,New Mexico,Hidalgo,0.400470346,Hidalgo,,,,0.400470346
+1807,New Mexico,Lea,0.235458866,Lea,,,,0.235458866
+1808,New Mexico,Lincoln,0.512150645,Lincoln,,,,0.512150645
+1809,New Mexico,Los,0.555336297,Los,,,,0.555336297
+1810,New Mexico,Luna,0.377250463,Luna,,,,0.377250463
+1811,New Mexico,McKinley,0.58088547,McKinley,,,,0.58088547
+1812,New Mexico,Mora,0.562840819,Mora,,,,0.562840819
+1813,New Mexico,Otero,0.488324881,Otero,,,,0.488324881
+1814,New Mexico,Quay,0.467594057,Quay,,,,0.467594057
+1815,New Mexico,Rio,0.400402725,Rio,,,,0.400402725
+1816,New Mexico,Roosevelt,0.367856234,Roosevelt,,,,0.367856234
+1817,New Mexico,Sandoval,0.455071211,Sandoval,,,,0.455071211
+1818,New Mexico,San,0.549603224,San,,,,0.549603224
+1819,New Mexico,San,0.539829552,San,,,,0.539829552
+1820,New Mexico,Santa,0.378258318,Santa,,,,0.378258318
+1821,New Mexico,Sierra,0.704264164,Sierra,,,,0.704264164
+1822,New Mexico,Socorro,0.53780508,Socorro,,,,0.53780508
+1823,New Mexico,Taos,0.533100963,Taos,,,,0.533100963
+1824,New Mexico,Torrance,0.443850666,Torrance,,,,0.443850666
+1825,New Mexico,Union,0.513190806,Union,,,,0.513190806
+1826,New Mexico,Valencia,0.449249536,Valencia,,,,0.449249536
+1827,New York,Albany,0.54885155,Albany,,,,0.54885155
+1828,New York,Allegany,0.601525784,Allegany,,,,0.601525784
+1829,New York,Bronx,0.271608591,Bronx,,,,0.271608591
+1830,New York,Broome,0.626840353,Broome,,,,0.626840353
+1831,New York,Cattaraugus,0.585076809,Cattaraugus,,,,0.585076809
+1832,New York,Cayuga,0.577905834,Cayuga,,,,0.577905834
+1833,New York,Chautauqua,0.581810594,Chautauqua,,,,0.581810594
+1834,New York,Chemung,0.581705749,Chemung,,,,0.581705749
+1835,New York,Chenango,0.555303574,Chenango,,,,0.555303574
+1836,New York,Clinton,0.582197845,Clinton,,,,0.582197845
+1837,New York,Columbia,0.549427927,Columbia,,,,0.549427927
+1838,New York,Cortland,0.546760142,Cortland,,,,0.546760142
+1839,New York,Delaware,0.550687551,Delaware,,,,0.550687551
+1840,New York,Dutchess,0.543735266,Dutchess,,,,0.543735266
+1841,New York,Erie,0.663582206,Erie,,,,0.663582206
+1842,New York,Essex,0.613208413,Essex,,,,0.613208413
+1843,New York,Franklin,0.561475098,Franklin,,,,0.561475098
+1844,New York,Fulton,0.600753129,Fulton,,,,0.600753129
+1845,New York,Genesee,0.620273769,Genesee,,,,0.620273769
+1846,New York,Greene,0.524781227,Greene,,,,0.524781227
+1847,New York,Hamilton,0.627147794,Hamilton,,,,0.627147794
+1848,New York,Herkimer,0.63707155,Herkimer,,,,0.63707155
+1849,New York,Jefferson,0.525946975,Jefferson,,,,0.525946975
+1850,New York,Kings,0.425618351,Kings,,,,0.425618351
+1851,New York,Lewis,0.527185023,Lewis,,,,0.527185023
+1852,New York,Livingston,0.561014414,Livingston,,,,0.561014414
+1853,New York,Madison,0.601738572,Madison,,,,0.601738572
+1854,New York,Monroe,0.550549686,Monroe,,,,0.550549686
+1855,New York,Montgomery,0.527432621,Montgomery,,,,0.527432621
+1856,New York,Nassau,0.602502882,Nassau,,,,0.602502882
+1857,New York,New,0.578990996,New,,,,0.578990996
+1858,New York,Niagara,0.68016398,Niagara,,,,0.68016398
+1859,New York,Oneida,0.583933115,Oneida,,,,0.583933115
+1860,New York,Onondaga,0.566822052,Onondaga,,,,0.566822052
+1861,New York,Ontario,0.600752115,Ontario,,,,0.600752115
+1862,New York,Orange,0.394482911,Orange,,,,0.394482911
+1863,New York,Orleans,0.615191758,Orleans,,,,0.615191758
+1864,New York,Oswego,0.558956385,Oswego,,,,0.558956385
+1865,New York,Otsego,0.60118413,Otsego,,,,0.60118413
+1866,New York,Putnam,0.496785432,Putnam,,,,0.496785432
+1867,New York,Queens,0.436323553,Queens,,,,0.436323553
+1868,New York,Rensselaer,0.549455822,Rensselaer,,,,0.549455822
+1869,New York,Richmond,0.614104211,Richmond,,,,0.614104211
+1870,New York,Rockland,0.32929197,Rockland,,,,0.32929197
+1871,New York,St.,0.624010742,St.,,,,0.624010742
+1872,New York,Saratoga,0.574807346,Saratoga,,,,0.574807346
+1873,New York,Schenectady,0.532863975,Schenectady,,,,0.532863975
+1874,New York,Schoharie,0.609187245,Schoharie,,,,0.609187245
+1875,New York,Schuyler,0.587412715,Schuyler,,,,0.587412715
+1876,New York,Seneca,0.542758226,Seneca,,,,0.542758226
+1877,New York,Steuben,0.585036457,Steuben,,,,0.585036457
+1878,New York,Suffolk,0.531736374,Suffolk,,,,0.531736374
+1879,New York,Sullivan,0.476454407,Sullivan,,,,0.476454407
+1880,New York,Tioga,0.597433805,Tioga,,,,0.597433805
+1881,New York,Tompkins,0.56445384,Tompkins,,,,0.56445384
+1882,New York,Ulster,0.520973027,Ulster,,,,0.520973027
+1883,New York,Warren,0.562341452,Warren,,,,0.562341452
+1884,New York,Washington,0.592291594,Washington,,,,0.592291594
+1885,New York,Wayne,0.585391343,Wayne,,,,0.585391343
+1886,New York,Westchester,0.418712646,Westchester,,,,0.418712646
+1887,New York,Wyoming,0.580970764,Wyoming,,,,0.580970764
+1888,New York,Yates,0.464412987,Yates,,,,0.464412987
+1889,North Carolina,Alamance,0.483897388,Alamance,,,,0.483897388
+1890,North Carolina,Alexander,0.56044668,Alexander,,,,0.56044668
+1891,North Carolina,Alleghany,0.565466464,Alleghany,,,,0.565466464
+1892,North Carolina,Anson,0.665046215,Anson,,,,0.665046215
+1893,North Carolina,Ashe,0.689280808,Ashe,,,,0.689280808
+1894,North Carolina,Avery,0.633725762,Avery,,,,0.633725762
+1895,North Carolina,Beaufort,0.537044704,Beaufort,,,,0.537044704
+1896,North Carolina,Bertie,0.695241988,Bertie,,,,0.695241988
+1897,North Carolina,Bladen,0.65096277,Bladen,,,,0.65096277
+1898,North Carolina,Brunswick,0.66957885,Brunswick,,,,0.66957885
+1899,North Carolina,Buncombe,0.56714344,Buncombe,,,,0.56714344
+1900,North Carolina,Burke,0.516782641,Burke,,,,0.516782641
+1901,North Carolina,Cabarrus,0.434228241,Cabarrus,,,,0.434228241
+1902,North Carolina,Caldwell,0.578574419,Caldwell,,,,0.578574419
+1903,North Carolina,Camden,0.489016026,Camden,,,,0.489016026
+1904,North Carolina,Carteret,0.642467141,Carteret,,,,0.642467141
+1905,North Carolina,Caswell,0.521962285,Caswell,,,,0.521962285
+1906,North Carolina,Catawba,0.488894045,Catawba,,,,0.488894045
+1907,North Carolina,Chatham,0.542690933,Chatham,,,,0.542690933
+1908,North Carolina,Cherokee,0.671071112,Cherokee,,,,0.671071112
+1909,North Carolina,Chowan,0.615058243,Chowan,,,,0.615058243
+1910,North Carolina,Clay,0.577425063,Clay,,,,0.577425063
+1911,North Carolina,Cleveland,0.570251286,Cleveland,,,,0.570251286
+1912,North Carolina,Columbus,0.697139621,Columbus,,,,0.697139621
+1913,North Carolina,Craven,0.61499697,Craven,,,,0.61499697
+1914,North Carolina,Cumberland,0.486770302,Cumberland,,,,0.486770302
+1915,North Carolina,Currituck,0.512042046,Currituck,,,,0.512042046
+1916,North Carolina,Dare,0.522506893,Dare,,,,0.522506893
+1917,North Carolina,Davidson,0.516313732,Davidson,,,,0.516313732
+1918,North Carolina,Davie,0.567498624,Davie,,,,0.567498624
+1919,North Carolina,Duplin,0.553402483,Duplin,,,,0.553402483
+1920,North Carolina,Durham,0.434287578,Durham,,,,0.434287578
+1921,North Carolina,Edgecombe,0.638415575,Edgecombe,,,,0.638415575
+1922,North Carolina,Forsyth,0.458693892,Forsyth,,,,0.458693892
+1923,North Carolina,Franklin,0.495512635,Franklin,,,,0.495512635
+1924,North Carolina,Gaston,0.482373923,Gaston,,,,0.482373923
+1925,North Carolina,Gates,0.60971272,Gates,,,,0.60971272
+1926,North Carolina,Graham,0.600136817,Graham,,,,0.600136817
+1927,North Carolina,Granville,0.548735023,Granville,,,,0.548735023
+1928,North Carolina,Greene,0.484397113,Greene,,,,0.484397113
+1929,North Carolina,Guilford,0.494949847,Guilford,,,,0.494949847
+1930,North Carolina,Halifax,0.690409303,Halifax,,,,0.690409303
+1931,North Carolina,Harnett,0.449878544,Harnett,,,,0.449878544
+1932,North Carolina,Haywood,0.650461793,Haywood,,,,0.650461793
+1933,North Carolina,Henderson,0.533368528,Henderson,,,,0.533368528
+1934,North Carolina,Hertford,0.699173093,Hertford,,,,0.699173093
+1935,North Carolina,Hoke,0.478948832,Hoke,,,,0.478948832
+1936,North Carolina,Hyde,0.689786136,Hyde,,,,0.689786136
+1937,North Carolina,Iredell,0.486332893,Iredell,,,,0.486332893
+1938,North Carolina,Jackson,0.575780153,Jackson,,,,0.575780153
+1939,North Carolina,Johnston,0.426859438,Johnston,,,,0.426859438
+1940,North Carolina,Jones,0.773771524,Jones,,,,0.773771524
+1941,North Carolina,Lee,0.389586508,Lee,,,,0.389586508
+1942,North Carolina,Lenoir,0.579045534,Lenoir,,,,0.579045534
+1943,North Carolina,Lincoln,0.485003799,Lincoln,,,,0.485003799
+1944,North Carolina,McDowell,0.584083021,McDowell,,,,0.584083021
+1945,North Carolina,Macon,0.61672765,Macon,,,,0.61672765
+1946,North Carolina,Madison,0.529930472,Madison,,,,0.529930472
+1947,North Carolina,Martin,0.60248816,Martin,,,,0.60248816
+1948,North Carolina,Mecklenburg,0.422452062,Mecklenburg,,,,0.422452062
+1949,North Carolina,Mitchell,0.625538826,Mitchell,,,,0.625538826
+1950,North Carolina,Montgomery,0.525755167,Montgomery,,,,0.525755167
+1951,North Carolina,Moore,0.586177051,Moore,,,,0.586177051
+1952,North Carolina,Nash,0.556245029,Nash,,,,0.556245029
+1953,North Carolina,New,0.544024408,New,,,,0.544024408
+1954,North Carolina,Northampton,0.764030278,Northampton,,,,0.764030278
+1955,North Carolina,Onslow,0.457789361,Onslow,,,,0.457789361
+1956,North Carolina,Orange,0.445498526,Orange,,,,0.445498526
+1957,North Carolina,Pamlico,0.706051648,Pamlico,,,,0.706051648
+1958,North Carolina,Pasquotank,0.545377076,Pasquotank,,,,0.545377076
+1959,North Carolina,Pender,0.584585845,Pender,,,,0.584585845
+1960,North Carolina,Perquimans,0.67573607,Perquimans,,,,0.67573607
+1961,North Carolina,Person,0.539919317,Person,,,,0.539919317
+1962,North Carolina,Pitt,0.563197613,Pitt,,,,0.563197613
+1963,North Carolina,Polk,0.64033699,Polk,,,,0.64033699
+1964,North Carolina,Randolph,0.462022901,Randolph,,,,0.462022901
+1965,North Carolina,Richmond,0.651806474,Richmond,,,,0.651806474
+1966,North Carolina,Robeson,0.577499866,Robeson,,,,0.577499866
+1967,North Carolina,Rockingham,0.602444589,Rockingham,,,,0.602444589
+1968,North Carolina,Rowan,0.499462694,Rowan,,,,0.499462694
+1969,North Carolina,Rutherford,0.569220662,Rutherford,,,,0.569220662
+1970,North Carolina,Sampson,0.4350546,Sampson,,,,0.4350546
+1971,North Carolina,Scotland,0.67279464,Scotland,,,,0.67279464
+1972,North Carolina,Stanly,0.449658036,Stanly,,,,0.449658036
+1973,North Carolina,Stokes,0.582511544,Stokes,,,,0.582511544
+1974,North Carolina,Surry,0.552487016,Surry,,,,0.552487016
+1975,North Carolina,Swain,0.576287925,Swain,,,,0.576287925
+1976,North Carolina,Transylvania,0.609613836,Transylvania,,,,0.609613836
+1977,North Carolina,Tyrrell,0.569092035,Tyrrell,,,,0.569092035
+1978,North Carolina,Union,0.403636366,Union,,,,0.403636366
+1979,North Carolina,Vance,0.501412451,Vance,,,,0.501412451
+1980,North Carolina,Wake,0.463603795,Wake,,,,0.463603795
+1981,North Carolina,Warren,0.624672174,Warren,,,,0.624672174
+1982,North Carolina,Washington,0.636520863,Washington,,,,0.636520863
+1983,North Carolina,Watauga,0.62379837,Watauga,,,,0.62379837
+1984,North Carolina,Wayne,0.567203939,Wayne,,,,0.567203939
+1985,North Carolina,Wilkes,0.596785426,Wilkes,,,,0.596785426
+1986,North Carolina,Wilson,0.505205929,Wilson,,,,0.505205929
+1987,North Carolina,Yadkin,0.516371489,Yadkin,,,,0.516371489
+1988,North Carolina,Yancey,0.658409476,Yancey,,,,0.658409476
+1989,North Dakota,Adams,0.535987079,Adams,,,,0.535987079
+1990,North Dakota,Barnes,0.446362734,Barnes,,,,0.446362734
+1991,North Dakota,Benson,0.272108614,Benson,,,,0.272108614
+1992,North Dakota,Billings,0.41463995,Billings,,,,0.41463995
+1993,North Dakota,Bottineau,0.471430629,Bottineau,,,,0.471430629
+1994,North Dakota,Bowman,0.425134003,Bowman,,,,0.425134003
+1995,North Dakota,Burke,0.443413556,Burke,,,,0.443413556
+1996,North Dakota,Burleigh,0.358085006,Burleigh,,,,0.358085006
+1997,North Dakota,Cass,0.37005356,Cass,,,,0.37005356
+1998,North Dakota,Cavalier,0.495154411,Cavalier,,,,0.495154411
+1999,North Dakota,Dickey,0.390081674,Dickey,,,,0.390081674
+2000,North Dakota,Divide,0.354183733,Divide,,,,0.354183733
+2001,North Dakota,Dunn,0.356000602,Dunn,,,,0.356000602
+2002,North Dakota,Eddy,0.400885999,Eddy,,,,0.400885999
+2003,North Dakota,Emmons,0.511628151,Emmons,,,,0.511628151
+2004,North Dakota,Foster,0.518287122,Foster,,,,0.518287122
+2005,North Dakota,Golden,0.493147075,Golden,,,,0.493147075
+2006,North Dakota,Grand,0.415843159,Grand,,,,0.415843159
+2007,North Dakota,Grant,0.558692873,Grant,,,,0.558692873
+2008,North Dakota,Griggs,0.501134515,Griggs,,,,0.501134515
+2009,North Dakota,Hettinger,0.300043523,Hettinger,,,,0.300043523
+2010,North Dakota,Kidder,0.414808333,Kidder,,,,0.414808333
+2011,North Dakota,LaMoure,0.433364928,LaMoure,,,,0.433364928
+2012,North Dakota,Logan,0.479488224,Logan,,,,0.479488224
+2013,North Dakota,McHenry,0.482252985,McHenry,,,,0.482252985
+2014,North Dakota,McIntosh,0.415085942,McIntosh,,,,0.415085942
+2015,North Dakota,McKenzie,0.25693363,McKenzie,,,,0.25693363
+2016,North Dakota,McLean,0.443502635,McLean,,,,0.443502635
+2017,North Dakota,Mercer,0.518272936,Mercer,,,,0.518272936
+2018,North Dakota,Morton,0.373366982,Morton,,,,0.373366982
+2019,North Dakota,Mountrail,0.339715779,Mountrail,,,,0.339715779
+2020,North Dakota,Nelson,0.560113609,Nelson,,,,0.560113609
+2021,North Dakota,Oliver,0.508606017,Oliver,,,,0.508606017
+2022,North Dakota,Pembina,0.450541258,Pembina,,,,0.450541258
+2023,North Dakota,Pierce,0.42768544,Pierce,,,,0.42768544
+2024,North Dakota,Ramsey,0.392579108,Ramsey,,,,0.392579108
+2025,North Dakota,Ransom,0.341737211,Ransom,,,,0.341737211
+2026,North Dakota,Renville,0.389518917,Renville,,,,0.389518917
+2027,North Dakota,Richland,0.414302945,Richland,,,,0.414302945
+2028,North Dakota,Rolette,0.46900329,Rolette,,,,0.46900329
+2029,North Dakota,Sargent,0.421196014,Sargent,,,,0.421196014
+2030,North Dakota,Sheridan,0.415590465,Sheridan,,,,0.415590465
+2031,North Dakota,Sioux,0.324624896,Sioux,,,,0.324624896
+2032,North Dakota,Slope,0.581710994,Slope,,,,0.581710994
+2033,North Dakota,Stark,0.31149897,Stark,,,,0.31149897
+2034,North Dakota,Steele,0.583859086,Steele,,,,0.583859086
+2035,North Dakota,Stutsman,0.427328885,Stutsman,,,,0.427328885
+2036,North Dakota,Towner,0.449907929,Towner,,,,0.449907929
+2037,North Dakota,Traill,0.479789495,Traill,,,,0.479789495
+2038,North Dakota,Walsh,0.358858228,Walsh,,,,0.358858228
+2039,North Dakota,Ward,0.343991011,Ward,,,,0.343991011
+2040,North Dakota,Wells,0.472941786,Wells,,,,0.472941786
+2041,North Dakota,Williams,0.286492676,Williams,,,,0.286492676
+2042,Ohio,Adams,0.648098171,Adams,,,,0.648098171
+2043,Ohio,Allen,0.607598722,Allen,,,,0.607598722
+2044,Ohio,Ashland,0.534814596,Ashland,,,,0.534814596
+2045,Ohio,Ashtabula,0.63420409,Ashtabula,,,,0.63420409
+2046,Ohio,Athens,0.682411969,Athens,,,,0.682411969
+2047,Ohio,Auglaize,0.547988772,Auglaize,,,,0.547988772
+2048,Ohio,Belmont,0.6579808,Belmont,,,,0.6579808
+2049,Ohio,Brown,0.653592587,Brown,,,,0.653592587
+2050,Ohio,Butler,0.592651546,Butler,,,,0.592651546
+2051,Ohio,Carroll,0.610441685,Carroll,,,,0.610441685
+2052,Ohio,Champaign,0.55375886,Champaign,,,,0.55375886
+2053,Ohio,Clark,0.644127727,Clark,,,,0.644127727
+2054,Ohio,Clermont,0.610892236,Clermont,,,,0.610892236
+2055,Ohio,Clinton,0.566968441,Clinton,,,,0.566968441
+2056,Ohio,Columbiana,0.649418294,Columbiana,,,,0.649418294
+2057,Ohio,Coshocton,0.600920796,Coshocton,,,,0.600920796
+2058,Ohio,Crawford,0.587343216,Crawford,,,,0.587343216
+2059,Ohio,Cuyahoga,0.660515666,Cuyahoga,,,,0.660515666
+2060,Ohio,Darke,0.471837074,Darke,,,,0.471837074
+2061,Ohio,Defiance,0.523752272,Defiance,,,,0.523752272
+2062,Ohio,Delaware,0.50797689,Delaware,,,,0.50797689
+2063,Ohio,Erie,0.663090944,Erie,,,,0.663090944
+2064,Ohio,Fairfield,0.538863778,Fairfield,,,,0.538863778
+2065,Ohio,Fayette,0.564259112,Fayette,,,,0.564259112
+2066,Ohio,Franklin,0.552791178,Franklin,,,,0.552791178
+2067,Ohio,Fulton,0.550848424,Fulton,,,,0.550848424
+2068,Ohio,Gallia,0.689873934,Gallia,,,,0.689873934
+2069,Ohio,Geauga,0.609166145,Geauga,,,,0.609166145
+2070,Ohio,Greene,0.627439916,Greene,,,,0.627439916
+2071,Ohio,Guernsey,0.612871826,Guernsey,,,,0.612871826
+2072,Ohio,Hamilton,0.615191042,Hamilton,,,,0.615191042
+2073,Ohio,Hancock,0.63867414,Hancock,,,,0.63867414
+2074,Ohio,Hardin,0.619290352,Hardin,,,,0.619290352
+2075,Ohio,Harrison,0.646039307,Harrison,,,,0.646039307
+2076,Ohio,Henry,0.546099961,Henry,,,,0.546099961
+2077,Ohio,Highland,0.558286607,Highland,,,,0.558286607
+2078,Ohio,Hocking,0.663793802,Hocking,,,,0.663793802
+2079,Ohio,Holmes,0.323567212,Holmes,,,,0.323567212
+2080,Ohio,Huron,0.556332588,Huron,,,,0.556332588
+2081,Ohio,Jackson,0.693070412,Jackson,,,,0.693070412
+2082,Ohio,Jefferson,0.697697341,Jefferson,,,,0.697697341
+2083,Ohio,Knox,0.558801413,Knox,,,,0.558801413
+2084,Ohio,Lake,0.604401946,Lake,,,,0.604401946
+2085,Ohio,Lawrence,0.681449294,Lawrence,,,,0.681449294
+2086,Ohio,Licking,0.597893476,Licking,,,,0.597893476
+2087,Ohio,Logan,0.46447289,Logan,,,,0.46447289
+2088,Ohio,Lorain,0.659274757,Lorain,,,,0.659274757
+2089,Ohio,Lucas,0.668306708,Lucas,,,,0.668306708
+2090,Ohio,Madison,0.614996195,Madison,,,,0.614996195
+2091,Ohio,Mahoning,0.653927803,Mahoning,,,,0.653927803
+2092,Ohio,Marion,0.639642298,Marion,,,,0.639642298
+2093,Ohio,Medina,0.61721915,Medina,,,,0.61721915
+2094,Ohio,Meigs,0.717890859,Meigs,,,,0.717890859
+2095,Ohio,Mercer,0.524977267,Mercer,,,,0.524977267
+2096,Ohio,Miami,0.596364439,Miami,,,,0.596364439
+2097,Ohio,Monroe,0.688556969,Monroe,,,,0.688556969
+2098,Ohio,Montgomery,0.663988233,Montgomery,,,,0.663988233
+2099,Ohio,Morgan,0.684770346,Morgan,,,,0.684770346
+2100,Ohio,Morrow,0.628485084,Morrow,,,,0.628485084
+2101,Ohio,Muskingum,0.661302447,Muskingum,,,,0.661302447
+2102,Ohio,Noble,0.648065507,Noble,,,,0.648065507
+2103,Ohio,Ottawa,0.697581589,Ottawa,,,,0.697581589
+2104,Ohio,Paulding,0.498137027,Paulding,,,,0.498137027
+2105,Ohio,Perry,0.615995467,Perry,,,,0.615995467
+2106,Ohio,Pickaway,0.625889897,Pickaway,,,,0.625889897
+2107,Ohio,Pike,0.657831907,Pike,,,,0.657831907
+2108,Ohio,Portage,0.625624597,Portage,,,,0.625624597
+2109,Ohio,Preble,0.598646879,Preble,,,,0.598646879
+2110,Ohio,Putnam,0.55995959,Putnam,,,,0.55995959
+2111,Ohio,Richland,0.59124434,Richland,,,,0.59124434
+2112,Ohio,Ross,0.66385448,Ross,,,,0.66385448
+2113,Ohio,Sandusky,0.573330224,Sandusky,,,,0.573330224
+2114,Ohio,Scioto,0.685826361,Scioto,,,,0.685826361
+2115,Ohio,Seneca,0.598936081,Seneca,,,,0.598936081
+2116,Ohio,Shelby,0.547094524,Shelby,,,,0.547094524
+2117,Ohio,Stark,0.611138701,Stark,,,,0.611138701
+2118,Ohio,Summit,0.615254104,Summit,,,,0.615254104
+2119,Ohio,Trumbull,0.640465856,Trumbull,,,,0.640465856
+2120,Ohio,Tuscarawas,0.534877002,Tuscarawas,,,,0.534877002
+2121,Ohio,Union,0.514133453,Union,,,,0.514133453
+2122,Ohio,Van,0.628327668,Van,,,,0.628327668
+2123,Ohio,Vinton,0.640058875,Vinton,,,,0.640058875
+2124,Ohio,Warren,0.586308181,Warren,,,,0.586308181
+2125,Ohio,Washington,0.689084232,Washington,,,,0.689084232
+2126,Ohio,Wayne,0.521989465,Wayne,,,,0.521989465
+2127,Ohio,Williams,0.559461653,Williams,,,,0.559461653
+2128,Ohio,Wood,0.583890915,Wood,,,,0.583890915
+2129,Ohio,Wyandot,0.571537375,Wyandot,,,,0.571537375
+2130,Oklahoma,Adair,0.634728849,Adair,,,,0.634728849
+2131,Oklahoma,Alfalfa,0.419935405,Alfalfa,,,,0.419935405
+2132,Oklahoma,Atoka,0.5472157,Atoka,,,,0.5472157
+2133,Oklahoma,Beaver,0.346684366,Beaver,,,,0.346684366
+2134,Oklahoma,Beckham,0.440992802,Beckham,,,,0.440992802
+2135,Oklahoma,Blaine,0.416082233,Blaine,,,,0.416082233
+2136,Oklahoma,Bryan,0.478966326,Bryan,,,,0.478966326
+2137,Oklahoma,Caddo,0.437479049,Caddo,,,,0.437479049
+2138,Oklahoma,Canadian,0.445651531,Canadian,,,,0.445651531
+2139,Oklahoma,Carter,0.446199119,Carter,,,,0.446199119
+2140,Oklahoma,Cherokee,0.609948933,Cherokee,,,,0.609948933
+2141,Oklahoma,Choctaw,0.510294199,Choctaw,,,,0.510294199
+2142,Oklahoma,Cimarron,0.354837716,Cimarron,,,,0.354837716
+2143,Oklahoma,Cleveland,0.47886911,Cleveland,,,,0.47886911
+2144,Oklahoma,Coal,0.548036695,Coal,,,,0.548036695
+2145,Oklahoma,Comanche,0.397703856,Comanche,,,,0.397703856
+2146,Oklahoma,Cotton,0.439889163,Cotton,,,,0.439889163
+2147,Oklahoma,Craig,0.495968878,Craig,,,,0.495968878
+2148,Oklahoma,Creek,0.432047188,Creek,,,,0.432047188
+2149,Oklahoma,Custer,0.345858693,Custer,,,,0.345858693
+2150,Oklahoma,Delaware,0.559600174,Delaware,,,,0.559600174
+2151,Oklahoma,Dewey,0.381446511,Dewey,,,,0.381446511
+2152,Oklahoma,Ellis,0.444653273,Ellis,,,,0.444653273
+2153,Oklahoma,Garfield,0.361690491,Garfield,,,,0.361690491
+2154,Oklahoma,Garvin,0.488523483,Garvin,,,,0.488523483
+2155,Oklahoma,Grady,0.48367548,Grady,,,,0.48367548
+2156,Oklahoma,Grant,0.495494872,Grant,,,,0.495494872
+2157,Oklahoma,Greer,0.441598624,Greer,,,,0.441598624
+2158,Oklahoma,Harmon,0.333775371,Harmon,,,,0.333775371
+2159,Oklahoma,Harper,0.329338938,Harper,,,,0.329338938
+2160,Oklahoma,Haskell,0.541447222,Haskell,,,,0.541447222
+2161,Oklahoma,Hughes,0.666368425,Hughes,,,,0.666368425
+2162,Oklahoma,Jackson,0.322771609,Jackson,,,,0.322771609
+2163,Oklahoma,Jefferson,0.469638675,Jefferson,,,,0.469638675
+2164,Oklahoma,Johnston,0.54138571,Johnston,,,,0.54138571
+2165,Oklahoma,Kay,0.524323702,Kay,,,,0.524323702
+2166,Oklahoma,Kingfisher,0.3756859,Kingfisher,,,,0.3756859
+2167,Oklahoma,Kiowa,0.557226658,Kiowa,,,,0.557226658
+2168,Oklahoma,Latimer,0.635452211,Latimer,,,,0.635452211
+2169,Oklahoma,Le,0.561725259,Le,,,,0.561725259
+2170,Oklahoma,Lincoln,0.523563087,Lincoln,,,,0.523563087
+2171,Oklahoma,Logan,0.59223783,Logan,,,,0.59223783
+2172,Oklahoma,Love,0.448476881,Love,,,,0.448476881
+2173,Oklahoma,McClain,0.427080095,McClain,,,,0.427080095
+2174,Oklahoma,McCurtain,0.553658783,McCurtain,,,,0.553658783
+2175,Oklahoma,McIntosh,0.646955013,McIntosh,,,,0.646955013
+2176,Oklahoma,Major,0.398074239,Major,,,,0.398074239
+2177,Oklahoma,Marshall,0.535780489,Marshall,,,,0.535780489
+2178,Oklahoma,Mayes,0.494783819,Mayes,,,,0.494783819
+2179,Oklahoma,Murray,0.440546244,Murray,,,,0.440546244
+2180,Oklahoma,Muskogee,0.492726952,Muskogee,,,,0.492726952
+2181,Oklahoma,Noble,0.452755958,Noble,,,,0.452755958
+2182,Oklahoma,Nowata,0.624756873,Nowata,,,,0.624756873
+2183,Oklahoma,Okfuskee,0.615516067,Okfuskee,,,,0.615516067
+2184,Oklahoma,Oklahoma,0.406568795,Oklahoma,,,,0.406568795
+2185,Oklahoma,Okmulgee,0.52819699,Okmulgee,,,,0.52819699
+2186,Oklahoma,Osage,0.557190955,Osage,,,,0.557190955
+2187,Oklahoma,Ottawa,0.534323752,Ottawa,,,,0.534323752
+2188,Oklahoma,Pawnee,0.489420891,Pawnee,,,,0.489420891
+2189,Oklahoma,Payne,0.514757991,Payne,,,,0.514757991
+2190,Oklahoma,Pittsburg,0.576477706,Pittsburg,,,,0.576477706
+2191,Oklahoma,Pontotoc,0.495104462,Pontotoc,,,,0.495104462
+2192,Oklahoma,Pottawatomie,0.542968094,Pottawatomie,,,,0.542968094
+2193,Oklahoma,Pushmataha,0.612889647,Pushmataha,,,,0.612889647
+2194,Oklahoma,Roger,0.488186896,Roger,,,,0.488186896
+2195,Oklahoma,Rogers,0.513742447,Rogers,,,,0.513742447
+2196,Oklahoma,Seminole,0.583123505,Seminole,,,,0.583123505
+2197,Oklahoma,Sequoyah,0.61898607,Sequoyah,,,,0.61898607
+2198,Oklahoma,Stephens,0.48216626,Stephens,,,,0.48216626
+2199,Oklahoma,Texas,0.228097677,Texas,,,,0.228097677
+2200,Oklahoma,Tillman,0.583289087,Tillman,,,,0.583289087
+2201,Oklahoma,Tulsa,0.384213388,Tulsa,,,,0.384213388
+2202,Oklahoma,Wagoner,0.507258594,Wagoner,,,,0.507258594
+2203,Oklahoma,Washington,0.518634677,Washington,,,,0.518634677
+2204,Oklahoma,Washita,0.39489463,Washita,,,,0.39489463
+2205,Oklahoma,Woods,0.438536316,Woods,,,,0.438536316
+2206,Oklahoma,Woodward,0.361939818,Woodward,,,,0.361939818
+2207,Oregon,Baker,0.596850574,Baker,,,,0.596850574
+2208,Oregon,Benton,0.595839262,Benton,,,,0.595839262
+2209,Oregon,Clackamas,0.522612751,Clackamas,,,,0.522612751
+2210,Oregon,Clatsop,0.53625989,Clatsop,,,,0.53625989
+2211,Oregon,Columbia,0.53537941,Columbia,,,,0.53537941
+2212,Oregon,Coos,0.59538275,Coos,,,,0.59538275
+2213,Oregon,Crook,0.634325147,Crook,,,,0.634325147
+2214,Oregon,Curry,0.671060562,Curry,,,,0.671060562
+2215,Oregon,Deschutes,0.520374238,Deschutes,,,,0.520374238
+2216,Oregon,Douglas,0.642668784,Douglas,,,,0.642668784
+2217,Oregon,Gilliam,0.636536121,Gilliam,,,,0.636536121
+2218,Oregon,Grant,0.62883842,Grant,,,,0.62883842
+2219,Oregon,Harney,0.638234973,Harney,,,,0.638234973
+2220,Oregon,Hood,0.311051756,Hood,,,,0.311051756
+2221,Oregon,Jackson,0.559931397,Jackson,,,,0.559931397
+2222,Oregon,Jefferson,0.611941338,Jefferson,,,,0.611941338
+2223,Oregon,Josephine,0.601736128,Josephine,,,,0.601736128
+2224,Oregon,Klamath,0.538885355,Klamath,,,,0.538885355
+2225,Oregon,Lake,0.614927113,Lake,,,,0.614927113
+2226,Oregon,Lane,0.51952076,Lane,,,,0.51952076
+2227,Oregon,Lincoln,0.611503184,Lincoln,,,,0.611503184
+2228,Oregon,Linn,0.525164843,Linn,,,,0.525164843
+2229,Oregon,Malheur,0.315316349,Malheur,,,,0.315316349
+2230,Oregon,Marion,0.310560167,Marion,,,,0.310560167
+2231,Oregon,Morrow,0.311266869,Morrow,,,,0.311266869
+2232,Oregon,Multnomah,0.520560384,Multnomah,,,,0.520560384
+2233,Oregon,Polk,0.498414844,Polk,,,,0.498414844
+2234,Oregon,Sherman,0.469875455,Sherman,,,,0.469875455
+2235,Oregon,Tillamook,0.485594124,Tillamook,,,,0.485594124
+2236,Oregon,Umatilla,0.369020402,Umatilla,,,,0.369020402
+2237,Oregon,Union,0.462598205,Union,,,,0.462598205
+2238,Oregon,Wallowa,0.569222808,Wallowa,,,,0.569222808
+2239,Oregon,Wasco,0.356458277,Wasco,,,,0.356458277
+2240,Oregon,Washington,0.378319293,Washington,,,,0.378319293
+2241,Oregon,Wheeler,0.762229502,Wheeler,,,,0.762229502
+2242,Oregon,Yamhill,0.503968775,Yamhill,,,,0.503968775
+2243,Pennsylvania,Adams,0.541611552,Adams,,,,0.541611552
+2244,Pennsylvania,Allegheny,0.703713119,Allegheny,,,,0.703713119
+2245,Pennsylvania,Armstrong,0.626235485,Armstrong,,,,0.626235485
+2246,Pennsylvania,Beaver,0.692650557,Beaver,,,,0.692650557
+2247,Pennsylvania,Bedford,0.58240813,Bedford,,,,0.58240813
+2248,Pennsylvania,Berks,0.587816834,Berks,,,,0.587816834
+2249,Pennsylvania,Blair,0.61055398,Blair,,,,0.61055398
+2250,Pennsylvania,Bradford,0.553770781,Bradford,,,,0.553770781
+2251,Pennsylvania,Bucks,0.585780919,Bucks,,,,0.585780919
+2252,Pennsylvania,Butler,0.606830716,Butler,,,,0.606830716
+2253,Pennsylvania,Cambria,0.674198508,Cambria,,,,0.674198508
+2254,Pennsylvania,Cameron,0.621087074,Cameron,,,,0.621087074
+2255,Pennsylvania,Carbon,0.553747654,Carbon,,,,0.553747654
+2256,Pennsylvania,Centre,0.600934923,Centre,,,,0.600934923
+2257,Pennsylvania,Chester,0.563298225,Chester,,,,0.563298225
+2258,Pennsylvania,Clarion,0.618007183,Clarion,,,,0.618007183
+2259,Pennsylvania,Clearfield,0.547499418,Clearfield,,,,0.547499418
+2260,Pennsylvania,Clinton,0.550036073,Clinton,,,,0.550036073
+2261,Pennsylvania,Columbia,0.607493162,Columbia,,,,0.607493162
+2262,Pennsylvania,Crawford,0.599112272,Crawford,,,,0.599112272
+2263,Pennsylvania,Cumberland,0.599132299,Cumberland,,,,0.599132299
+2264,Pennsylvania,Dauphin,0.475570321,Dauphin,,,,0.475570321
+2265,Pennsylvania,Delaware,0.63455832,Delaware,,,,0.63455832
+2266,Pennsylvania,Elk,0.597321391,Elk,,,,0.597321391
+2267,Pennsylvania,Erie,0.614178538,Erie,,,,0.614178538
+2268,Pennsylvania,Fayette,0.684717834,Fayette,,,,0.684717834
+2269,Pennsylvania,Forest,0.601960421,Forest,,,,0.601960421
+2270,Pennsylvania,Franklin,0.517603874,Franklin,,,,0.517603874
+2271,Pennsylvania,Fulton,0.599045217,Fulton,,,,0.599045217
+2272,Pennsylvania,Greene,0.576681316,Greene,,,,0.576681316
+2273,Pennsylvania,Huntingdon,0.648038924,Huntingdon,,,,0.648038924
+2274,Pennsylvania,Indiana,0.610898197,Indiana,,,,0.610898197
+2275,Pennsylvania,Jefferson,0.581567883,Jefferson,,,,0.581567883
+2276,Pennsylvania,Juniata,0.486289263,Juniata,,,,0.486289263
+2277,Pennsylvania,Lackawanna,0.600700617,Lackawanna,,,,0.600700617
+2278,Pennsylvania,Lancaster,0.391726017,Lancaster,,,,0.391726017
+2279,Pennsylvania,Lawrence,0.654747725,Lawrence,,,,0.654747725
+2280,Pennsylvania,Lebanon,0.456198841,Lebanon,,,,0.456198841
+2281,Pennsylvania,Lehigh,0.477308124,Lehigh,,,,0.477308124
+2282,Pennsylvania,Luzerne,0.608735144,Luzerne,,,,0.608735144
+2283,Pennsylvania,Lycoming,0.595902324,Lycoming,,,,0.595902324
+2284,Pennsylvania,McKean,0.591546893,McKean,,,,0.591546893
+2285,Pennsylvania,Mercer,0.66277796,Mercer,,,,0.66277796
+2286,Pennsylvania,Mifflin,0.573007166,Mifflin,,,,0.573007166
+2287,Pennsylvania,Monroe,0.555320799,Monroe,,,,0.555320799
+2288,Pennsylvania,Montgomery,0.636735439,Montgomery,,,,0.636735439
+2289,Pennsylvania,Montour,0.561768293,Montour,,,,0.561768293
+2290,Pennsylvania,Northampton,0.599569857,Northampton,,,,0.599569857
+2291,Pennsylvania,Northumberland,0.599674106,Northumberland,,,,0.599674106
+2292,Pennsylvania,Perry,0.449794531,Perry,,,,0.449794531
+2293,Pennsylvania,Philadelphia,0.637315214,Philadelphia,,,,0.637315214
+2294,Pennsylvania,Pike,0.618771732,Pike,,,,0.618771732
+2295,Pennsylvania,Potter,0.577755094,Potter,,,,0.577755094
+2296,Pennsylvania,Schuylkill,0.578835845,Schuylkill,,,,0.578835845
+2297,Pennsylvania,Snyder,0.479354113,Snyder,,,,0.479354113
+2298,Pennsylvania,Somerset,0.572863996,Somerset,,,,0.572863996
+2299,Pennsylvania,Sullivan,0.695153952,Sullivan,,,,0.695153952
+2300,Pennsylvania,Susquehanna,0.617012024,Susquehanna,,,,0.617012024
+2301,Pennsylvania,Tioga,0.581955552,Tioga,,,,0.581955552
+2302,Pennsylvania,Union,0.462893814,Union,,,,0.462893814
+2303,Pennsylvania,Venango,0.640823424,Venango,,,,0.640823424
+2304,Pennsylvania,Warren,0.633220553,Warren,,,,0.633220553
+2305,Pennsylvania,Washington,0.653542876,Washington,,,,0.653542876
+2306,Pennsylvania,Wayne,0.648788095,Wayne,,,,0.648788095
+2307,Pennsylvania,Westmoreland,0.720654428,Westmoreland,,,,0.720654428
+2308,Pennsylvania,Wyoming,0.611156583,Wyoming,,,,0.611156583
+2309,Pennsylvania,York,0.568369865,York,,,,0.568369865
+2310,Rhode Island,Bristol,0.601730764,Bristol,,,,0.601730764
+2311,Rhode Island,Kent,0.620493948,Kent,,,,0.620493948
+2312,Rhode Island,Newport,0.651494682,Newport,,,,0.651494682
+2313,Rhode Island,Providence,0.506354928,Providence,,,,0.506354928
+2314,Rhode Island,Washington,0.651284993,Washington,,,,0.651284993
+2315,South Carolina,Abbeville,0.641156077,Abbeville,,,,0.641156077
+2316,South Carolina,Aiken,0.559988678,Aiken,,,,0.559988678
+2317,South Carolina,Allendale,0.688620865,Allendale,,,,0.688620865
+2318,South Carolina,Anderson,0.555057108,Anderson,,,,0.555057108
+2319,South Carolina,Bamberg,0.708818853,Bamberg,,,,0.708818853
+2320,South Carolina,Barnwell,0.664966464,Barnwell,,,,0.664966464
+2321,South Carolina,Beaufort,0.563669503,Beaufort,,,,0.563669503
+2322,South Carolina,Berkeley,0.555739164,Berkeley,,,,0.555739164
+2323,South Carolina,Calhoun,0.622299552,Calhoun,,,,0.622299552
+2324,South Carolina,Charleston,0.563000143,Charleston,,,,0.563000143
+2325,South Carolina,Cherokee,0.579727948,Cherokee,,,,0.579727948
+2326,South Carolina,Chester,0.573215365,Chester,,,,0.573215365
+2327,South Carolina,Chesterfield,0.591123223,Chesterfield,,,,0.591123223
+2328,South Carolina,Clarendon,0.658364713,Clarendon,,,,0.658364713
+2329,South Carolina,Colleton,0.651217461,Colleton,,,,0.651217461
+2330,South Carolina,Darlington,0.617121637,Darlington,,,,0.617121637
+2331,South Carolina,Dillon,0.691277921,Dillon,,,,0.691277921
+2332,South Carolina,Dorchester,0.49487254,Dorchester,,,,0.49487254
+2333,South Carolina,Edgefield,0.620037258,Edgefield,,,,0.620037258
+2334,South Carolina,Fairfield,0.693900943,Fairfield,,,,0.693900943
+2335,South Carolina,Florence,0.575523973,Florence,,,,0.575523973
+2336,South Carolina,Georgetown,0.654100776,Georgetown,,,,0.654100776
+2337,South Carolina,Greenville,0.408741683,Greenville,,,,0.408741683
+2338,South Carolina,Greenwood,0.549170911,Greenwood,,,,0.549170911
+2339,South Carolina,Hampton,0.595130503,Hampton,,,,0.595130503
+2340,South Carolina,Horry,0.640207708,Horry,,,,0.640207708
+2341,South Carolina,Jasper,0.610759676,Jasper,,,,0.610759676
+2342,South Carolina,Kershaw,0.564658463,Kershaw,,,,0.564658463
+2343,South Carolina,Lancaster,0.595770776,Lancaster,,,,0.595770776
+2344,South Carolina,Laurens,0.5480721,Laurens,,,,0.5480721
+2345,South Carolina,Lee,0.657833278,Lee,,,,0.657833278
+2346,South Carolina,Lexington,0.547259629,Lexington,,,,0.547259629
+2347,South Carolina,McCormick,0.725000679,McCormick,,,,0.725000679
+2348,South Carolina,Marion,0.705126703,Marion,,,,0.705126703
+2349,South Carolina,Marlboro,0.630310714,Marlboro,,,,0.630310714
+2350,South Carolina,Newberry,0.501199126,Newberry,,,,0.501199126
+2351,South Carolina,Oconee,0.546106875,Oconee,,,,0.546106875
+2352,South Carolina,Orangeburg,0.626320541,Orangeburg,,,,0.626320541
+2353,South Carolina,Pickens,0.542156398,Pickens,,,,0.542156398
+2354,South Carolina,Richland,0.508612394,Richland,,,,0.508612394
+2355,South Carolina,Saluda,0.518784821,Saluda,,,,0.518784821
+2356,South Carolina,Spartanburg,0.556914389,Spartanburg,,,,0.556914389
+2357,South Carolina,Sumter,0.513854206,Sumter,,,,0.513854206
+2358,South Carolina,Union,0.546902359,Union,,,,0.546902359
+2359,South Carolina,Williamsburg,0.726818681,Williamsburg,,,,0.726818681
+2360,South Carolina,York,0.532642901,York,,,,0.532642901
+2361,South Dakota,Aurora,0.520736158,Aurora,,,,0.520736158
+2362,South Dakota,Beadle,0.238337576,Beadle,,,,0.238337576
+2363,South Dakota,Bennett,0.234405696,Bennett,,,,0.234405696
+2364,South Dakota,Bon,0.407574534,Bon,,,,0.407574534
+2365,South Dakota,Brookings,0.37430793,Brookings,,,,0.37430793
+2366,South Dakota,Brown,0.354951322,Brown,,,,0.354951322
+2367,South Dakota,Brule,0.283070385,Brule,,,,0.283070385
+2368,South Dakota,Buffalo,0.258273512,Buffalo,,,,0.258273512
+2369,South Dakota,Butte,0.292540193,Butte,,,,0.292540193
+2370,South Dakota,Campbell,0.595905304,Campbell,,,,0.595905304
+2371,South Dakota,Charles,0.27842766,Charles,,,,0.27842766
+2372,South Dakota,Clark,0.400653511,Clark,,,,0.400653511
+2373,South Dakota,Clay,0.496556252,Clay,,,,0.496556252
+2374,South Dakota,Codington,0.386663824,Codington,,,,0.386663824
+2375,South Dakota,Corson,0.310698867,Corson,,,,0.310698867
+2376,South Dakota,Custer,0.616876662,Custer,,,,0.616876662
+2377,South Dakota,Davison,0.381555587,Davison,,,,0.381555587
+2378,South Dakota,Day,0.437112153,Day,,,,0.437112153
+2379,South Dakota,Deuel,0.370808005,Deuel,,,,0.370808005
+2380,South Dakota,Dewey,0.314105064,Dewey,,,,0.314105064
+2381,South Dakota,Douglas,0.395217866,Douglas,,,,0.395217866
+2382,South Dakota,Edmunds,0.416168362,Edmunds,,,,0.416168362
+2383,South Dakota,Fall,0.504462123,Fall,,,,0.504462123
+2384,South Dakota,Faulk,0.374209136,Faulk,,,,0.374209136
+2385,South Dakota,Grant,0.377110124,Grant,,,,0.377110124
+2386,South Dakota,Gregory,0.43047443,Gregory,,,,0.43047443
+2387,South Dakota,Haakon,0.453350812,Haakon,,,,0.453350812
+2388,South Dakota,Hamlin,0.233861253,Hamlin,,,,0.233861253
+2389,South Dakota,Hand,0.430177003,Hand,,,,0.430177003
+2390,South Dakota,Hanson,0.333987355,Hanson,,,,0.333987355
+2391,South Dakota,Harding,0.416171879,Harding,,,,0.416171879
+2392,South Dakota,Hughes,0.341439098,Hughes,,,,0.341439098
+2393,South Dakota,Hutchinson,0.403766274,Hutchinson,,,,0.403766274
+2394,South Dakota,Hyde,0.475087047,Hyde,,,,0.475087047
+2395,South Dakota,Jackson,0.317927361,Jackson,,,,0.317927361
+2396,South Dakota,Jerauld,0.485795498,Jerauld,,,,0.485795498
+2397,South Dakota,Jones,0.28210929,Jones,,,,0.28210929
+2398,South Dakota,Kingsbury,0.403024018,Kingsbury,,,,0.403024018
+2399,South Dakota,Lake,0.37042287,Lake,,,,0.37042287
+2400,South Dakota,Lawrence,0.469847947,Lawrence,,,,0.469847947
+2401,South Dakota,Lincoln,0.37041381,Lincoln,,,,0.37041381
+2402,South Dakota,Lyman,0.341817379,Lyman,,,,0.341817379
+2403,South Dakota,McCook,0.293215573,McCook,,,,0.293215573
+2404,South Dakota,McPherson,0.454464912,McPherson,,,,0.454464912
+2405,South Dakota,Marshall,0.421584278,Marshall,,,,0.421584278
+2406,South Dakota,Meade,0.37356326,Meade,,,,0.37356326
+2407,South Dakota,Mellette,0.290587038,Mellette,,,,0.290587038
+2408,South Dakota,Miner,0.378188103,Miner,,,,0.378188103
+2409,South Dakota,Minnehaha,0.326282382,Minnehaha,,,,0.326282382
+2410,South Dakota,Moody,0.385730892,Moody,,,,0.385730892
+2411,South Dakota,Pennington,0.357740015,Pennington,,,,0.357740015
+2412,South Dakota,Perkins,0.468606621,Perkins,,,,0.468606621
+2413,South Dakota,Potter,0.479743034,Potter,,,,0.479743034
+2414,South Dakota,Roberts,0.389496654,Roberts,,,,0.389496654
+2415,South Dakota,Sanborn,0.366101503,Sanborn,,,,0.366101503
+2416,South Dakota,Spink,0.443906069,Spink,,,,0.443906069
+2417,South Dakota,Stanley,0.395434231,Stanley,,,,0.395434231
+2418,South Dakota,Sully,0.529055238,Sully,,,,0.529055238
+2419,South Dakota,Todd,0.311372906,Todd,,,,0.311372906
+2420,South Dakota,Tripp,0.36117366,Tripp,,,,0.36117366
+2421,South Dakota,Turner,0.396258026,Turner,,,,0.396258026
+2422,South Dakota,Union,0.411269903,Union,,,,0.411269903
+2423,South Dakota,Walworth,0.470448107,Walworth,,,,0.470448107
+2424,South Dakota,Yankton,0.36484009,Yankton,,,,0.36484009
+2425,South Dakota,Ziebach,0.359633595,Ziebach,,,,0.359633595
+2426,Tennessee,Anderson,0.524192512,Anderson,,,,0.524192512
+2427,Tennessee,Bedford,0.403387249,Bedford,,,,0.403387249
+2428,Tennessee,Benton,0.625229955,Benton,,,,0.625229955
+2429,Tennessee,Bledsoe,0.556671023,Bledsoe,,,,0.556671023
+2430,Tennessee,Blount,0.53312999,Blount,,,,0.53312999
+2431,Tennessee,Bradley,0.5604074,Bradley,,,,0.5604074
+2432,Tennessee,Campbell,0.56102252,Campbell,,,,0.56102252
+2433,Tennessee,Cannon,0.466264546,Cannon,,,,0.466264546
+2434,Tennessee,Carroll,0.547404587,Carroll,,,,0.547404587
+2435,Tennessee,Carter,0.674393177,Carter,,,,0.674393177
+2436,Tennessee,Cheatham,0.433163524,Cheatham,,,,0.433163524
+2437,Tennessee,Chester,0.594001353,Chester,,,,0.594001353
+2438,Tennessee,Claiborne,0.604801714,Claiborne,,,,0.604801714
+2439,Tennessee,Clay,0.581473053,Clay,,,,0.581473053
+2440,Tennessee,Cocke,0.664721787,Cocke,,,,0.664721787
+2441,Tennessee,Coffee,0.49248144,Coffee,,,,0.49248144
+2442,Tennessee,Crockett,0.437386751,Crockett,,,,0.437386751
+2443,Tennessee,Cumberland,0.65444237,Cumberland,,,,0.65444237
+2444,Tennessee,Davidson,0.536044538,Davidson,,,,0.536044538
+2445,Tennessee,Decatur,0.607101977,Decatur,,,,0.607101977
+2446,Tennessee,DeKalb,0.530761719,DeKalb,,,,0.530761719
+2447,Tennessee,Dickson,0.491429836,Dickson,,,,0.491429836
+2448,Tennessee,Dyer,0.551138937,Dyer,,,,0.551138937
+2449,Tennessee,Fayette,0.518900514,Fayette,,,,0.518900514
+2450,Tennessee,Fentress,0.579812109,Fentress,,,,0.579812109
+2451,Tennessee,Franklin,0.590272427,Franklin,,,,0.590272427
+2452,Tennessee,Gibson,0.51155901,Gibson,,,,0.51155901
+2453,Tennessee,Giles,0.503627241,Giles,,,,0.503627241
+2454,Tennessee,Grainger,0.560879171,Grainger,,,,0.560879171
+2455,Tennessee,Greene,0.654619455,Greene,,,,0.654619455
+2456,Tennessee,Grundy,0.688796103,Grundy,,,,0.688796103
+2457,Tennessee,Hamblen,0.510793269,Hamblen,,,,0.510793269
+2458,Tennessee,Hamilton,0.585441828,Hamilton,,,,0.585441828
+2459,Tennessee,Hancock,0.665304661,Hancock,,,,0.665304661
+2460,Tennessee,Hardeman,0.663099706,Hardeman,,,,0.663099706
+2461,Tennessee,Hardin,0.555661678,Hardin,,,,0.555661678
+2462,Tennessee,Hawkins,0.610559404,Hawkins,,,,0.610559404
+2463,Tennessee,Haywood,0.509531975,Haywood,,,,0.509531975
+2464,Tennessee,Henderson,0.62758249,Henderson,,,,0.62758249
+2465,Tennessee,Henry,0.633381844,Henry,,,,0.633381844
+2466,Tennessee,Hickman,0.593181074,Hickman,,,,0.593181074
+2467,Tennessee,Houston,0.532483876,Houston,,,,0.532483876
+2468,Tennessee,Humphreys,0.486659795,Humphreys,,,,0.486659795
+2469,Tennessee,Jackson,0.613902152,Jackson,,,,0.613902152
+2470,Tennessee,Jefferson,0.522386968,Jefferson,,,,0.522386968
+2471,Tennessee,Johnson,0.618938863,Johnson,,,,0.618938863
+2472,Tennessee,Knox,0.527600944,Knox,,,,0.527600944
+2473,Tennessee,Lake,0.568508327,Lake,,,,0.568508327
+2474,Tennessee,Lauderdale,0.563349903,Lauderdale,,,,0.563349903
+2475,Tennessee,Lawrence,0.540646315,Lawrence,,,,0.540646315
+2476,Tennessee,Lewis,0.627905726,Lewis,,,,0.627905726
+2477,Tennessee,Lincoln,0.558575869,Lincoln,,,,0.558575869
+2478,Tennessee,Loudon,0.572490811,Loudon,,,,0.572490811
+2479,Tennessee,McMinn,0.517527521,McMinn,,,,0.517527521
+2480,Tennessee,McNairy,0.581535757,McNairy,,,,0.581535757
+2481,Tennessee,Macon,0.558740854,Macon,,,,0.558740854
+2482,Tennessee,Madison,0.50706166,Madison,,,,0.50706166
+2483,Tennessee,Marion,0.652325094,Marion,,,,0.652325094
+2484,Tennessee,Marshall,0.432324618,Marshall,,,,0.432324618
+2485,Tennessee,Maury,0.448237002,Maury,,,,0.448237002
+2486,Tennessee,Meigs,0.589501023,Meigs,,,,0.589501023
+2487,Tennessee,Monroe,0.478588045,Monroe,,,,0.478588045
+2488,Tennessee,Montgomery,0.487092167,Montgomery,,,,0.487092167
+2489,Tennessee,Moore,0.566935718,Moore,,,,0.566935718
+2490,Tennessee,Morgan,0.654785633,Morgan,,,,0.654785633
+2491,Tennessee,Obion,0.574657023,Obion,,,,0.574657023
+2492,Tennessee,Overton,0.545159876,Overton,,,,0.545159876
+2493,Tennessee,Perry,0.604092002,Perry,,,,0.604092002
+2494,Tennessee,Pickett,0.661702812,Pickett,,,,0.661702812
+2495,Tennessee,Polk,0.561608493,Polk,,,,0.561608493
+2496,Tennessee,Putnam,0.458731711,Putnam,,,,0.458731711
+2497,Tennessee,Rhea,0.625461102,Rhea,,,,0.625461102
+2498,Tennessee,Roane,0.604639888,Roane,,,,0.604639888
+2499,Tennessee,Robertson,0.436776996,Robertson,,,,0.436776996
+2500,Tennessee,Rutherford,0.445693791,Rutherford,,,,0.445693791
+2501,Tennessee,Scott,0.495767057,Scott,,,,0.495767057
+2502,Tennessee,Sequatchie,0.50841558,Sequatchie,,,,0.50841558
+2503,Tennessee,Sevier,0.53307116,Sevier,,,,0.53307116
+2504,Tennessee,Shelby,0.455025733,Shelby,,,,0.455025733
+2505,Tennessee,Smith,0.493878275,Smith,,,,0.493878275
+2506,Tennessee,Stewart,0.533879161,Stewart,,,,0.533879161
+2507,Tennessee,Sullivan,0.629699647,Sullivan,,,,0.629699647
+2508,Tennessee,Sumner,0.445430845,Sumner,,,,0.445430845
+2509,Tennessee,Tipton,0.554059982,Tipton,,,,0.554059982
+2510,Tennessee,Trousdale,0.461947173,Trousdale,,,,0.461947173
+2511,Tennessee,Unicoi,0.638525069,Unicoi,,,,0.638525069
+2512,Tennessee,Union,0.560535192,Union,,,,0.560535192
+2513,Tennessee,Van,0.588716447,Van,,,,0.588716447
+2514,Tennessee,Warren,0.535497785,Warren,,,,0.535497785
+2515,Tennessee,Washington,0.609842658,Washington,,,,0.609842658
+2516,Tennessee,Wayne,0.61725384,Wayne,,,,0.61725384
+2517,Tennessee,Weakley,0.517506838,Weakley,,,,0.517506838
+2518,Tennessee,White,0.608633697,White,,,,0.608633697
+2519,Tennessee,Williamson,0.46360743,Williamson,,,,0.46360743
+2520,Tennessee,Wilson,0.474233955,Wilson,,,,0.474233955
+2521,Texas,Anderson,0.469377935,Anderson,,,,0.469377935
+2522,Texas,Andrews,0.211116239,Andrews,,,,0.211116239
+2523,Texas,Angelina,0.463270247,Angelina,,,,0.463270247
+2524,Texas,Aransas,0.679002881,Aransas,,,,0.679002881
+2525,Texas,Archer,0.523780644,Archer,,,,0.523780644
+2526,Texas,Armstrong,0.558684051,Armstrong,,,,0.558684051
+2527,Texas,Atascosa,0.31075722,Atascosa,,,,0.31075722
+2528,Texas,Austin,0.440080881,Austin,,,,0.440080881
+2529,Texas,Bailey,0.2253135,Bailey,,,,0.2253135
+2530,Texas,Bandera,0.587758303,Bandera,,,,0.587758303
+2531,Texas,Bastrop,0.361212492,Bastrop,,,,0.361212492
+2532,Texas,Baylor,0.523679018,Baylor,,,,0.523679018
+2533,Texas,Bee,0.317419827,Bee,,,,0.317419827
+2534,Texas,Bell,0.401760787,Bell,,,,0.401760787
+2535,Texas,Bexar,0.28400448,Bexar,,,,0.28400448
+2536,Texas,Blanco,0.530576646,Blanco,,,,0.530576646
+2537,Texas,Borden,0.674800336,Borden,,,,0.674800336
+2538,Texas,Bosque,0.474623084,Bosque,,,,0.474623084
+2539,Texas,Bowie,0.592988074,Bowie,,,,0.592988074
+2540,Texas,Brazoria,0.335537106,Brazoria,,,,0.335537106
+2541,Texas,Brazos,0.388497293,Brazos,,,,0.388497293
+2542,Texas,Brewster,0.389776081,Brewster,,,,0.389776081
+2543,Texas,Briscoe,0.544465244,Briscoe,,,,0.544465244
+2544,Texas,Brooks,0.249801248,Brooks,,,,0.249801248
+2545,Texas,Brown,0.54309833,Brown,,,,0.54309833
+2546,Texas,Burleson,0.363301396,Burleson,,,,0.363301396
+2547,Texas,Burnet,0.521592379,Burnet,,,,0.521592379
+2548,Texas,Caldwell,0.284691125,Caldwell,,,,0.284691125
+2549,Texas,Calhoun,0.342255503,Calhoun,,,,0.342255503
+2550,Texas,Callahan,0.539219499,Callahan,,,,0.539219499
+2551,Texas,Cameron,0.230738163,Cameron,,,,0.230738163
+2552,Texas,Camp,0.495174378,Camp,,,,0.495174378
+2553,Texas,Carson,0.516376138,Carson,,,,0.516376138
+2554,Texas,Cass,0.659335494,Cass,,,,0.659335494
+2555,Texas,Castro,0.244632557,Castro,,,,0.244632557
+2556,Texas,Chambers,0.411854655,Chambers,,,,0.411854655
+2557,Texas,Cherokee,0.462270379,Cherokee,,,,0.462270379
+2558,Texas,Childress,0.432054281,Childress,,,,0.432054281
+2559,Texas,Clay,0.652045906,Clay,,,,0.652045906
+2560,Texas,Cochran,0.332794666,Cochran,,,,0.332794666
+2561,Texas,Coke,0.527794123,Coke,,,,0.527794123
+2562,Texas,Coleman,0.570439577,Coleman,,,,0.570439577
+2563,Texas,Collin,0.414517492,Collin,,,,0.414517492
+2564,Texas,Collingsworth,0.303982973,Collingsworth,,,,0.303982973
+2565,Texas,Colorado,0.444938511,Colorado,,,,0.444938511
+2566,Texas,Comal,0.432845235,Comal,,,,0.432845235
+2567,Texas,Comanche,0.512356281,Comanche,,,,0.512356281
+2568,Texas,Concho,0.348243654,Concho,,,,0.348243654
+2569,Texas,Cooke,0.373436272,Cooke,,,,0.373436272
+2570,Texas,Coryell,0.428914994,Coryell,,,,0.428914994
+2571,Texas,Cottle,0.507543087,Cottle,,,,0.507543087
+2572,Texas,Crane,0.220882013,Crane,,,,0.220882013
+2573,Texas,Crockett,0.220187828,Crockett,,,,0.220187828
+2574,Texas,Crosby,0.234066397,Crosby,,,,0.234066397
+2575,Texas,Culberson,0.332935214,Culberson,,,,0.332935214
+2576,Texas,Dallam,0.217363849,Dallam,,,,0.217363849
+2577,Texas,Dallas,0.255004287,Dallas,,,,0.255004287
+2578,Texas,Dawson,0.332434863,Dawson,,,,0.332434863
+2579,Texas,Deaf,0.2074572,Deaf,,,,0.2074572
+2580,Texas,Delta,0.534157515,Delta,,,,0.534157515
+2581,Texas,Denton,0.411883622,Denton,,,,0.411883622
+2582,Texas,DeWitt,0.438893735,DeWitt,,,,0.438893735
+2583,Texas,Dickens,0.398094237,Dickens,,,,0.398094237
+2584,Texas,Dimmit,0.222079843,Dimmit,,,,0.222079843
+2585,Texas,Donley,0.527983308,Donley,,,,0.527983308
+2586,Texas,Duval,0.234808236,Duval,,,,0.234808236
+2587,Texas,Eastland,0.424028307,Eastland,,,,0.424028307
+2588,Texas,Ector,0.21307537,Ector,,,,0.21307537
+2589,Texas,Edwards,0.357079089,Edwards,,,,0.357079089
+2590,Texas,Ellis,0.353086203,Ellis,,,,0.353086203
+2591,Texas,El,0.27984941,El,,,,0.27984941
+2592,Texas,Erath,0.512737751,Erath,,,,0.512737751
+2593,Texas,Falls,0.570418656,Falls,,,,0.570418656
+2594,Texas,Fannin,0.44691655,Fannin,,,,0.44691655
+2595,Texas,Fayette,0.504931271,Fayette,,,,0.504931271
+2596,Texas,Fisher,0.498104125,Fisher,,,,0.498104125
+2597,Texas,Floyd,0.253336102,Floyd,,,,0.253336102
+2598,Texas,Foard,0.537501872,Foard,,,,0.537501872
+2599,Texas,Fort,0.358562648,Fort,,,,0.358562648
+2600,Texas,Franklin,0.568999171,Franklin,,,,0.568999171
+2601,Texas,Freestone,0.617897213,Freestone,,,,0.617897213
+2602,Texas,Frio,0.219108865,Frio,,,,0.219108865
+2603,Texas,Gaines,0.203879058,Gaines,,,,0.203879058
+2604,Texas,Galveston,0.495760411,Galveston,,,,0.495760411
+2605,Texas,Garza,0.234061912,Garza,,,,0.234061912
+2606,Texas,Gillespie,0.380880058,Gillespie,,,,0.380880058
+2607,Texas,Glasscock,0.33735016,Glasscock,,,,0.33735016
+2608,Texas,Goliad,0.523863256,Goliad,,,,0.523863256
+2609,Texas,Gonzales,0.349241704,Gonzales,,,,0.349241704
+2610,Texas,Gray,0.371986806,Gray,,,,0.371986806
+2611,Texas,Grayson,0.491267055,Grayson,,,,0.491267055
+2612,Texas,Gregg,0.390767872,Gregg,,,,0.390767872
+2613,Texas,Grimes,0.516097128,Grimes,,,,0.516097128
+2614,Texas,Guadalupe,0.357907504,Guadalupe,,,,0.357907504
+2615,Texas,Hale,0.225678176,Hale,,,,0.225678176
+2616,Texas,Hall,0.433847278,Hall,,,,0.433847278
+2617,Texas,Hamilton,0.555393219,Hamilton,,,,0.555393219
+2618,Texas,Hansford,0.221035704,Hansford,,,,0.221035704
+2619,Texas,Hardeman,0.483479917,Hardeman,,,,0.483479917
+2620,Texas,Hardin,0.45506224,Hardin,,,,0.45506224
+2621,Texas,Harris,0.328177571,Harris,,,,0.328177571
+2622,Texas,Harrison,0.529730558,Harrison,,,,0.529730558
+2623,Texas,Hartley,0.243525609,Hartley,,,,0.243525609
+2624,Texas,Haskell,0.454197496,Haskell,,,,0.454197496
+2625,Texas,Hays,0.340934604,Hays,,,,0.340934604
+2626,Texas,Hemphill,0.225214735,Hemphill,,,,0.225214735
+2627,Texas,Henderson,0.594284356,Henderson,,,,0.594284356
+2628,Texas,Hidalgo,0.21295996,Hidalgo,,,,0.21295996
+2629,Texas,Hill,0.446556628,Hill,,,,0.446556628
+2630,Texas,Hockley,0.304338068,Hockley,,,,0.304338068
+2631,Texas,Hood,0.468872041,Hood,,,,0.468872041
+2632,Texas,Hopkins,0.430510283,Hopkins,,,,0.430510283
+2633,Texas,Houston,0.579591513,Houston,,,,0.579591513
+2634,Texas,Howard,0.400634408,Howard,,,,0.400634408
+2635,Texas,Hudspeth,0.304229468,Hudspeth,,,,0.304229468
+2636,Texas,Hunt,0.480139434,Hunt,,,,0.480139434
+2637,Texas,Hutchinson,0.457881629,Hutchinson,,,,0.457881629
+2638,Texas,Irion,0.482617319,Irion,,,,0.482617319
+2639,Texas,Jack,0.43954587,Jack,,,,0.43954587
+2640,Texas,Jackson,0.386332989,Jackson,,,,0.386332989
+2641,Texas,Jasper,0.534381032,Jasper,,,,0.534381032
+2642,Texas,Jeff,0.463813901,Jeff,,,,0.463813901
+2643,Texas,Jefferson,0.509754956,Jefferson,,,,0.509754956
+2644,Texas,Jim,0.216888532,Jim,,,,0.216888532
+2645,Texas,Jim,0.23538357,Jim,,,,0.23538357
+2646,Texas,Johnson,0.385184348,Johnson,,,,0.385184348
+2647,Texas,Jones,0.51256156,Jones,,,,0.51256156
+2648,Texas,Karnes,0.242660388,Karnes,,,,0.242660388
+2649,Texas,Kaufman,0.346525818,Kaufman,,,,0.346525818
+2650,Texas,Kendall,0.40824151,Kendall,,,,0.40824151
+2651,Texas,Kenedy,0.201917827,Kenedy,,,,0.201917827
+2652,Texas,Kent,0.527407169,Kent,,,,0.527407169
+2653,Texas,Kerr,0.575090408,Kerr,,,,0.575090408
+2654,Texas,Kimble,0.510253847,Kimble,,,,0.510253847
+2655,Texas,King,0.328330904,King,,,,0.328330904
+2656,Texas,Kinney,0.361495733,Kinney,,,,0.361495733
+2657,Texas,Kleberg,0.231621608,Kleberg,,,,0.231621608
+2658,Texas,Knox,0.376313388,Knox,,,,0.376313388
+2659,Texas,Lamar,0.542790651,Lamar,,,,0.542790651
+2660,Texas,Lamb,0.354532838,Lamb,,,,0.354532838
+2661,Texas,Lampasas,0.416234106,Lampasas,,,,0.416234106
+2662,Texas,La,0.211377427,La,,,,0.211377427
+2663,Texas,Lavaca,0.5371418,Lavaca,,,,0.5371418
+2664,Texas,Lee,0.494075507,Lee,,,,0.494075507
+2665,Texas,Leon,0.568971336,Leon,,,,0.568971336
+2666,Texas,Liberty,0.466775388,Liberty,,,,0.466775388
+2667,Texas,Limestone,0.639637291,Limestone,,,,0.639637291
+2668,Texas,Lipscomb,0.286625266,Lipscomb,,,,0.286625266
+2669,Texas,Live,0.449678868,Live,,,,0.449678868
+2670,Texas,Llano,0.615326703,Llano,,,,0.615326703
+2671,Texas,Loving,0.368785143,Loving,,,,0.368785143
+2672,Texas,Lubbock,0.351972938,Lubbock,,,,0.351972938
+2673,Texas,Lynn,0.37701115,Lynn,,,,0.37701115
+2674,Texas,McCulloch,0.472501069,McCulloch,,,,0.472501069
+2675,Texas,McLennan,0.344502628,McLennan,,,,0.344502628
+2676,Texas,McMullen,0.401382267,McMullen,,,,0.401382267
+2677,Texas,Madison,0.436153859,Madison,,,,0.436153859
+2678,Texas,Marion,0.71318382,Marion,,,,0.71318382
+2679,Texas,Martin,0.22092022,Martin,,,,0.22092022
+2680,Texas,Mason,0.425380945,Mason,,,,0.425380945
+2681,Texas,Matagorda,0.339788049,Matagorda,,,,0.339788049
+2682,Texas,Maverick,0.223032489,Maverick,,,,0.223032489
+2683,Texas,Medina,0.355014443,Medina,,,,0.355014443
+2684,Texas,Menard,0.399710178,Menard,,,,0.399710178
+2685,Texas,Midland,0.249329865,Midland,,,,0.249329865
+2686,Texas,Milam,0.437499315,Milam,,,,0.437499315
+2687,Texas,Mills,0.489013255,Mills,,,,0.489013255
+2688,Texas,Mitchell,0.318863273,Mitchell,,,,0.318863273
+2689,Texas,Montague,0.510117888,Montague,,,,0.510117888
+2690,Texas,Montgomery,0.401450694,Montgomery,,,,0.401450694
+2691,Texas,Moore,0.208034068,Moore,,,,0.208034068
+2692,Texas,Morris,0.548020124,Morris,,,,0.548020124
+2693,Texas,Motley,0.582157731,Motley,,,,0.582157731
+2694,Texas,Nacogdoches,0.466249555,Nacogdoches,,,,0.466249555
+2695,Texas,Navarro,0.356332183,Navarro,,,,0.356332183
+2696,Texas,Newton,0.684062362,Newton,,,,0.684062362
+2697,Texas,Nolan,0.424270451,Nolan,,,,0.424270451
+2698,Texas,Nueces,0.312941641,Nueces,,,,0.312941641
+2699,Texas,Ochiltree,0.279445499,Ochiltree,,,,0.279445499
+2700,Texas,Oldham,0.351142347,Oldham,,,,0.351142347
+2701,Texas,Orange,0.605525374,Orange,,,,0.605525374
+2702,Texas,Palo,0.419365972,Palo,,,,0.419365972
+2703,Texas,Panola,0.575001299,Panola,,,,0.575001299
+2704,Texas,Parker,0.375507265,Parker,,,,0.375507265
+2705,Texas,Parmer,0.221907586,Parmer,,,,0.221907586
+2706,Texas,Pecos,0.234251395,Pecos,,,,0.234251395
+2707,Texas,Polk,0.572692454,Polk,,,,0.572692454
+2708,Texas,Potter,0.252277106,Potter,,,,0.252277106
+2709,Texas,Presidio,0.314999342,Presidio,,,,0.314999342
+2710,Texas,Rains,0.653537631,Rains,,,,0.653537631
+2711,Texas,Randall,0.47163859,Randall,,,,0.47163859
+2712,Texas,Reagan,0.21239917,Reagan,,,,0.21239917
+2713,Texas,Real,0.538262904,Real,,,,0.538262904
+2714,Texas,Red,0.665445268,Red,,,,0.665445268
+2715,Texas,Reeves,0.230395526,Reeves,,,,0.230395526
+2716,Texas,Refugio,0.401344687,Refugio,,,,0.401344687
+2717,Texas,Roberts,0.430807084,Roberts,,,,0.430807084
+2718,Texas,Robertson,0.558376729,Robertson,,,,0.558376729
+2719,Texas,Rockwall,0.471951872,Rockwall,,,,0.471951872
+2720,Texas,Runnels,0.438777477,Runnels,,,,0.438777477
+2721,Texas,Rusk,0.518096387,Rusk,,,,0.518096387
+2722,Texas,Sabine,0.646974862,Sabine,,,,0.646974862
+2723,Texas,San,0.761669755,San,,,,0.761669755
+2724,Texas,San,0.530455112,San,,,,0.530455112
+2725,Texas,San,0.281655163,San,,,,0.281655163
+2726,Texas,San,0.364308596,San,,,,0.364308596
+2727,Texas,Schleicher,0.272032887,Schleicher,,,,0.272032887
+2728,Texas,Scurry,0.342187792,Scurry,,,,0.342187792
+2729,Texas,Shackelford,0.527039945,Shackelford,,,,0.527039945
+2730,Texas,Shelby,0.478139967,Shelby,,,,0.478139967
+2731,Texas,Sherman,0.234281868,Sherman,,,,0.234281868
+2732,Texas,Smith,0.474420398,Smith,,,,0.474420398
+2733,Texas,Somervell,0.39501074,Somervell,,,,0.39501074
+2734,Texas,Starr,0.217375338,Starr,,,,0.217375338
+2735,Texas,Stephens,0.496972501,Stephens,,,,0.496972501
+2736,Texas,Sterling,0.34181422,Sterling,,,,0.34181422
+2737,Texas,Stonewall,0.488463014,Stonewall,,,,0.488463014
+2738,Texas,Sutton,0.241299853,Sutton,,,,0.241299853
+2739,Texas,Swisher,0.278680116,Swisher,,,,0.278680116
+2740,Texas,Tarrant,0.342771471,Tarrant,,,,0.342771471
+2741,Texas,Taylor,0.344218284,Taylor,,,,0.344218284
+2742,Texas,Terrell,0.543670297,Terrell,,,,0.543670297
+2743,Texas,Terry,0.223881647,Terry,,,,0.223881647
+2744,Texas,Throckmorton,0.468149126,Throckmorton,,,,0.468149126
+2745,Texas,Titus,0.296044528,Titus,,,,0.296044528
+2746,Texas,Tom,0.383751065,Tom,,,,0.383751065
+2747,Texas,Travis,0.368859112,Travis,,,,0.368859112
+2748,Texas,Trinity,0.768928111,Trinity,,,,0.768928111
+2749,Texas,Tyler,0.475350291,Tyler,,,,0.475350291
+2750,Texas,Upshur,0.605900168,Upshur,,,,0.605900168
+2751,Texas,Upton,0.223831788,Upton,,,,0.223831788
+2752,Texas,Uvalde,0.31651932,Uvalde,,,,0.31651932
+2753,Texas,Val,0.220808178,Val,,,,0.220808178
+2754,Texas,Van,0.473638147,Van,,,,0.473638147
+2755,Texas,Victoria,0.420629829,Victoria,,,,0.420629829
+2756,Texas,Walker,0.563291728,Walker,,,,0.563291728
+2757,Texas,Waller,0.364673793,Waller,,,,0.364673793
+2758,Texas,Ward,0.356597453,Ward,,,,0.356597453
+2759,Texas,Washington,0.54044801,Washington,,,,0.54044801
+2760,Texas,Webb,0.204275623,Webb,,,,0.204275623
+2761,Texas,Wharton,0.376259297,Wharton,,,,0.376259297
+2762,Texas,Wheeler,0.310416311,Wheeler,,,,0.310416311
+2763,Texas,Wichita,0.565905869,Wichita,,,,0.565905869
+2764,Texas,Wilbarger,0.429836839,Wilbarger,,,,0.429836839
+2765,Texas,Willacy,0.395230502,Willacy,,,,0.395230502
+2766,Texas,Williamson,0.420946389,Williamson,,,,0.420946389
+2767,Texas,Wilson,0.424711049,Wilson,,,,0.424711049
+2768,Texas,Winkler,0.236544251,Winkler,,,,0.236544251
+2769,Texas,Wise,0.516821623,Wise,,,,0.516821623
+2770,Texas,Wood,0.623140872,Wood,,,,0.623140872
+2771,Texas,Yoakum,0.215535015,Yoakum,,,,0.215535015
+2772,Texas,Young,0.565788031,Young,,,,0.565788031
+2773,Texas,Zapata,0.199084684,Zapata,,,,0.199084684
+2774,Texas,Zavala,0.212550923,Zavala,,,,0.212550923
+2775,Utah,Beaver,0.225909919,Beaver,,,,0.225909919
+2776,Utah,Box,0.23643215,Box,,,,0.23643215
+2777,Utah,Cache,0.22574088,Cache,,,,0.22574088
+2778,Utah,Carbon,0.393998891,Carbon,,,,0.393998891
+2779,Utah,Daggett,0.5101946,Daggett,,,,0.5101946
+2780,Utah,Davis,0.270297021,Davis,,,,0.270297021
+2781,Utah,Duchesne,0.228403628,Duchesne,,,,0.228403628
+2782,Utah,Emery,0.359610349,Emery,,,,0.359610349
+2783,Utah,Garfield,0.428765416,Garfield,,,,0.428765416
+2784,Utah,Grand,0.364363641,Grand,,,,0.364363641
+2785,Utah,Iron,0.267136782,Iron,,,,0.267136782
+2786,Utah,Juab,0.218111396,Juab,,,,0.218111396
+2787,Utah,Kane,0.443345785,Kane,,,,0.443345785
+2788,Utah,Millard,0.251764387,Millard,,,,0.251764387
+2789,Utah,Morgan,0.260694504,Morgan,,,,0.260694504
+2790,Utah,Piute,0.37267521,Piute,,,,0.37267521
+2791,Utah,Rich,0.377147317,Rich,,,,0.377147317
+2792,Utah,Salt,0.276807934,Salt,,,,0.276807934
+2793,Utah,San,0.392140895,San,,,,0.392140895
+2794,Utah,Sanpete,0.304731995,Sanpete,,,,0.304731995
+2795,Utah,Sevier,0.276474208,Sevier,,,,0.276474208
+2796,Utah,Summit,0.30536595,Summit,,,,0.30536595
+2797,Utah,Tooele,0.281616509,Tooele,,,,0.281616509
+2798,Utah,Uintah,0.246442303,Uintah,,,,0.246442303
+2799,Utah,Utah,0.219592839,Utah,,,,0.219592839
+2800,Utah,Wasatch,0.242577583,Wasatch,,,,0.242577583
+2801,Utah,Washington,0.344902545,Washington,,,,0.344902545
+2802,Utah,Wayne,0.328746438,Wayne,,,,0.328746438
+2803,Utah,Weber,0.278348029,Weber,,,,0.278348029
+2804,Vermont,Addison,0.558837712,Addison,,,,0.558837712
+2805,Vermont,Bennington,0.553386509,Bennington,,,,0.553386509
+2806,Vermont,Caledonia,0.435248286,Caledonia,,,,0.435248286
+2807,Vermont,Chittenden,0.518277168,Chittenden,,,,0.518277168
+2808,Vermont,Essex,0.638900638,Essex,,,,0.638900638
+2809,Vermont,Franklin,0.54701823,Franklin,,,,0.54701823
+2810,Vermont,Grand,0.61259532,Grand,,,,0.61259532
+2811,Vermont,Lamoille,0.465607494,Lamoille,,,,0.465607494
+2812,Vermont,Orange,0.590132415,Orange,,,,0.590132415
+2813,Vermont,Orleans,0.568073452,Orleans,,,,0.568073452
+2814,Vermont,Rutland,0.550632298,Rutland,,,,0.550632298
+2815,Vermont,Washington,0.510103047,Washington,,,,0.510103047
+2816,Vermont,Windham,0.47251007,Windham,,,,0.47251007
+2817,Vermont,Windsor,0.579847932,Windsor,,,,0.579847932
+2818,Virginia,Accomack,0.586046934,Accomack,,,,0.586046934
+2819,Virginia,Albemarle,0.495057553,Albemarle,,,,0.495057553
+2820,Virginia,Alleghany,0.624638975,Alleghany,,,,0.624638975
+2821,Virginia,Amelia,0.574900746,Amelia,,,,0.574900746
+2822,Virginia,Amherst,0.601775348,Amherst,,,,0.601775348
+2823,Virginia,Appomattox,0.60986793,Appomattox,,,,0.60986793
+2824,Virginia,Arlington,0.516783714,Arlington,,,,0.516783714
+2825,Virginia,Augusta,0.540741742,Augusta,,,,0.540741742
+2826,Virginia,Bath,0.556119442,Bath,,,,0.556119442
+2827,Virginia,Bedford,0.594719112,Bedford,,,,0.594719112
+2828,Virginia,Bland,0.646024048,Bland,,,,0.646024048
+2829,Virginia,Botetourt,0.612645805,Botetourt,,,,0.612645805
+2830,Virginia,Brunswick,0.688987672,Brunswick,,,,0.688987672
+2831,Virginia,Buchanan,0.581038892,Buchanan,,,,0.581038892
+2832,Virginia,Buckingham,0.576972961,Buckingham,,,,0.576972961
+2833,Virginia,Campbell,0.565440536,Campbell,,,,0.565440536
+2834,Virginia,Caroline,0.556970954,Caroline,,,,0.556970954
+2835,Virginia,Carroll,0.668472648,Carroll,,,,0.668472648
+2836,Virginia,Charles,0.689309895,Charles,,,,0.689309895
+2837,Virginia,Charlotte,0.565176308,Charlotte,,,,0.565176308
+2838,Virginia,Chesterfield,0.565970302,Chesterfield,,,,0.565970302
+2839,Virginia,Clarke,0.520055652,Clarke,,,,0.520055652
+2840,Virginia,Craig,0.549585938,Craig,,,,0.549585938
+2841,Virginia,Culpeper,0.372776985,Culpeper,,,,0.372776985
+2842,Virginia,Cumberland,0.648839533,Cumberland,,,,0.648839533
+2843,Virginia,Dickenson,0.580900013,Dickenson,,,,0.580900013
+2844,Virginia,Dinwiddie,0.603269577,Dinwiddie,,,,0.603269577
+2845,Virginia,Essex,0.542008042,Essex,,,,0.542008042
+2846,Virginia,Fairfax,0.456699729,Fairfax,,,,0.456699729
+2847,Virginia,Fauquier,0.437235266,Fauquier,,,,0.437235266
+2848,Virginia,Floyd,0.506968856,Floyd,,,,0.506968856
+2849,Virginia,Fluvanna,0.645288885,Fluvanna,,,,0.645288885
+2850,Virginia,Franklin,0.597640336,Franklin,,,,0.597640336
+2851,Virginia,Frederick,0.430493414,Frederick,,,,0.430493414
+2852,Virginia,Giles,0.63285315,Giles,,,,0.63285315
+2853,Virginia,Gloucester,0.49974373,Gloucester,,,,0.49974373
+2854,Virginia,Goochland,0.562970698,Goochland,,,,0.562970698
+2855,Virginia,Grayson,0.58986026,Grayson,,,,0.58986026
+2856,Virginia,Greene,0.401469678,Greene,,,,0.401469678
+2857,Virginia,Greensville,0.623754084,Greensville,,,,0.623754084
+2858,Virginia,Halifax,0.662144661,Halifax,,,,0.662144661
+2859,Virginia,Hanover,0.55205071,Hanover,,,,0.55205071
+2860,Virginia,Henrico,0.440000534,Henrico,,,,0.440000534
+2861,Virginia,Henry,0.671512902,Henry,,,,0.671512902
+2862,Virginia,Highland,0.700421989,Highland,,,,0.700421989
+2863,Virginia,Isle,0.567424238,Isle,,,,0.567424238
+2864,Virginia,James,0.625684857,James,,,,0.625684857
+2865,Virginia,King,0.605384111,King,,,,0.605384111
+2866,Virginia,King,0.49044019,King,,,,0.49044019
+2867,Virginia,King,0.579074442,King,,,,0.579074442
+2868,Virginia,Lancaster,0.650205553,Lancaster,,,,0.650205553
+2869,Virginia,Lee,0.663011789,Lee,,,,0.663011789
+2870,Virginia,Loudoun,0.413227916,Loudoun,,,,0.413227916
+2871,Virginia,Louisa,0.551549673,Louisa,,,,0.551549673
+2872,Virginia,Lunenburg,0.513020515,Lunenburg,,,,0.513020515
+2873,Virginia,Madison,0.535677493,Madison,,,,0.535677493
+2874,Virginia,Mathews,0.555072606,Mathews,,,,0.555072606
+2875,Virginia,Mecklenburg,0.676589012,Mecklenburg,,,,0.676589012
+2876,Virginia,Middlesex,0.580092311,Middlesex,,,,0.580092311
+2877,Virginia,Montgomery,0.569016039,Montgomery,,,,0.569016039
+2878,Virginia,Nelson,0.536487639,Nelson,,,,0.536487639
+2879,Virginia,New,0.4850896,New,,,,0.4850896
+2880,Virginia,Northampton,0.589590788,Northampton,,,,0.589590788
+2881,Virginia,Northumberland,0.636596203,Northumberland,,,,0.636596203
+2882,Virginia,Nottoway,0.62680012,Nottoway,,,,0.62680012
+2883,Virginia,Orange,0.542408288,Orange,,,,0.542408288
+2884,Virginia,Page,0.623906374,Page,,,,0.623906374
+2885,Virginia,Patrick,0.677118003,Patrick,,,,0.677118003
+2886,Virginia,Pittsylvania,0.576039195,Pittsylvania,,,,0.576039195
+2887,Virginia,Powhatan,0.611427963,Powhatan,,,,0.611427963
+2888,Virginia,Prince,0.611581326,Prince,,,,0.611581326
+2889,Virginia,Prince,0.514647663,Prince,,,,0.514647663
+2890,Virginia,Prince,0.383218914,Prince,,,,0.383218914
+2891,Virginia,Pulaski,0.599173188,Pulaski,,,,0.599173188
+2892,Virginia,Rappahannock,0.557064295,Rappahannock,,,,0.557064295
+2893,Virginia,Richmond,0.602994323,Richmond,,,,0.602994323
+2894,Virginia,Roanoke,0.57218349,Roanoke,,,,0.57218349
+2895,Virginia,Rockbridge,0.619232357,Rockbridge,,,,0.619232357
+2896,Virginia,Rockingham,0.432717651,Rockingham,,,,0.432717651
+2897,Virginia,Russell,0.655159473,Russell,,,,0.655159473
+2898,Virginia,Scott,0.647554576,Scott,,,,0.647554576
+2899,Virginia,Shenandoah,0.467838943,Shenandoah,,,,0.467838943
+2900,Virginia,Smyth,0.612325549,Smyth,,,,0.612325549
+2901,Virginia,Southampton,0.646782875,Southampton,,,,0.646782875
+2902,Virginia,Spotsylvania,0.449861944,Spotsylvania,,,,0.449861944
+2903,Virginia,Stafford,0.475643456,Stafford,,,,0.475643456
+2904,Virginia,Surry,0.66441232,Surry,,,,0.66441232
+2905,Virginia,Sussex,0.535806835,Sussex,,,,0.535806835
+2906,Virginia,Tazewell,0.576632082,Tazewell,,,,0.576632082
+2907,Virginia,Warren,0.496857345,Warren,,,,0.496857345
+2908,Virginia,Washington,0.67473644,Washington,,,,0.67473644
+2909,Virginia,Westmoreland,0.614809632,Westmoreland,,,,0.614809632
+2910,Virginia,Wise,0.685721517,Wise,,,,0.685721517
+2911,Virginia,Wythe,0.594088912,Wythe,,,,0.594088912
+2912,Virginia,York,0.464633137,York,,,,0.464633137
+2913,Virginia,Alexandria,0.427731633,Alexandria,,,,0.427731633
+2914,Virginia,Bristol,0.627879679,Bristol,,,,0.627879679
+2915,Virginia,Buena,0.487104386,Buena,,,,0.487104386
+2916,Virginia,Charlottesville,0.552636743,Charlottesville,,,,0.552636743
+2917,Virginia,Chesapeake,0.482207149,Chesapeake,,,,0.482207149
+2918,Virginia,Colonial,0.423791856,Colonial,,,,0.423791856
+2919,Virginia,Covington,0.493405819,Covington,,,,0.493405819
+2920,Virginia,Danville,0.555734456,Danville,,,,0.555734456
+2921,Virginia,Emporia,0.486499727,Emporia,,,,0.486499727
+2922,Virginia,Fairfax,0.423520029,Fairfax,,,,0.423520029
+2923,Virginia,Falls,0.439234257,Falls,,,,0.439234257
+2924,Virginia,Franklin,0.507113993,Franklin,,,,0.507113993
+2925,Virginia,Fredericksburg,0.394671619,Fredericksburg,,,,0.394671619
+2926,Virginia,Galax,0.455760151,Galax,,,,0.455760151
+2927,Virginia,Hampton,0.623997986,Hampton,,,,0.623997986
+2928,Virginia,Harrisonburg,0.329455227,Harrisonburg,,,,0.329455227
+2929,Virginia,Hopewell,0.493028522,Hopewell,,,,0.493028522
+2930,Virginia,Lexington,0.614402473,Lexington,,,,0.614402473
+2931,Virginia,Lynchburg,0.510932624,Lynchburg,,,,0.510932624
+2932,Virginia,Manassas,0.250412315,Manassas,,,,0.250412315
+2933,Virginia,Manassas,0.414360791,Manassas,,,,0.414360791
+2934,Virginia,Martinsville,0.532602906,Martinsville,,,,0.532602906
+2935,Virginia,Newport,0.473338217,Newport,,,,0.473338217
+2936,Virginia,Norfolk,0.526644051,Norfolk,,,,0.526644051
+2937,Virginia,Norton,0.544694901,Norton,,,,0.544694901
+2938,Virginia,Petersburg,0.559266984,Petersburg,,,,0.559266984
+2939,Virginia,Poquoson,0.550764203,Poquoson,,,,0.550764203
+2940,Virginia,Portsmouth,0.594324946,Portsmouth,,,,0.594324946
+2941,Virginia,Radford,0.643318951,Radford,,,,0.643318951
+2942,Virginia,Richmond,0.599821329,Richmond,,,,0.599821329
+2943,Virginia,Roanoke,0.480386406,Roanoke,,,,0.480386406
+2944,Virginia,Salem,0.494229466,Salem,,,,0.494229466
+2945,Virginia,Staunton,0.535761118,Staunton,,,,0.535761118
+2946,Virginia,Suffolk,0.553024232,Suffolk,,,,0.553024232
+2947,Virginia,Virginia,0.544691503,Virginia,,,,0.544691503
+2948,Virginia,Waynesboro,0.51798147,Waynesboro,,,,0.51798147
+2949,Virginia,Williamsburg,0.592066824,Williamsburg,,,,0.592066824
+2950,Virginia,Winchester,0.364650756,Winchester,,,,0.364650756
+2951,Washington,Adams,0.185807407,Adams,,,,0.185807407
+2952,Washington,Asotin,0.520770073,Asotin,,,,0.520770073
+2953,Washington,Benton,0.364530414,Benton,,,,0.364530414
+2954,Washington,Chelan,0.28436318,Chelan,,,,0.28436318
+2955,Washington,Clallam,0.630642772,Clallam,,,,0.630642772
+2956,Washington,Clark,0.413168192,Clark,,,,0.413168192
+2957,Washington,Columbia,0.647381902,Columbia,,,,0.647381902
+2958,Washington,Cowlitz,0.444020778,Cowlitz,,,,0.444020778
+2959,Washington,Douglas,0.289726526,Douglas,,,,0.289726526
+2960,Washington,Ferry,0.584362149,Ferry,,,,0.584362149
+2961,Washington,Franklin,0.208127886,Franklin,,,,0.208127886
+2962,Washington,Garfield,0.564135969,Garfield,,,,0.564135969
+2963,Washington,Grant,0.253732294,Grant,,,,0.253732294
+2964,Washington,Grays,0.574817121,Grays,,,,0.574817121
+2965,Washington,Island,0.621918499,Island,,,,0.621918499
+2966,Washington,Jefferson,0.635904849,Jefferson,,,,0.635904849
+2967,Washington,King,0.497873545,King,,,,0.497873545
+2968,Washington,Kitsap,0.448799878,Kitsap,,,,0.448799878
+2969,Washington,Kittitas,0.466994077,Kittitas,,,,0.466994077
+2970,Washington,Klickitat,0.572862029,Klickitat,,,,0.572862029
+2971,Washington,Lewis,0.469758987,Lewis,,,,0.469758987
+2972,Washington,Lincoln,0.523819089,Lincoln,,,,0.523819089
+2973,Washington,Mason,0.601541221,Mason,,,,0.601541221
+2974,Washington,Okanogan,0.400204539,Okanogan,,,,0.400204539
+2975,Washington,Pacific,0.664208591,Pacific,,,,0.664208591
+2976,Washington,Pend,0.66633302,Pend,,,,0.66633302
+2977,Washington,Pierce,0.497981787,Pierce,,,,0.497981787
+2978,Washington,San,0.598607957,San,,,,0.598607957
+2979,Washington,Skagit,0.413648486,Skagit,,,,0.413648486
+2980,Washington,Skamania,0.537184536,Skamania,,,,0.537184536
+2981,Washington,Snohomish,0.489030302,Snohomish,,,,0.489030302
+2982,Washington,Spokane,0.507003963,Spokane,,,,0.507003963
+2983,Washington,Stevens,0.547676206,Stevens,,,,0.547676206
+2984,Washington,Thurston,0.492367983,Thurston,,,,0.492367983
+2985,Washington,Wahkiakum,0.602954984,Wahkiakum,,,,0.602954984
+2986,Washington,Walla,0.379204392,Walla,,,,0.379204392
+2987,Washington,Whatcom,0.549206436,Whatcom,,,,0.549206436
+2988,Washington,Whitman,0.475993633,Whitman,,,,0.475993633
+2989,Washington,Yakima,0.22364229,Yakima,,,,0.22364229
+2990,West Virginia,Barbour,0.707009792,Barbour,,,,0.707009792
+2991,West Virginia,Berkeley,0.629851401,Berkeley,,,,0.629851401
+2992,West Virginia,Boone,0.747108638,Boone,,,,0.747108638
+2993,West Virginia,Braxton,0.662048161,Braxton,,,,0.662048161
+2994,West Virginia,Brooke,0.718796015,Brooke,,,,0.718796015
+2995,West Virginia,Cabell,0.671622932,Cabell,,,,0.671622932
+2996,West Virginia,Calhoun,0.710116506,Calhoun,,,,0.710116506
+2997,West Virginia,Clay,0.667747021,Clay,,,,0.667747021
+2998,West Virginia,Doddridge,0.687865853,Doddridge,,,,0.687865853
+2999,West Virginia,Fayette,0.741500735,Fayette,,,,0.741500735
+3000,West Virginia,Gilmer,0.76410073,Gilmer,,,,0.76410073
+3001,West Virginia,Grant,0.712922633,Grant,,,,0.712922633
+3002,West Virginia,Greenbrier,0.692433655,Greenbrier,,,,0.692433655
+3003,West Virginia,Hampshire,0.674250722,Hampshire,,,,0.674250722
+3004,West Virginia,Hancock,0.706536412,Hancock,,,,0.706536412
+3005,West Virginia,Hardy,0.667970061,Hardy,,,,0.667970061
+3006,West Virginia,Harrison,0.656165063,Harrison,,,,0.656165063
+3007,West Virginia,Jackson,0.678970158,Jackson,,,,0.678970158
+3008,West Virginia,Jefferson,0.519229293,Jefferson,,,,0.519229293
+3009,West Virginia,Kanawha,0.643226862,Kanawha,,,,0.643226862
+3010,West Virginia,Lewis,0.687577188,Lewis,,,,0.687577188
+3011,West Virginia,Lincoln,0.738326252,Lincoln,,,,0.738326252
+3012,West Virginia,Logan,0.759601653,Logan,,,,0.759601653
+3013,West Virginia,McDowell,0.791455984,McDowell,,,,0.791455984
+3014,West Virginia,Marion,0.678113103,Marion,,,,0.678113103
+3015,West Virginia,Marshall,0.703557909,Marshall,,,,0.703557909
+3016,West Virginia,Mason,0.717025399,Mason,,,,0.717025399
+3017,West Virginia,Mercer,0.662133753,Mercer,,,,0.662133753
+3018,West Virginia,Mineral,0.682211816,Mineral,,,,0.682211816
+3019,West Virginia,Mingo,0.750240982,Mingo,,,,0.750240982
+3020,West Virginia,Monongalia,0.614238262,Monongalia,,,,0.614238262
+3021,West Virginia,Monroe,0.705054939,Monroe,,,,0.705054939
+3022,West Virginia,Morgan,0.663189709,Morgan,,,,0.663189709
+3023,West Virginia,Nicholas,0.656536281,Nicholas,,,,0.656536281
+3024,West Virginia,Ohio,0.658699095,Ohio,,,,0.658699095
+3025,West Virginia,Pendleton,0.693199873,Pendleton,,,,0.693199873
+3026,West Virginia,Pleasants,0.674125314,Pleasants,,,,0.674125314
+3027,West Virginia,Pocahontas,0.690575838,Pocahontas,,,,0.690575838
+3028,West Virginia,Preston,0.686286509,Preston,,,,0.686286509
+3029,West Virginia,Putnam,0.572415888,Putnam,,,,0.572415888
+3030,West Virginia,Raleigh,0.695197284,Raleigh,,,,0.695197284
+3031,West Virginia,Randolph,0.658921301,Randolph,,,,0.658921301
+3032,West Virginia,Ritchie,0.648537636,Ritchie,,,,0.648537636
+3033,West Virginia,Roane,0.672122777,Roane,,,,0.672122777
+3034,West Virginia,Summers,0.7079283,Summers,,,,0.7079283
+3035,West Virginia,Taylor,0.656169653,Taylor,,,,0.656169653
+3036,West Virginia,Tucker,0.73413229,Tucker,,,,0.73413229
+3037,West Virginia,Tyler,0.640560925,Tyler,,,,0.640560925
+3038,West Virginia,Upshur,0.674908102,Upshur,,,,0.674908102
+3039,West Virginia,Wayne,0.729802847,Wayne,,,,0.729802847
+3040,West Virginia,Webster,0.685251653,Webster,,,,0.685251653
+3041,West Virginia,Wetzel,0.756994605,Wetzel,,,,0.756994605
+3042,West Virginia,Wirt,0.728390932,Wirt,,,,0.728390932
+3043,West Virginia,Wood,0.648243129,Wood,,,,0.648243129
+3044,West Virginia,Wyoming,0.718894839,Wyoming,,,,0.718894839
+3045,Wisconsin,Adams,0.701600134,Adams,,,,0.701600134
+3046,Wisconsin,Ashland,0.576440573,Ashland,,,,0.576440573
+3047,Wisconsin,Barron,0.589035749,Barron,,,,0.589035749
+3048,Wisconsin,Bayfield,0.694950819,Bayfield,,,,0.694950819
+3049,Wisconsin,Brown,0.547945678,Brown,,,,0.547945678
+3050,Wisconsin,Buffalo,0.549825966,Buffalo,,,,0.549825966
+3051,Wisconsin,Burnett,0.683685422,Burnett,,,,0.683685422
+3052,Wisconsin,Calumet,0.614491701,Calumet,,,,0.614491701
+3053,Wisconsin,Chippewa,0.537905991,Chippewa,,,,0.537905991
+3054,Wisconsin,Clark,0.364442319,Clark,,,,0.364442319
+3055,Wisconsin,Columbia,0.56053102,Columbia,,,,0.56053102
+3056,Wisconsin,Crawford,0.677847505,Crawford,,,,0.677847505
+3057,Wisconsin,Dane,0.557840049,Dane,,,,0.557840049
+3058,Wisconsin,Dodge,0.597688556,Dodge,,,,0.597688556
+3059,Wisconsin,Door,0.670309007,Door,,,,0.670309007
+3060,Wisconsin,Douglas,0.626798809,Douglas,,,,0.626798809
+3061,Wisconsin,Dunn,0.578936875,Dunn,,,,0.578936875
+3062,Wisconsin,Eau,0.589896798,Eau,,,,0.589896798
+3063,Wisconsin,Florence,0.764901161,Florence,,,,0.764901161
+3064,Wisconsin,Fond,0.529274166,Fond,,,,0.529274166
+3065,Wisconsin,Forest,0.642840803,Forest,,,,0.642840803
+3066,Wisconsin,Grant,0.636185348,Grant,,,,0.636185348
+3067,Wisconsin,Green,0.547493219,Green,,,,0.547493219
+3068,Wisconsin,Green,0.530386865,Green,,,,0.530386865
+3069,Wisconsin,Iowa,0.598464191,Iowa,,,,0.598464191
+3070,Wisconsin,Iron,0.749730825,Iron,,,,0.749730825
+3071,Wisconsin,Jackson,0.458895594,Jackson,,,,0.458895594
+3072,Wisconsin,Jefferson,0.535409033,Jefferson,,,,0.535409033
+3073,Wisconsin,Juneau,0.528353035,Juneau,,,,0.528353035
+3074,Wisconsin,Kenosha,0.493859112,Kenosha,,,,0.493859112
+3075,Wisconsin,Kewaunee,0.57325542,Kewaunee,,,,0.57325542
+3076,Wisconsin,La,0.61976558,La,,,,0.61976558
+3077,Wisconsin,Lafayette,0.502059758,Lafayette,,,,0.502059758
+3078,Wisconsin,Langlade,0.625728428,Langlade,,,,0.625728428
+3079,Wisconsin,Lincoln,0.634876966,Lincoln,,,,0.634876966
+3080,Wisconsin,Manitowoc,0.588945091,Manitowoc,,,,0.588945091
+3081,Wisconsin,Marathon,0.546871245,Marathon,,,,0.546871245
+3082,Wisconsin,Marinette,0.62413013,Marinette,,,,0.62413013
+3083,Wisconsin,Marquette,0.678229332,Marquette,,,,0.678229332
+3084,Wisconsin,Menominee,0.586257696,Menominee,,,,0.586257696
+3085,Wisconsin,Milwaukee,0.49798131,Milwaukee,,,,0.49798131
+3086,Wisconsin,Monroe,0.54119128,Monroe,,,,0.54119128
+3087,Wisconsin,Oconto,0.675135076,Oconto,,,,0.675135076
+3088,Wisconsin,Oneida,0.693454504,Oneida,,,,0.693454504
+3089,Wisconsin,Outagamie,0.505533278,Outagamie,,,,0.505533278
+3090,Wisconsin,Ozaukee,0.664022446,Ozaukee,,,,0.664022446
+3091,Wisconsin,Pepin,0.649083674,Pepin,,,,0.649083674
+3092,Wisconsin,Pierce,0.588964641,Pierce,,,,0.588964641
+3093,Wisconsin,Polk,0.589622855,Polk,,,,0.589622855
+3094,Wisconsin,Portage,0.624371946,Portage,,,,0.624371946
+3095,Wisconsin,Price,0.651317537,Price,,,,0.651317537
+3096,Wisconsin,Racine,0.54169333,Racine,,,,0.54169333
+3097,Wisconsin,Richland,0.504217386,Richland,,,,0.504217386
+3098,Wisconsin,Rock,0.559579194,Rock,,,,0.559579194
+3099,Wisconsin,Rusk,0.547121406,Rusk,,,,0.547121406
+3100,Wisconsin,St.,0.597104013,St.,,,,0.597104013
+3101,Wisconsin,Sauk,0.555703819,Sauk,,,,0.555703819
+3102,Wisconsin,Sawyer,0.678224742,Sawyer,,,,0.678224742
+3103,Wisconsin,Shawano,0.585834265,Shawano,,,,0.585834265
+3104,Wisconsin,Sheboygan,0.558001578,Sheboygan,,,,0.558001578
+3105,Wisconsin,Taylor,0.489890188,Taylor,,,,0.489890188
+3106,Wisconsin,Trempealeau,0.47278133,Trempealeau,,,,0.47278133
+3107,Wisconsin,Vernon,0.503527045,Vernon,,,,0.503527045
+3108,Wisconsin,Vilas,0.721164823,Vilas,,,,0.721164823
+3109,Wisconsin,Walworth,0.472589552,Walworth,,,,0.472589552
+3110,Wisconsin,Washburn,0.639145672,Washburn,,,,0.639145672
+3111,Wisconsin,Washington,0.623237371,Washington,,,,0.623237371
+3112,Wisconsin,Waukesha,0.632077038,Waukesha,,,,0.632077038
+3113,Wisconsin,Waupaca,0.607224047,Waupaca,,,,0.607224047
+3114,Wisconsin,Waushara,0.549534321,Waushara,,,,0.549534321
+3115,Wisconsin,Winnebago,0.593845308,Winnebago,,,,0.593845308
+3116,Wisconsin,Wood,0.590308964,Wood,,,,0.590308964
+3117,Wyoming,Albany,0.443769068,Albany,,,,0.443769068
+3118,Wyoming,Big,0.456633031,Big,,,,0.456633031
+3119,Wyoming,Campbell,0.37011227,Campbell,,,,0.37011227
+3120,Wyoming,Carbon,0.363080978,Carbon,,,,0.363080978
+3121,Wyoming,Converse,0.36238429,Converse,,,,0.36238429
+3122,Wyoming,Crook,0.408820719,Crook,,,,0.408820719
+3123,Wyoming,Fremont,0.438744187,Fremont,,,,0.438744187
+3124,Wyoming,Goshen,0.496964306,Goshen,,,,0.496964306
+3125,Wyoming,Hot,0.620745599,Hot,,,,0.620745599
+3126,Wyoming,Johnson,0.471172571,Johnson,,,,0.471172571
+3127,Wyoming,Laramie,0.445847005,Laramie,,,,0.445847005
+3128,Wyoming,Lincoln,0.403880835,Lincoln,,,,0.403880835
+3129,Wyoming,Natrona,0.378502369,Natrona,,,,0.378502369
+3130,Wyoming,Niobrara,0.553404391,Niobrara,,,,0.553404391
+3131,Wyoming,Park,0.491256237,Park,,,,0.491256237
+3132,Wyoming,Platte,0.543261588,Platte,,,,0.543261588
+3133,Wyoming,Sheridan,0.578787684,Sheridan,,,,0.578787684
+3134,Wyoming,Sublette,0.423499703,Sublette,,,,0.423499703
+3135,Wyoming,Sweetwater,0.368148506,Sweetwater,,,,0.368148506
+3136,Wyoming,Teton,0.474115729,Teton,,,,0.474115729
+3137,Wyoming,Uinta,0.381178737,Uinta,,,,0.381178737
+3138,Wyoming,Washakie,0.432191521,Washakie,,,,0.432191521
+3139,Wyoming,Weston,0.501922369,Weston,,,,0.501922369
